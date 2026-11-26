@@ -134,3 +134,12 @@
 .atlas-nearby-list button[aria-current=true] {font-weight:750;background:#fff3c5}
 .stage-instructions,.stage-media {min-width:0}
 @media(min-width:850px){.stage-layout.has-media {display:grid;grid-template-columns:minmax(0,1fr) minmax(270px,.9fr);grid-template-areas:"text media" "nav media";align-items:start;align-content:start;column-gap:1.4rem;grid-template-rows:auto 1fr}.has-media .stage-instructions {grid-area:text}.has-media .stage-nav {grid-area:nav}.has-media .stage-media {grid-area:media}.stage-media .stage-photo {margin:.7rem 0}}
+.route-signs {margin:.65rem 0 .9rem;background:#f7f2df;border:1px solid #d5d0b8;border-radius:14px;padding:.7rem}
+.route-signs figcaption {color:#354839;font-weight:750;font-size:.98rem;margin-bottom:.45rem}
+.route-signs ol {margin:0;padding:0;display:grid;grid-template-columns:repeat(var(--stops),minmax(0,1fr));gap:.65rem;list-style:none}
+.route-signs li {position:relative;min-width:0;text-align:center;line-height:1.25}
+.route-signs svg {display:block;margin:0 auto .22rem;width:min(58px,100%);height:42px}
+.route-signs b,.route-signs small {display:block;overflow-wrap:anywhere;word-break:keep-all;font-size:.98rem}
+.route-signs small {margin-top:.2em;font-weight:500;color:#534f40;font-size:.86rem}
+.route-signs li+li::before {content:'›';position:absolute;top:10px;left:-.55em;color:#6b735d;font-weight:800;font-size:1.15rem}
+.mission-map-step {margin-top:.75rem}.mission-map-step h2 {font-size:1.25rem}.mission-map-step .route-signs {max-width:32rem}

@@ -5,7 +5,7 @@ import {wayfindingIndex,wayfindingLabels} from './wayfinding.mjs';
 import {buildArtMatcher,localArtStore,collectArt,ownPortrait,observeArt,MIME_ACCEPT} from './local-art.mjs';
 import {routeSteps,preparation,extraReferences} from './expanded.mjs';
 import {pressPortrait,initPressImages} from './media.mjs';
-import {guideImage,missionArt,routeTone,mapInset,screenshotRefs,recipeBoard} from './visuals.mjs';
+import {guideImage,missionArt,routeTone,mapInset,landmarkDiagram,screenshotRefs,recipeBoard} from './visuals.mjs';
 import {TYPES,typeIds,isType,html,blankState,normalizeState,STORAGE_KEY,effectiveness,defensiveGroups,recommendTeam} from './core.mjs';
 
 initPressImages();
@@ -388,13 +388,15 @@ function mission(id,stageNumber) {
  const stageUrl=i=>'mission/'+id+'/'+(i+1);
  const target=visibleTarget(stage.point);
  const start=visibleTarget(stage.from);
- const mapUrl=target?'map/'+target.world+'/all/'+target.point.id:'';
+ const context=stage.diagram?.length?'/mission/'+id+'/'+(index+1):'';
+ const mapUrl=target?'map/'+target.world+'/all/'+target.point.id+context:'';
  const world=target&&db.map.worlds.find(w=>w.id===target.world);
  const mapLabel=stage.mapLabel??(target?target.point.title+' 지도 열기':'');
  const map=target?(mapInset(world,target.point,'#'+mapUrl,{from:start?.world===target.world?start.point:null,label:mapLabel})||link(mapUrl,mapLabel)):'';
+ const diagram=landmarkDiagram(stage.diagram);
  const photoSource=stage.photoSource&&safeUrl(stage.photoSource.url);
  const photoUrl=stage.photo?.startsWith('data:image/webp;base64,')?stage.photo:safeUrl(stage.photoUrl);
- const photo=photoUrl?'<figure class="stage-photo"><img src="'+html(photoUrl)+'" alt="'+html(stage.photoAlt??stage.look??stage.title)+'"><figcaption>'+html(stage.photoAlt??stage.title)+(photoSource?' <a class="inline-link" href="'+html(photoSource)+'" target="_blank" rel="noopener noreferrer">사진 출처 ↗</a>':'')+'</figcaption></figure>':'';
+ const photo=photoUrl?'<figure class="stage-photo" hidden><img data-route-scene decoding="async" referrerpolicy="no-referrer" src="'+html(photoUrl)+'" alt="'+html(stage.photoAlt??stage.look??stage.title)+'"><figcaption>'+html(stage.photoAlt??stage.title)+(photoSource?' <a class="inline-link" href="'+html(photoSource)+'" target="_blank" rel="noopener noreferrer">사진 출처 ↗</a>':'')+'</figcaption></figure>':'';
  const cue=stage.cues?.length?`<details class="cue-details"><summary>이 구간에서 찾을 표식</summary>${guideSteps(stage.cues)}</details>`:'';
  const startPrep=directions?.prepare||expanded.check?.join(' · ')||m.prep;
  const battle=stage.battle;
@@ -413,18 +415,27 @@ function mission(id,stageNumber) {
  const skipMap=(index===0&&!map&&!directions?.stages)&&db.map.worlds.filter(w=>showWorld(w.id)).flatMap(w=>w.points.filter(p=>p.mission===id&&visibleTarget(p.id)).map(p=>link('map/'+w.id+'/all/'+p.id,p.title+' 지도'))).slice(0,2).join('');
  return `<header class="route-head"><a href="#adventure">‹ 모험 가이드</a><h1>${html(m.title)}</h1></header>
  <section class="panel route-current" id="route-current" tabindex="-1"><div class="route-position"><span>지금 할 일 · ${index+1} / ${stages.length}</span><label>현재 위치 <select id="mission-stage" aria-label="현재 위치에서 시작">${stages.map((s,i)=>`<option value="${i+1}"${i===index?' selected':''}>${i+1}. ${html(s.title)}</option>`).join('')}</select></label></div>
- <div class="stage-layout${photo||map?' has-media':''}"><div class="stage-instructions"><h2>${html(stage.title)}</h2><p class="stage-action">${html(stage.action)}</p>
+ <div class="stage-layout${diagram||photo||map?' has-media':''}"><div class="stage-instructions"><h2>${html(stage.title)}</h2><p class="stage-action">${html(stage.action)}</p>
  ${stage.look?`<p class="stage-look"><strong>게임에서 찾기</strong> ${html(stage.look)}</p>`:''}
  ${index===0&&startPrep?`<p class="stage-pack"><strong>출발 전 준비</strong> ${html(startPrep)}</p>`:''}
  ${challenge}${cue}${recovery?`<p class="stage-recovery"><strong>길을 놓쳤다면</strong> ${html(recovery)}</p>`:''}
  ${skipMap?`<div class="actions">${skipMap}</div>`:''}
- </div>${photo||map?`<div class="stage-media">${photo}${map}</div>`:''}<div class="actions stage-nav">${index?link(stageUrl(index-1),'‹ 이전 단계'):''}${next||mark}${button('speak','이 단계 듣기',[stage.title,stage.action,stage.look,index===0?startPrep:'',recovery].filter(Boolean).join('. '))}</div></div></section>
+ </div>${diagram||photo||map?`<div class="stage-media">${diagram}${photo}${map}</div>`:''}<div class="actions stage-nav">${index?link(stageUrl(index-1),'‹ 이전 단계'):''}${next||mark}${button('speak','이 단계 듣기',[stage.title,stage.action,stage.look,index===0?startPrep:'',recovery].filter(Boolean).join('. '))}</div></div></section>
  ${m.id==='intro'&&index===1?`<section class="panel"><h2>함께 출발할 친구</h2><div class="dex-grid starter-grid">${m.recommendations.map(id=>pokeCard(getPokemon(id),'paldea')).join('')}</div></section>`:''}
  ${solution}${extras}
  <section class="panel mission-finish" id="mission-finish" tabindex="-1"><h2>${end?'완료했어요 ✓':'모험을 마치면'}</h2><p><b>보상</b> ${html(expanded.reward??m.reward)}</p>${m.next?`<p><b>다음 목적지</b> ${html(m.next)}</p>`:''}
  <div class="actions">${nextStops(m)}${index<stages.length-1?mark:''}</div></section>
  ${prereqs.length?`<details class="section"><summary>이 모험 전에 할 일</summary><div class="actions">${prereqs.join('')}</div></details>`:''}
  ${extraReferences(expanded,safeUrl)}${provenance({guides:directions?.sources??[]},['guides'])}${provenance(db.adventure.sources,m.sources)}`;
+}
+function missionMapReturn(active){
+ const [, , ,point,mode,id,number]=path();
+ if(mode!=='mission'||active?.id!==point)return '';
+ const m=missions.get(id);
+ const stage=wayfinding.missions[id]?.stages?.[Number(number)-1];
+ if(!showMission(m)||stage?.point!==point||!stage?.diagram?.length)return '';
+ if(m.spoiler&&!store.settings.spoilers&&!store.completed.includes(id)&&!revealed.has('mission:'+id))return '';
+ return `<section class="panel mission-map-step"><h2>${html(stage.title)}</h2><p>${html(stage.look)}</p>${landmarkDiagram(stage.diagram)}${link('mission/'+id+'/'+number,'이 단계로 돌아가기')}</section>`;
 }
 function mapView(id,filter,selected) {
  const worlds=db.map.worlds.filter(w=>showWorld(w.id));
@@ -474,7 +485,7 @@ function mapView(id,filter,selected) {
  ${current==='stake'?`<div class="filters stake-filters">${chip('map/'+world.id+'/stake','모든 색',!stakeColor)}${Object.entries(stakeColors).map(([key,name])=>chip('map/'+world.id+'/stake/'+key,name+' '+world.points.filter(p=>p.id.startsWith('stake-'+key+'-')&&found(p)).length+'/8',stakeColor===key)).join('')}</div>`:''}
  ${encounterMapNote(world,habitat,active)}
  ${speciesCells?`<div class="habitat-legend"><b>▧ ${html(habitat.name)} · 야생 출현 구역</b><p>${cells.length?'빗금은 야생 출현 기록이 있는 곳 주변이에요. 풀밭·물가·동굴과 시간에 따라 만날 수 있어요.':'이 버전에서 확인한 일반 야생 출현 구역이 없어요.'}</p><div class="filters">${['scarlet','violet'].map(v=>chip('map/'+world.id+'/habitat/'+habitat.id+'/'+v+(path()[5]?'/'+encodeURIComponent(path()[5]):''),versions[v],game===v)).join('')}${link('pokemon/'+habitat.id+'/where','포획 방법 보기')}</div></div>`:''}
- <div class="section map-layout atlas-layout"><div>${atlasView(world,pins,active,icon,label,found,cells,current==='all'&&!ui.mapQuery)}${active?`<div class="atlas-selected">${html(active.title)} · ${html(active.nativeRole??'지역 안내')} ${button('map-read','장소 설명 보기')}</div>`:''}</div>
+ <div class="section map-layout atlas-layout"><div>${atlasView(world,pins,active,icon,label,found,cells,current==='all'&&!ui.mapQuery)}${active?`<div class="atlas-selected">${html(active.title)} · ${html(active.nativeRole??'지역 안내')} ${button('map-read','장소 설명 보기')}</div>`:''}${missionMapReturn(active)}</div>
  <div class="map-list" aria-label="장소 목록">${points.length?points.map(p=>`<button class="${p.id===active?.id?'active':''}" data-act="map-point" data-value="${html(p.id)}">${icon(p)} ${html(p.title)}${found(p)?' ✓':''}<small>${label(p)} · ${html(p.nativeRole??'지역 안내')}</small></button>`).join(''):empty('표시할 장소가 없어요.')}</div></div>${active?`<section class="panel map-detail" id="selected-point" tabindex="-1" aria-label="선택한 장소"><div class="card-row"><h2>${html(active.title)}</h2><span class="badge">${html(active.nativeRole??'지역 안내')}</span></div><p>${html(active.region)} · ${label(active)}</p><p>${html(active.detail)}</p>${active.landmarkHint?`<p><strong>가까운 표식</strong> ${html(active.landmarkHint)}</p>`:''}<div class="actions">${active.mission&&showMission(missions.get(active.mission))?link('mission/'+active.mission,'공략 보기'):''}${(active.pokemon??[]).map(pokemonLink).join('')}${active.battle?link('battle/'+active.pokemon[0]+'/'+active.battle,'이 상대와 배틀 준비'):''}${active.article?link('article/'+active.article,'말뚝 여덟 곳 따라가기'):''}${button('point-mark',found(active)?'찾았어요 ✓':'찾았다고 기록',active.id,'primary')}${button('speak','🔊 읽어주기',active.title+'. '+active.detail)}</div>${huntIndex.has(active.id)?link('hunt/'+world.id+'/'+active.id,'여기서 만나는 포켓몬'):''}${areaDex.length?`<details class="section"><summary>이 구역에 기록된 포켓몬 ${areaDex.length}마리</summary><div class="actions">${areaDex.map(p=>pokemonLink(p.id)).join('')}</div></details>`:''}${active.respawnSpecies?.length?`<details><summary>다시 나타날 때 만날 수 있는 포켓몬</summary><div class="actions">${active.respawnSpecies.map(pokemonLink).join('')}</div></details>`:''}${teraPanel}${tmLinks}${screenshotRefs(db.visualRefs.points?.[active.id],safeUrl)}${provenance(db.map.sources,active.sources)}</section>`:''}`;
 
 }

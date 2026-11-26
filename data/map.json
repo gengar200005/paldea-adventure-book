@@ -4995,6 +4995,472 @@
             "locationId": 12,
             "level": 11
           }
+        },
+        {
+          "id": "fixed-paldea-7013",
+          "title": "고라파덕 · 등대로 가는 길의 개울",
+          "category": "encounter",
+          "region": "남부 에리어 1",
+          "detail": "Lv. 4. 플라토마을 포켓몬센터에서 티스푼 오솔길 등대로 돌아가는 큰길을 따라가요.",
+          "landmarkHint": "큰길이 작은 개울을 건너는 자리에 멈춰요. 길과 물이 만나는 가장자리를 봐요.",
+          "nativeRole": "고정 출현 위치",
+          "accuracy": "exact",
+          "sources": [
+            "native-paldea",
+            "fixed-paldea-7013",
+            "early-fixed-area-6"
+          ],
+          "pokemon": [54],
+          "x": 50.72,
+          "y": 89.8692,
+          "sourceTable": 7013,
+          "encounter": {
+            "locationId": 6,
+            "level": 4,
+            "kind": "fixed"
+          }
+        },
+        {
+          "id": "fixed-paldea-7014",
+          "title": "파치리스 · 테이블시티 남쪽 길옆 나무",
+          "category": "encounter",
+          "region": "남부 에리어 1",
+          "detail": "Lv. 5. 테이블시티 남쪽 포켓몬센터에서 플라토마을로 내려가는 굽은 큰길로 가요.",
+          "landmarkHint": "길이 동쪽으로 커다랗게 휘는 곳을 찾아요. 표식 쪽 길옆 나무를 올려다봐요.",
+          "nativeRole": "고정 출현 위치",
+          "accuracy": "exact",
+          "sources": [
+            "native-paldea",
+            "fixed-paldea-7014",
+            "early-fixed-area-6"
+          ],
+          "pokemon": [417],
+          "x": 49.57286,
+          "y": 83.45598,
+          "sourceTable": 7014,
+          "encounter": {
+            "locationId": 6,
+            "level": 5,
+            "kind": "fixed"
+          }
+        },
+        {
+          "id": "fixed-paldea-7027",
+          "title": "쫀도기 · 플라토마을 센터 앞 큰길",
+          "category": "encounter",
+          "region": "남부 에리어 1",
+          "detail": "Lv. 6. 플라토마을 포켓몬센터로 가요. 등대로 이어지는 남동쪽 길을 봐요.",
+          "landmarkHint": "센터의 빨간 지붕에서 멀리 가지 마세요. 마을 밖으로 길이 휘기 전 길가를 살펴봐요.",
+          "nativeRole": "고정 출현 위치",
+          "accuracy": "exact",
+          "sources": [
+            "native-paldea",
+            "fixed-paldea-7027",
+            "early-fixed-area-6"
+          ],
+          "pokemon": [926],
+          "x": 49.71054,
+          "y": 87.93834,
+          "sourceTable": 7027,
+          "encounter": {
+            "locationId": 6,
+            "level": 6,
+            "kind": "fixed"
+          }
+        },
+        {
+          "id": "fixed-paldea-7028",
+          "title": "빠모 · 마을 남동쪽 개울의 풀밭",
+          "category": "encounter",
+          "region": "남부 에리어 1",
+          "detail": "Lv. 5. 플라토마을 포켓몬센터에서 등대 쪽 큰길을 따라 개울까지 내려가요.",
+          "landmarkHint": "물을 건너기 직전 오른쪽으로 돌아 물을 왼쪽에 두고 조금만 걸어요. 개울 북쪽의 나무와 물 사이를 봐요.",
+          "nativeRole": "고정 출현 위치",
+          "accuracy": "exact",
+          "sources": [
+            "native-paldea",
+            "fixed-paldea-7028",
+            "early-fixed-area-6"
+          ],
+          "pokemon": [921],
+          "x": 50.22772,
+          "y": 89.66824,
+          "sourceTable": 7028,
+          "encounter": {
+            "locationId": 6,
+            "level": 5,
+            "kind": "fixed"
+          }
+        },
+        {
+          "id": "fixed-paldea-7123",
+          "title": "랄토스 · 마을 남동쪽 작은 연못",
+          "category": "encounter",
+          "region": "남부 에리어 1",
+          "detail": "Lv. 6. 플라토마을 포켓몬센터에서 등대로 가는 길을 따라 내려가다가, 개울에 닿기 전에 오른쪽 작은 연못을 찾아요.",
+          "landmarkHint": "연못 둘레를 따라 서쪽으로 돌아요. 물과 갈색 절벽 사이에 낀 풀밭을 천천히 살펴봐요.",
+          "nativeRole": "고정 출현 위치",
+          "accuracy": "exact",
+          "sources": [
+            "native-paldea",
+            "fixed-paldea-7123",
+            "early-fixed-area-6"
+          ],
+          "pokemon": [280],
+          "x": 49.06208,
+          "y": 88.9636,
+          "sourceTable": 7123,
+          "encounter": {
+            "locationId": 6,
+            "level": 6,
+            "kind": "fixed"
+          }
+        },
+        {
+          "id": "fixed-paldea-7125",
+          "title": "우파 · 작은 연못 동쪽 길가",
+          "category": "encounter",
+          "region": "남부 에리어 1",
+          "detail": "Lv. 5. 플라토마을 포켓몬센터에서 등대로 가는 큰길로 내려가요. 개울 전에 작은 연못이 오른쪽에 보여요.",
+          "landmarkHint": "연못이 내려다보이는 쪽에서 길과 연못 사이의 풀밭을 봐요. 갈색 몸에 분홍색 아가미를 가진 팔데아의 모습이에요.",
+          "nativeRole": "고정 출현 위치",
+          "accuracy": "exact",
+          "sources": [
+            "native-paldea",
+            "fixed-paldea-7125",
+            "early-fixed-area-6"
+          ],
+          "pokemon": [194],
+          "x": 50.14644,
+          "y": 89.15684,
+          "sourceTable": 7125,
+          "encounter": {
+            "locationId": 6,
+            "level": 5,
+            "kind": "fixed",
+            "formIndex": 1
+          }
+        },
+        {
+          "id": "fixed-paldea-7126",
+          "title": "루리리 · 등대 길 개울 북쪽",
+          "category": "encounter",
+          "region": "남부 에리어 1",
+          "detail": "Lv. 4. 플라토마을 포켓몬센터에서 티스푼 오솔길 등대 쪽으로 큰길을 따라가요.",
+          "landmarkHint": "첫 개울을 건너기 직전, 길 왼쪽 나무 가까운 물가에서 동그란 꼬리를 찾아요.",
+          "nativeRole": "고정 출현 위치",
+          "accuracy": "exact",
+          "sources": [
+            "native-paldea",
+            "fixed-paldea-7126",
+            "early-fixed-area-6"
+          ],
+          "pokemon": [298],
+          "x": 50.78123,
+          "y": 89.7041,
+          "sourceTable": 7126,
+          "encounter": {
+            "locationId": 6,
+            "level": 4,
+            "kind": "fixed"
+          }
+        },
+        {
+          "id": "fixed-paldea-7053",
+          "title": "가디 · 보울마을 가는 길의 큰 굽이",
+          "category": "encounter",
+          "region": "남부 에리어 3",
+          "detail": "Lv. 11. 남부 에리어 3 포켓몬센터에서 보울마을 쪽 큰길을 따라가요.",
+          "landmarkHint": "지도에서 큰길이 남쪽으로 불룩하게 굽는 자리를 찾아요. 길 바깥으로 내려가지 말고 굽이 안쪽의 얇은 풀밭을 봐요.",
+          "nativeRole": "고정 출현 위치",
+          "accuracy": "exact",
+          "sources": [
+            "native-paldea",
+            "fixed-paldea-7053",
+            "early-fixed-area-20"
+          ],
+          "pokemon": [58],
+          "x": 65.44816,
+          "y": 73.06486,
+          "sourceTable": 7053,
+          "encounter": {
+            "locationId": 20,
+            "level": 11,
+            "kind": "fixed"
+          }
+        },
+        {
+          "id": "fixed-paldea-7226",
+          "title": "절벼게 · 남부 에리어 3 센터 동북쪽",
+          "category": "encounter",
+          "region": "남부 에리어 3",
+          "detail": "Lv. 13. 남부 에리어 3 포켓몬센터에서 보울마을 쪽으로 이어지는 큰길로 가요.",
+          "landmarkHint": "큰길이 첫 바위 언덕을 따라 북동쪽으로 오르면 오른쪽 바위 턱을 봐요. 여기서 찾는 것은 잡을 수 있는 일반 절벼게예요.",
+          "nativeRole": "고정 출현 위치",
+          "accuracy": "exact",
+          "sources": [
+            "native-paldea",
+            "fixed-paldea-7226",
+            "early-fixed-area-20"
+          ],
+          "pokemon": [950],
+          "x": 61.56957,
+          "y": 74.11026,
+          "sourceTable": 7226,
+          "encounter": {
+            "locationId": 20,
+            "level": 13,
+            "kind": "fixed"
+          }
+        },
+        {
+          "id": "fixed-paldea-7235",
+          "title": "카르본 · 센터 북서쪽의 막힌 골짜기",
+          "category": "encounter",
+          "region": "남부 에리어 3",
+          "detail": "Lv. 14. 남부 에리어 3 포켓몬센터에서 테이블시티 방향으로 큰길을 조금 되돌아가요.",
+          "landmarkHint": "길이 남쪽으로 크게 꺾이기 전 오른쪽 골짜기로 들어가요. 끝의 작은 풀밭과 바위벽 사이에 표식이 있어요.",
+          "nativeRole": "고정 출현 위치",
+          "accuracy": "exact",
+          "sources": [
+            "native-paldea",
+            "fixed-paldea-7235",
+            "early-fixed-area-20"
+          ],
+          "pokemon": [935],
+          "x": 57.86878,
+          "y": 74.4012,
+          "sourceTable": 7235,
+          "encounter": {
+            "locationId": 20,
+            "level": 14,
+            "kind": "fixed"
+          }
+        },
+        {
+          "id": "artazon-west-center",
+          "title": "보울마을 서쪽 포켓몬센터",
+          "category": "center",
+          "region": "보울마을",
+          "x": 72.32,
+          "y": 74.8,
+          "accuracy": "exact",
+          "nativeRole": "포켓몬센터",
+          "detail": "남부 에리어 3에서 마을로 들어오는 빨간 지붕의 포켓몬센터예요. 회복한 뒤 마을 안쪽 풍차를 향해 가요.",
+          "sources": [
+            "native-paldea",
+            "artazon-west-stop"
+          ]
+        },
+        {
+          "id": "artazon-sunflora-lawn",
+          "title": "보울마을 해루미 광장 입구 부근",
+          "category": "landmark",
+          "region": "보울마을",
+          "x": 75.354,
+          "y": 75.2563,
+          "accuracy": "area",
+          "nativeRole": "찾아볼 구역",
+          "detail": "체육관에서 나와 오른쪽으로 가요. 커다란 해루미 조각상 두 개와 울타리 앞 직원이 시험 시작과 도착을 알려줘요. 지도에는 입구 주변을 표시했어요.",
+          "sources": [
+            "native-paldea",
+            "artazon-lawn-area"
+          ]
+        },
+        {
+          "id": "artazon-playground",
+          "title": "보울마을 놀이터",
+          "category": "landmark",
+          "region": "보울마을",
+          "x": 75.3662,
+          "y": 76.5015,
+          "accuracy": "area",
+          "nativeRole": "찾아볼 구역",
+          "detail": "체육관 동쪽의 기어오르는 놀이 기구 아래로 가요. 위층에 올라가지 않아도 돼요. 지도에는 놀이 기구 주변을 표시했어요.",
+          "sources": [
+            "native-paldea",
+            "artazon-play-equipment"
+          ]
+        },
+        {
+          "id": "artazon-pool",
+          "title": "보울마을 수영장",
+          "category": "landmark",
+          "region": "보울마을",
+          "x": 73.8525,
+          "y": 76.1719,
+          "accuracy": "area",
+          "nativeRole": "찾아볼 구역",
+          "detail": "체육관 서쪽 수영장이 보이면 물에 들어가지 말고 가장자리를 돌아요. 물가 잔디, 나란한 자판기 두 대, 간식 수레 옆이 해루미를 찾아볼 곳이에요.",
+          "sources": [
+            "native-paldea",
+            "artazon-pool-area"
+          ]
+        },
+        {
+          "id": "artazon-windmill",
+          "title": "보울마을 중앙 풍차",
+          "category": "landmark",
+          "region": "보울마을",
+          "x": 74.646,
+          "y": 74.4385,
+          "accuracy": "area",
+          "nativeRole": "찾아볼 구역",
+          "detail": "큰 풍차 아랫부분의 기둥 옆을 먼저 보고, 나선형 길을 따라 풍차 위 둥근 배틀 코트로 올라가요. 바닥의 코트 가운데도 확인해요.",
+          "sources": [
+            "native-paldea",
+            "artazon-windmill-area"
+          ]
+        },
+        {
+          "id": "artazon-maze",
+          "title": "보울마을 북쪽 나무울타리 미로",
+          "category": "landmark",
+          "region": "보울마을",
+          "x": 74.646,
+          "y": 72.6074,
+          "accuracy": "area",
+          "nativeRole": "찾아볼 구역",
+          "detail": "마을 안에서 풍차 북쪽을 보면 동그란 나무울타리 미로가 있어요. 먼저 입구 안쪽을 확인해요. 더 필요하면 미로 서쪽 화분도 찾아봐요.",
+          "sources": [
+            "native-paldea",
+            "artazon-maze-area"
+          ]
+        },
+        {
+          "id": "cascarrafa-north-center",
+          "title": "카라프시티 북부 포켓몬센터",
+          "category": "center",
+          "region": "카라프시티",
+          "x": 28.5,
+          "y": 50.84,
+          "accuracy": "exact",
+          "nativeRole": "포켓몬센터",
+          "detail": "도시 가장 낮은 층의 빨간 지붕이에요. 사막으로 나갈 때는 여기서 북서쪽 모래밭으로 나가요.",
+          "sources": [
+            "native-paldea",
+            "cascarrafa-north-center"
+          ]
+        },
+        {
+          "id": "porto-marinada-center",
+          "title": "마리네이드마을 포켓몬센터",
+          "category": "center",
+          "region": "마리네이드마을",
+          "x": 12.54,
+          "y": 47.1,
+          "accuracy": "exact",
+          "nativeRole": "포켓몬센터",
+          "detail": "사막을 빠져나온 뒤 쉴 수 있는 빨간 지붕이에요. 여기서 북서쪽 포장길을 따라 내려가면 시장이 나와요.",
+          "sources": [
+            "native-paldea",
+            "porto-marinada-center"
+          ]
+        },
+        {
+          "id": "mesagoza-east-gate",
+          "title": "테이블시티 동문",
+          "category": "landmark",
+          "region": "테이블시티",
+          "x": 54.84,
+          "y": 76.78,
+          "accuracy": "exact",
+          "nativeRole": "동문 공중날기 지점",
+          "detail": "큰길로 나가 바위 언덕 너머 남부 에리어 3 포켓몬센터를 찾아요.",
+          "sources": [
+            "native-paldea",
+            "mesagoza-east-gate"
+          ]
+        },
+        {
+          "id": "south-three-center",
+          "title": "남부 에리어 3 포켓몬센터",
+          "category": "center",
+          "region": "남부 에리어 3",
+          "x": 59.98,
+          "y": 75.22,
+          "accuracy": "exact",
+          "nativeRole": "포켓몬센터",
+          "detail": "테이블시티 동문과 망루 사이 빨간 지붕이에요. 회복한 뒤 동쪽의 길을 따라가요.",
+          "sources": [
+            "native-paldea",
+            "south-three-center"
+          ]
+        },
+        {
+          "id": "south-three-watchtower",
+          "title": "남부 에리어 3 망루",
+          "category": "landmark",
+          "region": "남부 에리어 3",
+          "x": 65.42,
+          "y": 72.08,
+          "accuracy": "exact",
+          "nativeRole": "망루 공중날기 지점",
+          "detail": "망루에서 큰길을 따라 동쪽으로 조금 더 가세요. 갈림길에서 북쪽 벽에 붙은 커다란 절벼게를 찾아요.",
+          "sources": [
+            "native-paldea",
+            "south-three-watchtower"
+          ]
+        },
+        {
+          "id": "stony-upper-slope",
+          "title": "암벽의 주인 · 위쪽 비탈 부근",
+          "category": "landmark",
+          "region": "남부 에리어 3",
+          "x": 67.5,
+          "y": 71.23,
+          "accuracy": "area",
+          "nativeRole": "비탈 위 첫 배틀 부근",
+          "detail": "처음 보았던 벽의 동쪽으로 돌아 굽은 비탈을 올라요. 왼쪽 벽에 다시 나타난 절벼게에게 다가가요. 지도에는 위쪽에서 찾아볼 구역을 표시했어요.",
+          "sources": [
+            "native-paldea",
+            "stony-upper-slope"
+          ]
+        },
+        {
+          "id": "stony-lower-wall",
+          "title": "암벽의 주인 · 절벽 아래 부근",
+          "category": "landmark",
+          "region": "남부 에리어 3",
+          "x": 67.35,
+          "y": 71.64,
+          "accuracy": "area",
+          "nativeRole": "절벽 아래에서 절벼게가 보이는 구역",
+          "detail": "첫 배틀 뒤 비탈을 내려오세요. 바닥에 선 절벼게와 그 뒤의 바위벽이 보이는 구역이에요. 게임 화면의 미니맵과 지형을 대조했어요.",
+          "sources": [
+            "native-paldea",
+            "stony-lower-wall"
+          ]
+        },
+        {
+          "id": "marinada-kofu-stall",
+          "title": "마리네이드 시장 서쪽 · 곤포의 제자 부근",
+          "category": "shop",
+          "region": "마리네이드마을",
+          "x": 9.22,
+          "y": 48.64,
+          "accuracy": "area",
+          "nativeRole": "시장 서쪽 가게 부근",
+          "detail": "큰 지붕 아래 중앙 통로를 따라 서쪽으로 가요. 파란 눈썹 곤포에게 다가가면 옆에 선 제자가 배틀을 걸어요.",
+          "sources": [
+            "native-paldea",
+            "marinada-kofu-stall"
+          ]
+        },
+        {
+          "id": "stony-wall-view",
+          "title": "망루 동쪽 · 절벼게가 보이는 갈림길 부근",
+          "category": "landmark",
+          "region": "남부 에리어 3",
+          "x": 67.04,
+          "y": 72.09,
+          "accuracy": "area",
+          "nativeRole": "갈림길에서 벽이 보이는 구역",
+          "detail": "망루 동쪽 갈림길에서 북쪽 벽을 올려다봐요. 게임 화면의 미니맵과 지형을 맞춰 절벼게가 보이는 구역을 표시했어요.",
+          "sources": [
+            "native-paldea",
+            "stony-wall-view"
+          ]
         }
       ],
       "nativeMap": {
@@ -9405,6 +9871,246 @@
     "fixed-paldea-7180": {
       "title": "Pokéarth · 오라티프 고정 개체 표",
       "url": "https://www.serebii.net/pokearth/paldea/spawntable/7180.txt"
-    }
+    },
+    "early-fixed-area-6": {
+      "title": "Bulbapedia · 남부 에리어 1 고정 출현과 레벨",
+      "url": "https://bulbapedia.bulbagarden.net/wiki/South_Province_(Area_One)"
+    },
+    "early-fixed-area-20": {
+      "title": "Bulbapedia · 남부 에리어 3 고정 출현과 레벨",
+      "url": "https://bulbapedia.bulbagarden.net/wiki/South_Province_(Area_Three)"
+    },
+    "fixed-paldea-7013": {
+      "title": "Pokéarth · 고라파덕 고정 개체 표",
+      "url": "https://www.serebii.net/pokearth/paldea/spawntable/7013.txt"
+    },
+    "fixed-paldea-7014": {
+      "title": "Pokéarth · 파치리스 고정 개체 표",
+      "url": "https://www.serebii.net/pokearth/paldea/spawntable/7014.txt"
+    },
+    "fixed-paldea-7027": {
+      "title": "Pokéarth · 쫀도기 고정 개체 표",
+      "url": "https://www.serebii.net/pokearth/paldea/spawntable/7027.txt"
+    },
+    "fixed-paldea-7028": {
+      "title": "Pokéarth · 빠모 고정 개체 표",
+      "url": "https://www.serebii.net/pokearth/paldea/spawntable/7028.txt"
+    },
+    "fixed-paldea-7123": {
+      "title": "Pokéarth · 랄토스 고정 개체 표",
+      "url": "https://www.serebii.net/pokearth/paldea/spawntable/7123.txt"
+    },
+    "fixed-paldea-7125": {
+      "title": "Pokéarth · 우파 고정 개체 표",
+      "url": "https://www.serebii.net/pokearth/paldea/spawntable/7125.txt"
+    },
+    "fixed-paldea-7126": {
+      "title": "Pokéarth · 루리리 고정 개체 표",
+      "url": "https://www.serebii.net/pokearth/paldea/spawntable/7126.txt"
+    },
+    "fixed-paldea-7053": {
+      "title": "Pokéarth · 가디 고정 개체 표",
+      "url": "https://www.serebii.net/pokearth/paldea/spawntable/7053.txt"
+    },
+    "fixed-paldea-7226": {
+      "title": "Pokéarth · 절벼게 고정 개체 표",
+      "url": "https://www.serebii.net/pokearth/paldea/spawntable/7226.txt"
+    },
+    "fixed-paldea-7235": {
+      "title": "Pokéarth · 카르본 고정 개체 표",
+      "url": "https://www.serebii.net/pokearth/paldea/spawntable/7235.txt"
+    },
+    "artazon-hidden-route": [
+      {
+        "title": "GameWith · 해루미 시험 사진과 수영장 주변 위치",
+        "url": "https://gamewith.net/pokemon-scarletviolet/article/show/36116"
+      },
+      {
+        "title": "Bulbapedia · 광장 입구, 놀이터, 풍차, 미로와 풀 배지",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_Scarlet_and_Violet/Part_6"
+      },
+      {
+        "title": "Thonky · 울타리, 수영장, 풍차 코트의 조사 순서",
+        "url": "https://www.thonky.com/pokemon-scarlet-violet/artazon-gym"
+      },
+      {
+        "title": "Pokéarth · 보울마을 지형과 체육관",
+        "url": "https://www.serebii.net/pokearth/paldea/artazon.shtml"
+      }
+    ],
+    "artazon-west-stop": [
+      {
+        "title": "MapGenie · 보울마을 현장 표식",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=217708"
+      },
+      {
+        "title": "Pokéarth · 보울마을 지형과 체육관",
+        "url": "https://www.serebii.net/pokearth/paldea/artazon.shtml"
+      }
+    ],
+    "artazon-play-equipment": [
+      {
+        "title": "MapGenie · 보울마을 현장 표식",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=218662"
+      },
+      {
+        "title": "Bulbapedia · 광장 입구, 놀이터, 풍차, 미로와 풀 배지",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_Scarlet_and_Violet/Part_6"
+      }
+    ],
+    "artazon-lawn-area": [
+      {
+        "title": "GameWith · 해루미 시험 사진과 수영장 주변 위치",
+        "url": "https://gamewith.net/pokemon-scarletviolet/article/show/36116"
+      },
+      {
+        "title": "Bulbapedia · 광장 입구, 놀이터, 풍차, 미로와 풀 배지",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_Scarlet_and_Violet/Part_6"
+      }
+    ],
+    "artazon-pool-area": [
+      {
+        "title": "GameWith · 해루미 시험 사진과 수영장 주변 위치",
+        "url": "https://gamewith.net/pokemon-scarletviolet/article/show/36116"
+      },
+      {
+        "title": "Thonky · 울타리, 수영장, 풍차 코트의 조사 순서",
+        "url": "https://www.thonky.com/pokemon-scarlet-violet/artazon-gym"
+      }
+    ],
+    "artazon-windmill-area": [
+      {
+        "title": "Bulbapedia · 광장 입구, 놀이터, 풍차, 미로와 풀 배지",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_Scarlet_and_Violet/Part_6"
+      },
+      {
+        "title": "Thonky · 울타리, 수영장, 풍차 코트의 조사 순서",
+        "url": "https://www.thonky.com/pokemon-scarlet-violet/artazon-gym"
+      },
+      {
+        "title": "MapGenie · 보울마을 현장 표식",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=217509"
+      }
+    ],
+    "artazon-maze-area": [
+      {
+        "title": "Bulbapedia · 광장 입구, 놀이터, 풍차, 미로와 풀 배지",
+        "url": "https://bulbapedia.bulbagarden.net/wiki/Walkthrough:Pok%C3%A9mon_Scarlet_and_Violet/Part_6"
+      },
+      {
+        "title": "MapGenie · 보울마을 현장 표식",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=217930"
+      }
+    ],
+    "cascarrafa-north-center": [
+      {
+        "title": "MapGenie · 게임 지도에서 확인한 지점",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=217689"
+      },
+      {
+        "title": "Pokéarth · 게임 지도와 이동 표식",
+        "url": "https://www.serebii.net/pokearth/paldea/cascarrafa.shtml"
+      }
+    ],
+    "porto-marinada-center": [
+      {
+        "title": "MapGenie · 게임 지도에서 확인한 지점",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=217690"
+      },
+      {
+        "title": "Pokéarth · 게임 지도와 이동 표식",
+        "url": "https://www.serebii.net/pokearth/paldea/portomarinada.shtml"
+      }
+    ],
+    "mesagoza-east-gate": [
+      {
+        "title": "MapGenie · 게임 지도에서 확인한 지점",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=217661"
+      },
+      {
+        "title": "Pokéarth · 게임 지도와 이동 표식",
+        "url": "https://www.serebii.net/pokearth/paldea/mesagoza.shtml"
+      }
+    ],
+    "south-three-center": [
+      {
+        "title": "MapGenie · 게임 지도에서 확인한 지점",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=217709"
+      },
+      {
+        "title": "Pokéarth · 게임 지도와 이동 표식",
+        "url": "https://www.serebii.net/pokearth/paldea/southprovinceareathree.shtml"
+      }
+    ],
+    "south-three-watchtower": [
+      {
+        "title": "MapGenie · 게임 지도에서 확인한 지점",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=217676"
+      },
+      {
+        "title": "Pokéarth · 게임 지도와 이동 표식",
+        "url": "https://www.serebii.net/pokearth/paldea/southprovinceareathree.shtml"
+      }
+    ],
+    "stony-upper-slope": [
+      {
+        "title": "MapGenie · 게임 지도에서 확인한 지점",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=217529"
+      },
+      {
+        "title": "Thonky · 망루 동쪽 갈림길, 굽은 비탈과 페퍼의 셀러",
+        "url": "https://www.thonky.com/pokemon-scarlet-violet/stony-cliff-titan"
+      },
+      {
+        "title": "알테마 · 첫 대면과 두 번째 배틀의 게임 화면",
+        "url": "https://altema.jp/pokemonsv/gakeganinusi"
+      },
+      {
+        "title": "Pokéarth · 게임 지도와 이동 표식",
+        "url": "https://www.serebii.net/pokearth/paldea/southprovinceareathree.shtml"
+      }
+    ],
+    "stony-lower-wall": [
+      {
+        "title": "Thonky · 망루 동쪽 갈림길, 굽은 비탈과 페퍼의 셀러",
+        "url": "https://www.thonky.com/pokemon-scarlet-violet/stony-cliff-titan"
+      },
+      {
+        "title": "알테마 · 첫 대면과 두 번째 배틀의 게임 화면",
+        "url": "https://altema.jp/pokemonsv/gakeganinusi"
+      },
+      {
+        "title": "Pokéarth · 게임 지도와 이동 표식",
+        "url": "https://www.serebii.net/pokearth/paldea/southprovinceareathree.shtml"
+      }
+    ],
+    "marinada-kofu-stall": [
+      {
+        "title": "MapGenie · 게임 지도에서 확인한 지점",
+        "url": "https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region?locationIds=405567"
+      },
+      {
+        "title": "GameWith · 큰 시장의 통로와 시장 서쪽의 곤포 사진",
+        "url": "https://gamewith.net/pokemon-scarletviolet/article/show/36111"
+      },
+      {
+        "title": "Thonky · 승강장, 시장 서쪽의 곤포와 두 배틀",
+        "url": "https://www.thonky.com/pokemon-scarlet-violet/cascarrafa-gym"
+      }
+    ],
+    "stony-wall-view": [
+      {
+        "title": "알테마 · 첫 대면과 두 번째 배틀의 게임 화면",
+        "url": "https://altema.jp/pokemonsv/gakeganinusi"
+      },
+      {
+        "title": "Thonky · 망루 동쪽 갈림길, 굽은 비탈과 페퍼의 셀러",
+        "url": "https://www.thonky.com/pokemon-scarlet-violet/stony-cliff-titan"
+      },
+      {
+        "title": "Pokéarth · 게임 지도와 이동 표식",
+        "url": "https://www.serebii.net/pokearth/paldea/southprovinceareathree.shtml"
+      }
+    ]
   }
 }

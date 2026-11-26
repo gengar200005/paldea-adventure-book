@@ -29,7 +29,9 @@ export function pressPortrait(record,fallback,{name='',detail=false}={}) {
 export function initPressImages() {
  const mark=(event,style)=>{
   const img=event.target;
-  if(img instanceof HTMLImageElement && img.matches('[data-press-image],[data-local-pokemon]')) img.classList.add(style);
+  if(!(img instanceof HTMLImageElement))return;
+  if(img.hasAttribute('data-route-scene'))img.closest('figure').hidden=style!=='has-image';
+  if(img.matches('[data-press-image],[data-local-pokemon]'))img.classList.add(style);
  };
  document.addEventListener('load',event=>mark(event,'has-image'),true);
  document.addEventListener('error',event=>mark(event,'image-failed'),true);
