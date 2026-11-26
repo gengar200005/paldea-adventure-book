@@ -1,0 +1,2088 @@
+{
+  "machines": {
+    "001": [
+      {
+        "kind": "pickup",
+        "place": "협곡 안 호수",
+        "point": "south-five-area",
+        "steps": [
+          "남부 에리어 5에서 협곡 안에 들어 있는 호수를 찾아요.",
+          "호수 북쪽 물가를 따라가 풀밭에서 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 협곡 안 호수",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareafive.shtml"
+        }
+      }
+    ],
+    "003": [
+      {
+        "kind": "pickup",
+        "place": "망루 북쪽 절벽",
+        "point": "east-one-tower",
+        "steps": [
+          "동부 에리어 1 망루를 출발점으로 잡아요.",
+          "망루 북쪽 절벽으로 가서 아래쪽 턱을 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 망루 북쪽 절벽",
+          "url": "https://www.serebii.net/pokearth/paldea/eastprovinceareaone.shtml"
+        }
+      }
+    ],
+    "004": [
+      {
+        "kind": "pickup",
+        "place": "망루 남쪽 바위",
+        "point": "south-three-tower",
+        "steps": [
+          "남부 에리어 3 망루에서 남쪽으로 가요.",
+          "망루 남쪽의 바위 옆에 놓인 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 망루 남쪽 바위",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareathree.shtml"
+        }
+      }
+    ],
+    "005": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 2 · 올리브밭",
+        "point": "south-two-area",
+        "steps": [
+          "세르클마을 주변 올리브밭의 북쪽으로 가요.",
+          "길이 꺾이는 곳을 감싸는 올리브밭 한가운데서 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      },
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 3 · 포켓몬센터 북서쪽",
+        "point": "south-three-area",
+        "steps": [
+          "남부 에리어 3 포켓몬센터에서 길을 벗어나 북서쪽으로 가요.",
+          "땅색이 짙게 보이는 곳으로 내려가 구석을 찾아요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "006": [
+      {
+        "kind": "pickup",
+        "place": "망루 동쪽 산벽",
+        "point": "south-five-tower",
+        "steps": [
+          "남부 에리어 5 망루에서 동쪽으로 가요.",
+          "커다란 산의 벽을 따라 바닥을 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 망루 동쪽 산벽",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareafive.shtml"
+        }
+      }
+    ],
+    "007": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 1 · 플라토마을 남동쪽",
+        "point": "los-platos",
+        "steps": [
+          "플라토마을에서 멀리 남동쪽으로 가요.",
+          "위에서 보면 U자 모양인 작은 언덕을 찾아 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "008": [
+      {
+        "kind": "pickup",
+        "place": "로스트 사막 망루 남동쪽",
+        "point": "asado-desert",
+        "steps": [
+          "로스트 사막 남쪽에서 망루를 찾은 뒤 남동쪽으로 가요.",
+          "크고 평평한 바위 언덕 두 개 사이의 탁 트인 땅에서 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 로스트 사막 망루 남동쪽",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "009": [
+      {
+        "kind": "pickup",
+        "place": "남서쪽 연못 옆 절벽",
+        "point": "south-five-area",
+        "steps": [
+          "지도에서 남부 에리어 5의 작은 연못 중 가장 남서쪽에 있는 연못을 찾아요.",
+          "연못 동쪽의 절벽 가장자리를 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 남서쪽 연못 옆 절벽",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareafive.shtml"
+        }
+      }
+    ],
+    "010": [
+      {
+        "kind": "pickup",
+        "place": "남쪽 큰 연못 뒤",
+        "point": "south-four-area",
+        "steps": [
+          "남부 에리어 4 남쪽의 낮은 지대로 내려가요.",
+          "주변 연못 중 가장 큰 연못을 찾아 그 뒤편을 돌아봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 남쪽 큰 연못 뒤",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "011": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 3 · 테이블시티 동문 북쪽",
+        "point": "south-three-area",
+        "steps": [
+          "테이블시티 동문 바깥에서 북쪽으로 가요.",
+          "바위 지대 북서쪽에서 움푹 들어간 작은 공간의 바닥을 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "012": [
+      {
+        "kind": "pickup",
+        "place": "올리브밭을 내려다보는 절벽",
+        "point": "south-two-tower",
+        "steps": [
+          "남부 에리어 2 망루 남쪽으로 내려가 올리브밭 남서쪽에 서요.",
+          "올리브밭과 세르클마을을 내려다볼 수 있는 절벽 끝에서 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 올리브밭을 내려다보는 절벽",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "013": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 2 · 망루 꼭대기",
+        "point": "south-two-tower",
+        "steps": [
+          "남부 에리어 2 중간에 있는 망루를 찾아요.",
+          "사다리를 타고 꼭대기까지 올라가 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "014": [
+      {
+        "kind": "pickup",
+        "place": "채석장 북쪽의 철골 구조물",
+        "point": "east-three-area",
+        "steps": [
+          "동부 에리어 3의 북쪽으로 가서 뼈대만 남은 작업 발판을 찾아요.",
+          "무너진 발판들이 모인 곳의 북쪽 부분을 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 채석장 북쪽의 철골 구조물",
+          "url": "https://www.serebii.net/pokearth/paldea/eastprovinceareathree.shtml"
+        }
+      }
+    ],
+    "015": [
+      {
+        "kind": "pickup",
+        "place": "누룩스시티 · 체육관 앞 화단",
+        "point": "map-gym-levincia",
+        "steps": [
+          "누룩스시티 남쪽 포켓몬센터에서 북쪽으로 가서 체육관을 찾아요.",
+          "체육관 앞쪽 화단에서 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Bulbapedia · 누룩스시티",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Levincia"
+        }
+      }
+    ],
+    "016": [
+      {
+        "kind": "pickup",
+        "place": "바닷가 유적 남동쪽 나무",
+        "point": "south-one-area",
+        "steps": [
+          "남부 에리어 1에서 바닷가 절벽 근처에 있는 유적을 찾아요.",
+          "유적에서 남동쪽으로 걸어 나무 옆을 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 바닷가 유적 남동쪽 나무",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareaone.shtml"
+        }
+      }
+    ],
+    "017": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 1 · 남동쪽 유적",
+        "point": "south-one-area",
+        "steps": [
+          "남부 에리어 1 남동쪽 끝으로 가요.",
+          "기둥 네 개가 서로 가까이 서 있는 작은 유적 안을 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "018": [
+      {
+        "kind": "pickup",
+        "place": "유적 남동쪽의 낮은 절벽",
+        "point": "south-two-area",
+        "steps": [
+          "남부 에리어 2의 유적에 도착하면 남동쪽으로 가요.",
+          "높이가 한 단 낮아지는 절벽 쪽으로 내려가 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 유적 남동쪽의 낮은 절벽",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareatwo.shtml"
+        }
+      }
+    ],
+    "019": [
+      {
+        "kind": "pickup",
+        "place": "북동쪽 물가",
+        "point": "mesagoza",
+        "steps": [
+          "테이블시티 안에서 북동쪽으로 이동해 물이 고여 있는 곳을 찾아요.",
+          "물가를 따라 걸으며 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 북동쪽 물가",
+          "url": "https://www.serebii.net/pokearth/paldea/mesagoza.shtml"
+        }
+      }
+    ],
+    "020": [
+      {
+        "kind": "reward",
+        "place": "보울체육관",
+        "point": "map-gym-artazon",
+        "steps": [
+          "체육관에 접수하고 마을에 숨은 해루미 10마리를 모아요.",
+          "콜사에게 이겨 기술머신을 받아요."
+        ],
+        "requirement": "체육관 테스트 통과",
+        "source": {
+          "title": "Bulbapedia · 보울체육관",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Artazon_Gym"
+        }
+      }
+    ],
+    "021": [
+      {
+        "kind": "reward",
+        "place": "세르클체육관",
+        "point": "map-gym-cortondo",
+        "steps": [
+          "체육관에 접수한 뒤 올리브를 결승 바구니에 밀어 넣어요.",
+          "단풍에게 이겨 기술머신을 받아요."
+        ],
+        "requirement": "체육관 테스트 통과",
+        "source": {
+          "title": "Bulbapedia · 세르클체육관",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Cortondo_Gym"
+        }
+      }
+    ],
+    "022": [
+      {
+        "kind": "reward",
+        "place": "카라프체육관",
+        "point": "map-gym-cascarrafa",
+        "steps": [
+          "곤포가 떨어뜨린 지갑을 들고 마리네이드마을 시장으로 가서 경매 시험을 치러요. 그다음 카라프체육관으로 돌아와요.",
+          "곤포에게 이겨 기술머신을 받아요."
+        ],
+        "requirement": "체육관 테스트 통과",
+        "source": {
+          "title": "Bulbapedia · 카라프체육관",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Cascarrafa_Gym"
+        }
+      }
+    ],
+    "023": [
+      {
+        "kind": "pickup",
+        "place": "유적 북동쪽 풀밭",
+        "point": "east-two-area",
+        "steps": [
+          "동부 에리어 2에서 돌담이 남은 유적을 찾아요.",
+          "유적에서 북동쪽으로 나와 풀밭을 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 유적 북동쪽 풀밭",
+          "url": "https://www.serebii.net/pokearth/paldea/eastprovinceareatwo.shtml"
+        }
+      }
+    ],
+    "024": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 4 · 망루 꼭대기",
+        "point": "south-four-tower",
+        "steps": [
+          "남부 에리어 4의 망루를 찾아요.",
+          "망루의 사다리를 타고 꼭대기에서 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "025": [
+      {
+        "kind": "reward",
+        "place": "참푸르체육관",
+        "point": "map-gym-medali",
+        "steps": [
+          "마을의 힌트를 모아 보물식당에서 비밀 메뉴를 주문해요.",
+          "청목에게 이겨 기술머신을 받아요."
+        ],
+        "requirement": "체육관 테스트 통과",
+        "source": {
+          "title": "Bulbapedia · 참푸르체육관",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Medali_Gym"
+        }
+      }
+    ],
+    "026": [
+      {
+        "kind": "pickup",
+        "place": "보울마을 · 북쪽 미로",
+        "point": "map-gym-artazon",
+        "steps": [
+          "보울마을 북쪽에 있는 생울타리 미로를 찾아요.",
+          "미로 안쪽 길을 살펴 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "027": [
+      {
+        "kind": "reward",
+        "place": "세르클마을 · 동쪽 포켓몬센터",
+        "point": "map-gym-cortondo",
+        "steps": [
+          "남부 에리어 2 길가 트레이너 5명에게 이겨요.",
+          "세르클마을 동쪽 포켓몬센터 옆의 포켓몬리그 직원에게 말을 걸어요."
+        ],
+        "requirement": "남부 에리어 2 트레이너 5명 승리",
+        "source": {
+          "title": "Bulbapedia · 포켓몬리그 직원의 도전",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_League_representative"
+        }
+      },
+      {
+        "kind": "pickup",
+        "place": "에리어 제로 · 관측 유닛 2호 아래 큰 폭포",
+        "point": "area-zero",
+        "steps": [
+          "관측 유닛 2호에서 3호로 내려가는 길을 따라가요.",
+          "중간에 나오는 큰 폭포의 아래쪽을 살펴봐요."
+        ],
+        "requirement": "에리어 제로 입장 가능",
+        "source": {
+          "title": "Nintendo Life · 에리어 제로 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-the-great-crater-of-paldea-area-zero"
+        }
+      }
+    ],
+    "028": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 3 · 바위 아래 좁은 공간",
+        "point": "south-three-area",
+        "steps": [
+          "남부 에리어 3의 동쪽 바위 지대로 가요.",
+          "바위 아래 움푹 들어간 작은 공간을 살펴봐요."
+        ],
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "031": [
+      {
+        "kind": "pickup",
+        "place": "플라토마을 포켓몬센터 뒤쪽 길",
+        "point": "los-platos-center",
+        "steps": [
+          "플라토마을 포켓몬센터에서 북동쪽으로 조금 걸어요.",
+          "나무 뒤로 돌아가 안쪽으로 움푹 들어간 틈을 찾아요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 플라토마을 포켓몬센터 뒤쪽 길",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "032": [
+      {
+        "kind": "pickup",
+        "place": "티스푼 오솔길 · 등대 서쪽",
+        "point": "poco-lighthouse",
+        "steps": [
+          "티스푼 오솔길 등대에서 서쪽으로 가요.",
+          "낮고 평평하게 튀어나온 땅 위에서 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      },
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 1 · 플라토마을 북동쪽",
+        "point": "los-platos",
+        "steps": [
+          "플라토마을에서 북동쪽으로 가서 작은 절벽을 찾아요.",
+          "절벽 옆 움푹 들어간 곳에서 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "033": [
+      {
+        "kind": "pickup",
+        "place": "기울어진 망루 옆 절벽",
+        "point": "south-six-area",
+        "steps": [
+          "남부 에리어 6에서 비스듬하게 기울어진 망루를 찾아요.",
+          "망루 옆 절벽 위를 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 기울어진 망루 옆 절벽",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareasix.shtml"
+        }
+      }
+    ],
+    "034": [
+      {
+        "kind": "pickup",
+        "place": "남동쪽 등대 꼭대기",
+        "point": "east-two-area",
+        "steps": [
+          "동부 에리어 2 남동쪽의 등대까지 가요.",
+          "등대 꼭대기에 올라 바닥에 놓인 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 남동쪽 등대 꼭대기",
+          "url": "https://www.serebii.net/pokearth/paldea/eastprovinceareatwo.shtml"
+        }
+      }
+    ],
+    "035": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 5 · 습지",
+        "point": "south-five-area",
+        "steps": [
+          "남부 에리어 5 습지에서 가운데보다 조금 남쪽으로 가요.",
+          "나무 옆에 있는 바위 앞을 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "036": [
+      {
+        "kind": "pickup",
+        "place": "바다 위 돌다리로 이어지는 터널",
+        "point": "alfornada-cavern",
+        "steps": [
+          "베이크 공동 안에서 학생 트레이너가 서 있는 터널을 찾아요.",
+          "밖으로 나가면 서팔데아해 위 돌다리로 이어지는 터널이에요. 학생 옆에서 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 바다 위 돌다리로 이어지는 터널",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "037": [
+      {
+        "kind": "pickup",
+        "place": "푸르피케 산길 위쪽 절벽",
+        "point": "glaseado-mountain",
+        "steps": [
+          "나페산 남동쪽에서 아래쪽의 푸르피케 산길이 보이는 곳으로 가요.",
+          "산길을 내려다보는 절벽을 따라 기술머신을 찾아요."
+        ],
+        "source": {
+          "title": "Serebii · 푸르피케 산길 위쪽 절벽",
+          "url": "https://www.serebii.net/pokearth/paldea/glaseadomountain.shtml"
+        }
+      }
+    ],
+    "038": [
+      {
+        "kind": "reward",
+        "place": "팀 쉐다르 아지트",
+        "point": "map-star-fire",
+        "steps": [
+          "팀 쉐다르 아지트 입구에서 도전을 시작하고 단체전을 끝내요.",
+          "멜로코에게 이겨 기술머신을 받아요."
+        ],
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "039": [
+      {
+        "kind": "pickup",
+        "place": "서부 에리어 1 · 망루",
+        "point": "west-one-area",
+        "steps": [
+          "서부 에리어 1 북쪽의 망루를 찾아요.",
+          "사다리를 올라 망루 꼭대기에서 주워요."
+        ],
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "040": [
+      {
+        "kind": "pickup",
+        "place": "남서쪽 폭포",
+        "point": "south-two-area",
+        "steps": [
+          "남부 에리어 2 남서쪽으로 이동해 폭포를 찾아요.",
+          "폭포 바로 옆에서 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 남서쪽 폭포",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareatwo.shtml"
+        }
+      }
+    ],
+    "041": [
+      {
+        "kind": "pickup",
+        "place": "플라토마을 · 서쪽 출구",
+        "point": "los-platos",
+        "steps": [
+          "플라토마을 서쪽 출구에서 남쪽으로 돌아 나무 뒤편으로 가요.",
+          "구석에 있는 바위 뒤에서 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "042": [
+      {
+        "kind": "pickup",
+        "place": "망루 동쪽 호수 건너편",
+        "point": "south-four-tower",
+        "steps": [
+          "남부 에리어 4 망루에서 동쪽으로 가서 호수를 찾아요.",
+          "호수 동쪽 물가를 따라 기술머신을 찾아요."
+        ],
+        "source": {
+          "title": "Serebii · 망루 동쪽 호수 건너편",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareafour.shtml"
+        }
+      }
+    ],
+    "043": [
+      {
+        "kind": "pickup",
+        "place": "북서쪽 유적의 덤불",
+        "point": "south-three-area",
+        "steps": [
+          "남부 에리어 3 북서쪽의 유적에 가요.",
+          "유적 바로 북쪽 덤불을 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 북서쪽 유적의 덤불",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareathree.shtml"
+        }
+      }
+    ],
+    "044": [
+      {
+        "kind": "pickup",
+        "place": "물이 찬 채석장 옆 흙더미",
+        "point": "east-three-area",
+        "steps": [
+          "동부 에리어 3에서 물이 찬 큰 채석장을 찾아 서쪽으로 가요.",
+          "흙더미 꼭대기에 있는 나무 아래에서 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 물이 찬 채석장 옆 흙더미",
+          "url": "https://www.serebii.net/pokearth/paldea/eastprovinceareathree.shtml"
+        }
+      }
+    ],
+    "045": [
+      {
+        "kind": "pickup",
+        "place": "북쪽 강둑 가운데",
+        "point": "east-three-area",
+        "steps": [
+          "동부 에리어 3 북쪽으로 가서 강둑을 찾아요.",
+          "강둑을 따라 가운데쯤까지 걸어가 기술머신을 찾아요."
+        ],
+        "source": {
+          "title": "Serebii · 북쪽 강둑 가운데",
+          "url": "https://www.serebii.net/pokearth/paldea/eastprovinceareathree.shtml"
+        }
+      }
+    ],
+    "046": [
+      {
+        "kind": "pickup",
+        "place": "스타단 천막 옆 절벽",
+        "point": "tagtree-thicket",
+        "steps": [
+          "표식의 나무숲 북쪽에서 스타단 천막을 찾아요.",
+          "천막 곁에 있는 절벽을 따라 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 스타단 천막 옆 절벽",
+          "url": "https://www.serebii.net/pokearth/paldea/tagtreethicket.shtml"
+        }
+      }
+    ],
+    "047": [
+      {
+        "kind": "pickup",
+        "place": "플라토마을 동쪽 큰 나무",
+        "point": "los-platos",
+        "steps": [
+          "플라토마을에서 동쪽 산비탈을 따라가요.",
+          "산비탈의 커다란 나무 밑에서 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 플라토마을 동쪽 큰 나무",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareaone.shtml"
+        }
+      }
+    ],
+    "048": [
+      {
+        "kind": "reward",
+        "place": "누룩스체육관",
+        "point": "map-gym-levincia",
+        "steps": [
+          "체육관에 접수하고 모야모의 방송에서 숨은 인물을 세 번 찾아요.",
+          "모야모에게 이겨 기술머신을 받아요."
+        ],
+        "requirement": "체육관 테스트 통과",
+        "source": {
+          "title": "Bulbapedia · 누룩스체육관",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Levincia_Gym"
+        }
+      }
+    ],
+    "049": [
+      {
+        "kind": "pickup",
+        "place": "보울마을 북쪽 절벽",
+        "point": "map-gym-artazon",
+        "steps": [
+          "보울마을 북쪽 절벽으로 가서 해루미가 있는 곳을 찾아요.",
+          "해루미 뒤로 돌아가 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 보울마을 북쪽 절벽",
+          "url": "https://www.serebii.net/pokearth/paldea/eastprovinceareaone.shtml"
+        }
+      }
+    ],
+    "050": [
+      {
+        "kind": "pickup",
+        "place": "사막 망루 옆",
+        "point": "asado-desert",
+        "steps": [
+          "로스트 사막 안에 있는 망루까지 가요.",
+          "망루 바로 옆의 바닥을 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 사막 망루 옆",
+          "url": "https://www.serebii.net/pokearth/paldea/asadodesert.shtml"
+        }
+      }
+    ],
+    "051": [
+      {
+        "kind": "pickup",
+        "place": "포켓몬센터 옆",
+        "point": "south-five-center",
+        "steps": [
+          "남부 에리어 5 포켓몬센터로 가요.",
+          "센터 바로 옆을 돌며 기술머신을 찾아요."
+        ],
+        "source": {
+          "title": "Serebii · 포켓몬센터 옆",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareafive.shtml"
+        }
+      }
+    ],
+    "052": [
+      {
+        "kind": "pickup",
+        "place": "나페산체육관 근처 눈사람",
+        "point": "map-gym-glaseado",
+        "steps": [
+          "나페산체육관 부근의 산등성이 위로 올라가요.",
+          "눈사람을 찾으면 바로 앞에서 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 나페산체육관 근처 눈사람",
+          "url": "https://www.serebii.net/pokearth/paldea/glaseadomountain.shtml"
+        }
+      }
+    ],
+    "053": [
+      {
+        "kind": "pickup",
+        "place": "카라프시티 중간 층 동쪽 승강기",
+        "point": "map-gym-cascarrafa",
+        "steps": [
+          "카라프시티 중간 층에서 동쪽 옷가게들 뒤편으로 걸어가요.",
+          "그쪽 승강기 옆 바닥을 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 카라프시티 중간 층 동쪽 승강기",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "054": [
+      {
+        "kind": "pickup",
+        "place": "카라프시티 중간 층 건물 뒤",
+        "point": "map-gym-cascarrafa",
+        "steps": [
+          "카라프시티 중간 층 동쪽에 늘어선 건물들을 찾아요.",
+          "가운데 있는 건물 뒤로 돌아가서 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 카라프시티 중간 층 건물 뒤",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "055": [
+      {
+        "kind": "pickup",
+        "place": "막다른 길 표지판",
+        "point": "south-three-area",
+        "steps": [
+          "남부 에리어 3 북서쪽에서 막다른 길임을 알리는 표지판을 찾아요.",
+          "표지판 옆의 작은 움푹한 공간 안에서 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 막다른 길 표지판",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareathree.shtml"
+        }
+      }
+    ],
+    "056": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 3 · 동문 북서쪽 막다른 길",
+        "point": "south-three-area",
+        "steps": [
+          "테이블시티 동문 바깥에서 북서쪽 바윗길로 가요.",
+          "막다른 길을 알리는 표지판이 보이면 바위로 둘러싸인 작은 공간 안을 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "057": [
+      {
+        "kind": "reward",
+        "place": "테이블시티 · 학교 생물실",
+        "point": "false-swipe",
+        "steps": [
+          "학교에서 첫 생물 수업을 듣고 생물실의 지니어 선생님에게 말을 걸어요.",
+          "팔데아도감에 잡은 포켓몬이 30종 이상이 되면 생물실에서 선생님에게 다시 말을 걸어요."
+        ],
+        "requirement": "도감에 잡은 포켓몬 30종 · 첫 생물 수업",
+        "source": {
+          "title": "Nintendo Life · 칼등치기 얻는 법",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-get-false-swipe-tm"
+        }
+      }
+    ],
+    "058": [
+      {
+        "kind": "pickup",
+        "place": "사막 북서쪽 바위 꼭대기",
+        "point": "asado-desert",
+        "steps": [
+          "로스트 사막 북서쪽의 큰 바위 언덕으로 가요.",
+          "바위 꼭대기까지 올라가 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 사막 북서쪽 바위 꼭대기",
+          "url": "https://www.serebii.net/pokearth/paldea/asadodesert.shtml"
+        }
+      }
+    ],
+    "059": [
+      {
+        "kind": "pickup",
+        "place": "팀 카프 아지트 남쪽 절벽",
+        "point": "map-star-fighting",
+        "steps": [
+          "팀 카프 아지트에서 비파의 천막을 찾아요.",
+          "천막에서 남쪽 길로 절벽을 돌아가요. 아래 지역이 내려다보이는 가장자리에서 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팀 카프 아지트 남쪽 절벽",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "060": [
+      {
+        "kind": "pickup",
+        "place": "유적 서쪽의 작은 언덕",
+        "point": "east-two-area",
+        "steps": [
+          "동부 에리어 2의 유적에서 서쪽을 향해 작은 흙언덕을 찾아요.",
+          "언덕 위에서 드래곤 포켓몬을 쓰는 트레이너 옆을 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 유적 서쪽의 작은 언덕",
+          "url": "https://www.serebii.net/pokearth/paldea/eastprovinceareatwo.shtml"
+        }
+      }
+    ],
+    "061": [
+      {
+        "kind": "pickup",
+        "place": "동쪽 경계 절벽",
+        "point": "north-one-area",
+        "steps": [
+          "북부 에리어 1에서 동쪽으로 가서 북부 에리어 2가 내려다보이는 절벽을 찾아요.",
+          "경계의 절벽을 따라 기술머신을 찾아봐요."
+        ],
+        "source": {
+          "title": "Serebii · 동쪽 경계 절벽",
+          "url": "https://www.serebii.net/pokearth/paldea/northprovinceareaone.shtml"
+        }
+      }
+    ],
+    "062": [
+      {
+        "kind": "reward",
+        "place": "팀 세긴 아지트",
+        "point": "map-star-dark",
+        "steps": [
+          "팀 세긴 아지트 입구에서 도전을 시작하고 단체전을 끝내요.",
+          "피나에게 이겨 기술머신을 받아요."
+        ],
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "063": [
+      {
+        "kind": "pickup",
+        "place": "체육관 남쪽 비탈의 나무",
+        "point": "map-gym-glaseado",
+        "steps": [
+          "나페산체육관에서 남쪽 산비탈을 내려가요.",
+          "비탈 아래 나무 옆에 놓인 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 체육관 남쪽 비탈의 나무",
+          "url": "https://www.serebii.net/pokearth/paldea/glaseadomountain.shtml"
+        }
+      }
+    ],
+    "064": [
+      {
+        "kind": "pickup",
+        "place": "베이크체육관 뒤",
+        "point": "map-gym-alfornada",
+        "steps": [
+          "베이크마을에서 체육관 건물까지 가요.",
+          "건물 뒤편으로 돌아가서 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 베이크체육관 뒤",
+          "url": "https://www.serebii.net/pokearth/paldea/alfornada.shtml"
+        }
+      }
+    ],
+    "065": [
+      {
+        "kind": "pickup",
+        "place": "플라토마을 남동쪽 연못의 섬",
+        "point": "south-one-area",
+        "steps": [
+          "플라토마을에서 남동쪽으로 가서 한가운데에 작은 섬이 있는 연못을 찾아요.",
+          "물을 건너 섬 중앙에 놓인 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 플라토마을 남동쪽 연못의 섬",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "066": [
+      {
+        "kind": "pickup",
+        "place": "마리네이드마을 쪽 출구 옆 바위",
+        "point": "asado-desert",
+        "steps": [
+          "로스트 사막에서 마리네이드마을로 향하는 출구를 봤을 때 오른쪽에 있는 큰 바위 언덕으로 가요.",
+          "언덕 북쪽 면의 좁은 턱을 찾아요. 꼭대기까지 올라갈 필요는 없어요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 마리네이드마을 쪽 출구 옆 바위",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "067": [
+      {
+        "kind": "pickup",
+        "place": "테라스탈 토쇠골 남서쪽 바위",
+        "point": "wistful-fields",
+        "steps": [
+          "등꽃 들판 북서쪽에서 야생 테라스탈 토쇠골이 서는 자리로 가요.",
+          "그 자리에서 남서쪽에 있는 바위 옆을 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 테라스탈 토쇠골 남서쪽 바위",
+          "url": "https://www.serebii.net/pokearth/kitakami/wistfulfields.shtml"
+        }
+      },
+      {
+        "kind": "unlock",
+        "place": "팔데아 · 팀 시 아지트",
+        "point": "map-star-poison",
+        "steps": [
+          "표식의 나무숲에 있는 팀 시 아지트로 가서 보스 추명에게 이겨요.",
+          "포켓몬센터로 돌아가 초록색 기술머신머신에서 기술머신 067을 찾아요. 아래에 적힌 재료와 LP로 만들 수 있어요."
+        ],
+        "source": {
+          "title": "Bulbapedia · 기술머신 제작법 해금 조건",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_TMs_in_Pok%C3%A9mon_Scarlet_and_Violet"
+        }
+      }
+    ],
+    "068": [
+      {
+        "kind": "pickup",
+        "place": "낙원의 황무지로 내려가는 길",
+        "point": "wistful-fields",
+        "steps": [
+          "등꽃 들판 북쪽에서 낙원의 황무지로 내려가는 길을 찾아요.",
+          "내리막길 바로 옆 풀과 바위 사이에서 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 낙원의 황무지로 내려가는 길",
+          "url": "https://www.serebii.net/pokearth/kitakami/wistfulfields.shtml"
+        }
+      },
+      {
+        "kind": "unlock",
+        "place": "팔데아 · 팀 시 아지트",
+        "point": "map-star-poison",
+        "steps": [
+          "표식의 나무숲에 있는 팀 시 아지트로 가서 보스 추명에게 이겨요.",
+          "포켓몬센터로 돌아가 초록색 기술머신머신에서 기술머신 068을 찾아요. 아래에 적힌 재료와 LP로 만들 수 있어요."
+        ],
+        "source": {
+          "title": "Bulbapedia · 기술머신 제작법 해금 조건",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_TMs_in_Pok%C3%A9mon_Scarlet_and_Violet"
+        }
+      }
+    ],
+    "069": [
+      {
+        "kind": "pickup",
+        "place": "낙원의 황무지를 내려다보는 나무",
+        "point": "wistful-fields",
+        "steps": [
+          "등꽃 들판 북서쪽으로 가서 낙원의 황무지 쪽 절벽에 서요.",
+          "절벽 근처의 나무 옆을 살펴봐요."
+        ],
+        "source": {
+          "title": "Serebii · 낙원의 황무지를 내려다보는 나무",
+          "url": "https://www.serebii.net/pokearth/kitakami/wistfulfields.shtml"
+        }
+      },
+      {
+        "kind": "unlock",
+        "place": "팔데아 · 팀 시 아지트",
+        "point": "map-star-poison",
+        "steps": [
+          "표식의 나무숲에 있는 팀 시 아지트로 가서 보스 추명에게 이겨요.",
+          "포켓몬센터로 돌아가 초록색 기술머신머신에서 기술머신 069을 찾아요. 아래에 적힌 재료와 LP로 만들 수 있어요."
+        ],
+        "source": {
+          "title": "Bulbapedia · 기술머신 제작법 해금 조건",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/List_of_TMs_in_Pok%C3%A9mon_Scarlet_and_Violet"
+        }
+      }
+    ],
+    "070": [
+      {
+        "kind": "pickup",
+        "place": "누룽지 숲길 동쪽 입구",
+        "point": "casseroya-lake",
+        "steps": [
+          "오야 호수에서 누룽지 숲길의 동쪽 입구로 가요.",
+          "입구 근처의 풀밭을 찾아봐요."
+        ],
+        "source": {
+          "title": "Serebii · 누룽지 숲길 동쪽 입구",
+          "url": "https://www.serebii.net/pokearth/paldea/casseroyalake.shtml"
+        }
+      }
+    ],
+    "071": [
+      {
+        "kind": "pickup",
+        "place": "포켓몬센터 북쪽 길의 작은 구덩이",
+        "point": "north-one-area",
+        "steps": [
+          "북부 에리어 1 포켓몬센터에서 북쪽으로 길을 따라가요.",
+          "북서쪽 길에 있는 작은 분화구처럼 생긴 구덩이 안에서 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 포켓몬센터 북쪽 길의 작은 구덩이",
+          "url": "https://www.serebii.net/pokearth/paldea/northprovinceareaone.shtml"
+        }
+      }
+    ],
+    "072": [
+      {
+        "kind": "pickup",
+        "place": "망루 위",
+        "point": "south-two-tower",
+        "steps": [
+          "남부 에리어 2의 망루까지 가요.",
+          "사다리로 올라가 망루 위에 있는 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Serebii · 망루 위",
+          "url": "https://www.serebii.net/pokearth/paldea/southprovinceareatwo.shtml"
+        }
+      }
+    ],
+    "073": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 5 망루 꼭대기",
+        "point": "south-five-tower",
+        "steps": [
+          "남부 에리어 5 동쪽의 커다란 바위 구조물에서 서쪽을 보면 망루가 있어요.",
+          "사다리를 타고 망루 꼭대기로 올라가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 남부 에리어 5 망루 꼭대기 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "074": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 3 · 북쪽 높은 사다리",
+        "point": "south-three-area",
+        "steps": [
+          "남부 에리어 3의 북쪽 바위 지대에서 높게 이어지는 사다리를 찾아요.",
+          "사다리를 올라 맨 위에 있는 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "075": [
+      {
+        "kind": "pickup",
+        "place": "누룩스시티 체육관 배틀장 아래",
+        "point": "map-gym-levincia",
+        "steps": [
+          "누룩스시티의 체육관 배틀장 남쪽으로 가요.",
+          "배틀장 아래쪽을 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 누룩스시티 체육관 배틀장 아래 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "076": [
+      {
+        "kind": "pickup",
+        "place": "나선형 언덕 남쪽 절벽",
+        "point": "south-one-area",
+        "steps": [
+          "남부 에리어 1에서 길이 나선처럼 감겨 올라가는 커다란 언덕을 찾아요.",
+          "언덕 남쪽의 절벽 가장자리에서 아래쪽 턱으로 내려가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 나선형 언덕 남쪽 절벽 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "077": [
+      {
+        "kind": "pickup",
+        "place": "북부 에리어 2 · 마구찌르기 폭포 위",
+        "point": "fury-falls",
+        "steps": [
+          "북부 에리어 2의 마구찌르기 폭포 위쪽 물가로 가요.",
+          "폭포 위쪽 물가에 있는 작은 섬에서 덤불 옆을 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 북부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "078": [
+      {
+        "kind": "pickup",
+        "place": "오야 호수 가운데 큰 섬",
+        "point": "casseroya-lake",
+        "steps": [
+          "오야 호수 중앙에 있는 섬 중 가장 큰 섬으로 건너가요.",
+          "섬의 가장 높은 곳에 올라 동쪽을 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 오야 호수 가운데 큰 섬 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "079": [
+      {
+        "kind": "reward",
+        "place": "팀 루크바 아지트",
+        "point": "map-star-fairy",
+        "steps": [
+          "팀 루크바 아지트 입구에서 도전을 시작하고 단체전을 끝내요.",
+          "오르티가에게 이겨 기술머신을 받아요."
+        ],
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "080": [
+      {
+        "kind": "pickup",
+        "place": "마리네이드마을 북서쪽 해변",
+        "point": "west-two-area",
+        "steps": [
+          "마리네이드마을 북서쪽에서 해변으로 내려가요.",
+          "해안을 따라가다 오르막이 시작되기 직전 모래밭을 찾아봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 마리네이드마을 북서쪽 해변 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "081": [
+      {
+        "kind": "pickup",
+        "place": "테이블시티 샌드위치 가게 근처",
+        "point": "mesagoza",
+        "steps": [
+          "테이블시티 남동쪽 구역의 샌드위치 가게를 찾아요.",
+          "가게 근처 나무 밑에서 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 테이블시티 샌드위치 가게 근처 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "082": [
+      {
+        "kind": "reward",
+        "place": "테이블시티 남쪽 포켓몬센터",
+        "point": "thunder-wave",
+        "steps": [
+          "남부 에리어 1의 길가 트레이너 4명에게 이겨요.",
+          "테이블시티 남문 밖 포켓몬센터 옆의 포켓몬리그 직원에게 말을 걸어요."
+        ],
+        "requirement": "남부 에리어 1 트레이너 4명 승리",
+        "source": {
+          "title": "Bulbapedia · 포켓몬리그 직원의 도전",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_League_representative"
+        }
+      }
+    ],
+    "083": [
+      {
+        "kind": "pickup",
+        "place": "팔데아 북동쪽 육지 끝",
+        "point": "north-one-area",
+        "steps": [
+          "북부 에리어 1에서 지도를 열고 팔데아 본토의 가장 오른쪽 위 모서리를 찾아요.",
+          "바다로 내려가기 전, 육지 끝까지 가서 찾아봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 북동쪽 육지 끝 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "084": [
+      {
+        "kind": "reward",
+        "place": "누룩스시티 · 남쪽 포켓몬센터",
+        "point": "map-gym-levincia",
+        "steps": [
+          "동부 에리어 2에서 길가 트레이너 6명에게 이겨요.",
+          "누룩스시티 남쪽 포켓몬센터 옆의 포켓몬리그 직원에게 말을 걸어요."
+        ],
+        "requirement": "동부 에리어 2 트레이너 6명 승리",
+        "source": {
+          "title": "Bulbapedia · 포켓몬리그 직원의 도전",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_League_representative"
+        }
+      }
+    ],
+    "085": [
+      {
+        "kind": "pickup",
+        "place": "플라토마을 · 연못 옆 벤치",
+        "point": "los-platos",
+        "steps": [
+          "플라토마을 안에서 연못을 찾아요.",
+          "연못 가까이에 있는 벤치 옆에서 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "090": [
+      {
+        "kind": "pickup",
+        "place": "로스트 사막 북쪽 유적",
+        "point": "asado-desert",
+        "steps": [
+          "로스트 사막을 북쪽 끝까지 가서 무너진 유적을 찾아요.",
+          "유적 안쪽 기둥 바로 옆을 봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 로스트 사막 북쪽 유적 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "091": [
+      {
+        "kind": "pickup",
+        "place": "포켓몬센터 북동쪽 강 건너 유적",
+        "point": "east-two-area",
+        "steps": [
+          "동부 에리어 2 포켓몬센터에서 북동쪽으로 가면 강가에 모래가 드러난 곳이 있어요. 그곳에서 건너요.",
+          "강을 건넌 곳에서 바로 북쪽 유적으로 가서 통 위를 확인해요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 포켓몬센터 북동쪽 강 건너 유적 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "092": [
+      {
+        "kind": "pickup",
+        "place": "팀 시 아지트 안쪽 연못",
+        "point": "map-star-poison",
+        "steps": [
+          "팀 시 아지트에서 남동쪽으로 가서 연못을 찾아요.",
+          "물가에서 연못 가운데를 확인해요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팀 시 아지트 안쪽 연못 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "093": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 5에서 건너오는 다리 옆 돌기둥",
+        "point": "south-three-area",
+        "steps": [
+          "남부 에리어 5에서 남부 에리어 3으로 이어지는 다리를 찾아요.",
+          "다리 북동쪽에 있는 나선 모양 돌기둥의 꼭대기로 가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 남부 에리어 5에서 건너오는 다리 옆 돌기둥 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "094": [
+      {
+        "kind": "pickup",
+        "place": "베이크마을 동쪽 산길 유적",
+        "point": "south-six-area",
+        "steps": [
+          "베이크마을 동쪽으로 나가 산길을 올라가요.",
+          "무너진 유적 벽 뒤로 돌아가면 보여요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 베이크마을 동쪽 산길 유적 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "095": [
+      {
+        "kind": "pickup",
+        "place": "표식의 나무숲 북쪽 연못",
+        "point": "tagtree-thicket",
+        "steps": [
+          "숲 북쪽 작은 연못에서 안쪽 섬을 찾아요.",
+          "섬에 있는 색칠된 나무 뒤로 돌아가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 표식의 나무숲 북쪽 연못 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "096": [
+      {
+        "kind": "pickup",
+        "place": "티스푼 오솔길 등대 뒤 지붕",
+        "point": "poco-lighthouse",
+        "steps": [
+          "티스푼 오솔길 등대로 가요.",
+          "등대 바로 뒤 건물의 평평한 지붕 위를 확인해요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 티스푼 오솔길 등대 뒤 지붕 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "097": [
+      {
+        "kind": "pickup",
+        "place": "마리네이드마을 동쪽 큰 동굴 위",
+        "point": "west-two-area",
+        "steps": [
+          "마리네이드마을에서 동쪽으로 가서 커다란 동굴을 찾아요.",
+          "동굴 바깥의 윗부분으로 올라간 뒤 남서쪽 모서리를 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 마리네이드마을 동쪽 큰 동굴 위 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "098": [
+      {
+        "kind": "pickup",
+        "place": "베이크마을 북서쪽 건물 뒤",
+        "point": "map-gym-alfornada",
+        "steps": [
+          "베이크마을에서 북서쪽 건물 뒤로 돌아가요.",
+          "건물 뒤 왼쪽 통 옆에 있어요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 베이크마을 북서쪽 건물 뒤 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "099": [
+      {
+        "kind": "pickup",
+        "place": "누룩스시티 부두 남동쪽",
+        "point": "map-gym-levincia",
+        "steps": [
+          "누룩스시티의 부두 구역에서 남동쪽으로 가요.",
+          "남쪽에 있는 건물 옆을 확인해요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 누룩스시티 부두 남동쪽 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "100": [
+      {
+        "kind": "pickup",
+        "place": "에리어 제로 · 관측 유닛 2호 맞은편",
+        "point": "area-zero",
+        "steps": [
+          "에리어 제로 상층의 관측 유닛 2호으로 가요.",
+          "건너편에 보이는 길게 이어진 언덕의 윗부분으로 올라가 기술머신을 주워요."
+        ],
+        "requirement": "에리어 제로 입장 가능",
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "101": [
+      {
+        "kind": "pickup",
+        "place": "동부 에리어 3 북쪽 공사장",
+        "point": "east-three-area",
+        "steps": [
+          "동부 에리어 3 북쪽에서 자재가 쌓인 공사장을 찾아요.",
+          "공사용 발판의 아래쪽으로 들어가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 동부 에리어 3 북쪽 공사장 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "102": [
+      {
+        "kind": "reward",
+        "place": "팀 시 아지트",
+        "point": "map-star-poison",
+        "steps": [
+          "팀 시 아지트 입구에서 도전을 시작하고 단체전을 끝내요.",
+          "추명에게 이겨 기술머신을 받아요."
+        ],
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "105": [
+      {
+        "kind": "pickup",
+        "place": "참푸르마을 남서쪽 작은 연못",
+        "point": "west-three-area",
+        "steps": [
+          "참푸르마을 남서쪽에서 양옆에 나무가 한 그루씩 있는 작은 연못을 찾아요.",
+          "연못 뒤 바위 위에 올라가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 참푸르마을 남서쪽 작은 연못 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "106": [
+      {
+        "kind": "pickup",
+        "place": "테이블시티 서문 밖 나무가 있는 언덕",
+        "point": "south-two-area",
+        "steps": [
+          "테이블시티 서문에서 서쪽으로 나가요.",
+          "마른 풀이 난 높은 평지에 올라 나무 주변을 찾아봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 테이블시티 서문 밖 나무가 있는 언덕 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "114": [
+      {
+        "kind": "reward",
+        "place": "프리지체육관",
+        "point": "map-gym-montenevera",
+        "steps": [
+          "체육관에 접수하고 무대에서 더블배틀 세 번을 이겨요.",
+          "라임에게 이겨 기술머신을 받아요."
+        ],
+        "requirement": "체육관 테스트 통과",
+        "source": {
+          "title": "Bulbapedia · 프리지체육관",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Montenevera_Gym"
+        }
+      }
+    ],
+    "116": [
+      {
+        "kind": "pickup",
+        "place": "서부 에리어 2의 돌기둥 지대",
+        "point": "west-two-area",
+        "steps": [
+          "서부 에리어 2에서 커다란 돌기둥들이 모인 곳을 찾아요.",
+          "기둥 중 옆으로 쓰러진 것 위로 올라가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 서부 에리어 2의 돌기둥 지대 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "119": [
+      {
+        "kind": "pickup",
+        "place": "북부 에리어 3 · 팀 루크바 아지트의 등대",
+        "point": "map-star-fairy",
+        "steps": [
+          "팀 루크바 아지트 안에 있는 북쪽 등대를 찾아요.",
+          "등대 꼭대기에서 기술머신을 주워요."
+        ],
+        "requirement": "팀 루크바 아지트 출입 가능",
+        "source": {
+          "title": "Nintendo Life · 팔데아 북부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      },
+      {
+        "kind": "pickup",
+        "place": "북부 에리어 1 · 북쪽 호수 남서쪽",
+        "point": "north-one-area",
+        "steps": [
+          "북부 에리어 1의 북쪽 호수에서 서쪽 언덕으로 올라가요.",
+          "볼록 튀어나온 바위 면에 닿으면 왼쪽으로 돌아 절벽 가장자리를 따라가요. 호수가 내려다보이는 곳에서 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 북부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "120": [
+      {
+        "kind": "reward",
+        "place": "베이크체육관",
+        "point": "map-gym-alfornada",
+        "steps": [
+          "체육관에 접수하고 감정 표현 운동을 따라 해요. 중간에 만나는 트레이너도 이겨요.",
+          "리파에게 이겨 기술머신을 받아요."
+        ],
+        "requirement": "체육관 테스트 통과",
+        "source": {
+          "title": "Bulbapedia · 베이크체육관",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Alfornada_Gym"
+        }
+      }
+    ],
+    "121": [
+      {
+        "kind": "pickup",
+        "place": "팀 세긴 아지트 남쪽 고지대",
+        "point": "west-one-area",
+        "steps": [
+          "아지트 남쪽의 높은 지대로 올라가요. 가장 높은 곳에서 동쪽을 봐요.",
+          "홀로 떨어진 갈색 바위 단의 남쪽 끝을 찾아요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팀 세긴 아지트 남쪽 고지대 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "122": [
+      {
+        "kind": "pickup",
+        "place": "등대 동쪽 강어귀",
+        "point": "north-three-area",
+        "steps": [
+          "북부 에리어 3 북쪽 해안의 등대에서 동쪽으로 가요.",
+          "강물이 바다와 만나는 강어귀 옆을 찾아봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 등대 동쪽 강어귀 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "123": [
+      {
+        "kind": "pickup",
+        "place": "마리네이드마을 · 서쪽의 배",
+        "point": "porto-marinada",
+        "steps": [
+          "마리네이드마을에서 바닷가 쪽 서쪽으로 가요.",
+          "서쪽에 있는 배들 위를 살펴 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 서부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      },
+      {
+        "kind": "pickup",
+        "place": "누룩스시티 · 남쪽 포켓몬센터 북동쪽",
+        "point": "map-gym-levincia",
+        "steps": [
+          "누룩스시티 남쪽 포켓몬센터에서 북동쪽으로 가요.",
+          "자판기와 통이 있는 곳 옆을 살펴봐요."
+        ],
+        "source": {
+          "title": "Bulbapedia · 누룩스시티",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Levincia"
+        }
+      }
+    ],
+    "124": [
+      {
+        "kind": "reward",
+        "place": "나페산체육관",
+        "point": "map-gym-glaseado",
+        "steps": [
+          "체육관에 접수하고 라이드로 눈 쌓인 슬로프를 제한 시간 안에 내려와요.",
+          "그루샤에게 이겨 기술머신을 받아요."
+        ],
+        "requirement": "체육관 테스트 통과",
+        "source": {
+          "title": "Bulbapedia · 나페산체육관",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Glaseado_Gym"
+        }
+      }
+    ],
+    "128": [
+      {
+        "kind": "pickup",
+        "place": "테이블시티 학교 뒤 잔디",
+        "point": "mesagoza",
+        "steps": [
+          "테이블시티에서 학교 건물의 북쪽으로 돌아가요.",
+          "건물 뒤 잔디밭을 확인해요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 테이블시티 학교 뒤 잔디 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "130": [
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 3 · 포켓몬센터 바로 남쪽",
+        "point": "south-three-area",
+        "steps": [
+          "남부 에리어 3 포켓몬센터에서 바로 남쪽을 살펴봐요.",
+          "살짝 튀어나온 작은 바위 턱에서 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "131": [
+      {
+        "kind": "pickup",
+        "place": "티스푼 오솔길 등대 북서쪽 꽃밭",
+        "point": "south-one-area",
+        "steps": [
+          "등대에서 북서쪽으로 가서 노란 꽃이 동그랗게 핀 곳을 찾아요.",
+          "꽃으로 둘러싸인 원의 가운데로 들어가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 티스푼 오솔길 등대 북서쪽 꽃밭 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "132": [
+      {
+        "kind": "pickup",
+        "place": "포켓몬리그 건물 뒤",
+        "point": "pokemon-league",
+        "steps": [
+          "테이블시티 북서쪽 포켓몬리그 건물로 가요.",
+          "큰 건물을 따라 뒤쪽으로 돌아가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 포켓몬리그 건물 뒤 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "134": [
+      {
+        "kind": "pickup",
+        "place": "오야 호수 서쪽 모래 해변",
+        "point": "casseroya-lake",
+        "steps": [
+          "오야 호수 서쪽 물가에서 모래 해변이 길게 이어진 곳을 찾아요.",
+          "모래밭을 따라 북쪽 끝으로 가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 오야 호수 서쪽 모래 해변 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "136": [
+      {
+        "kind": "pickup",
+        "place": "누룩스시티 배틀장 아래 부두 끝",
+        "point": "map-gym-levincia",
+        "steps": [
+          "누룩스시티 체육관 배틀장 아래의 부두로 가요.",
+          "부두가 끝나는 곳까지 걸어가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 누룩스시티 배틀장 아래 부두 끝 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "137": [
+      {
+        "kind": "pickup",
+        "place": "보울마을 동쪽 긴 언덕",
+        "point": "east-one-area",
+        "steps": [
+          "보울마을 바로 동쪽의 길쭉한 언덕으로 가요.",
+          "언덕 중간쯤에 서 있는 나무 아래를 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 보울마을 동쪽 긴 언덕 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "138": [
+      {
+        "kind": "pickup",
+        "place": "티스푼마을 집 북쪽 연못 위",
+        "point": "south-four-area",
+        "steps": [
+          "지도에서 주인공의 집 바로 북쪽에 있는 작은 연못을 찾아요.",
+          "연못 남쪽의 높은 지대로 올라가 물이 내려다보이는 자리를 확인해요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 티스푼마을 집 북쪽 연못 위 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "139": [
+      {
+        "kind": "pickup",
+        "place": "대나무숲 서쪽 연못",
+        "point": "north-two-area",
+        "steps": [
+          "북부 에리어 2의 대나무숲에서 서쪽으로 가서 연못을 찾아요.",
+          "연못 뒤쪽으로 돌아가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 대나무숲 서쪽 연못 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "144": [
+      {
+        "kind": "pickup",
+        "place": "누룩스시티 남동쪽 풀섬 북쪽 끝",
+        "point": "east-paldean-sea",
+        "steps": [
+          "누룩스시티 남동쪽 바다에서 땅 대부분이 풀밭인 작은 섬으로 건너가요.",
+          "섬의 북쪽 끝에서 불꽃 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 누룩스시티 남동쪽 풀섬 북쪽 끝 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "145": [
+      {
+        "kind": "pickup",
+        "place": "누룩스시티 남동쪽 풀섬 동쪽 끝",
+        "point": "east-paldean-sea",
+        "steps": [
+          "누룩스시티 남동쪽 바다에서 풀이 덮인 작은 섬을 찾아요.",
+          "같은 섬에 놓인 기술머신 중 동쪽 끝에 있는 것을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 누룩스시티 남동쪽 풀섬 동쪽 끝 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "146": [
+      {
+        "kind": "pickup",
+        "place": "누룩스시티 남동쪽 풀섬 서쪽 끝",
+        "point": "east-paldean-sea",
+        "steps": [
+          "누룩스시티 남동쪽에 있는 작은 풀섬으로 건너가요.",
+          "섬의 서쪽 끝으로 가면 풀 기술머신을 얻어요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 누룩스시티 남동쪽 풀섬 서쪽 끝 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-east-province-tagtree-thicket"
+        }
+      }
+    ],
+    "147": [
+      {
+        "kind": "pickup",
+        "place": "북부 에리어 2 남동쪽의 가느다란 풀밭",
+        "point": "north-two-area",
+        "steps": [
+          "북부 에리어 2 남동쪽에서 산 사이로 풀밭이 길고 가늘게 이어지는 곳을 찾아요.",
+          "그 풀밭의 남쪽 끝까지 가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 북부 에리어 2 남동쪽의 가느다란 풀밭 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "149": [
+      {
+        "kind": "reward",
+        "place": "카라프시티 · 북쪽 포켓몬센터",
+        "point": "asado-desert",
+        "steps": [
+          "로스트 사막 안에 있는 트레이너 5명에게 이겨요.",
+          "카라프시티 북쪽 포켓몬센터 옆 포켓몬리그 직원에게 말을 걸어요."
+        ],
+        "requirement": "로스트 사막 트레이너 5명 승리",
+        "source": {
+          "title": "Bulbapedia · 카라프시티",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/Cascarrafa"
+        }
+      }
+    ],
+    "151": [
+      {
+        "kind": "pickup",
+        "place": "로스트 사막 서쪽 바다의 긴 섬",
+        "point": "west-paldean-sea",
+        "steps": [
+          "로스트 사막 서쪽 바닷가에서 지도를 열어요.",
+          "해안 밖에 있는 섬 가운데 가장 길게 뻗은 섬으로 건너가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 로스트 사막 서쪽 바다의 긴 섬 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-west-province-asado-desert"
+        }
+      }
+    ],
+    "152": [
+      {
+        "kind": "pickup",
+        "place": "베이크 공동의 높은 바위턱",
+        "point": "alfornada-cavern",
+        "steps": [
+          "베이크 공동 안에서 야생 테라스탈 헬가가 있는 곳을 찾아요.",
+          "벽타기로 헬가가 내려다보이는 높은 턱에 올라가요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 베이크 공동의 높은 바위턱 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "153": [
+      {
+        "kind": "pickup",
+        "place": "북부 에리어 1 바다가 보이는 동굴",
+        "point": "north-one-area",
+        "steps": [
+          "북부 에리어 1 포켓몬센터에서 북쪽으로 출발해 산을 끼고 북서쪽으로 돌아가요.",
+          "바다를 내려다보는 동굴 안에서 블라스트번을 주워요. 다른 두 기술머신도 이곳에 있어요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 북부 에리어 1 바다가 보이는 동굴 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "154": [
+      {
+        "kind": "pickup",
+        "place": "북부 에리어 1 해안 절벽 동굴",
+        "point": "north-one-area",
+        "steps": [
+          "북부 에리어 1 포켓몬센터에서 북쪽으로 간 뒤 산 둘레를 따라 북서쪽으로 가요.",
+          "바다가 내려다보이는 동굴 안으로 들어가 하이드로캐논을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 북부 에리어 1 해안 절벽 동굴 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "155": [
+      {
+        "kind": "pickup",
+        "place": "북부 에리어 1 해안 절벽 동굴",
+        "point": "north-one-area",
+        "steps": [
+          "북부 에리어 1 포켓몬센터에서 북쪽으로 가다가 북서쪽으로 산을 돌아요.",
+          "바다를 향해 열린 동굴 안에서 하드플랜트를 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 북부 에리어 1 해안 절벽 동굴 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "166": [
+      {
+        "kind": "pickup",
+        "place": "베이크마을 북쪽 · 수몰된 사탑",
+        "point": "south-six-area",
+        "steps": [
+          "베이크마을 북쪽의 작은 호수에서 수몰된 사탑을 찾아요.",
+          "사탑의 사다리를 타고 꼭대기에서 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Pro Game Guides · 번개 기술머신",
+          "url": "https://progameguides.com/pokemon-scarlet-and-violet/where-to-find-thunder-tm-in-pokemon-scarlet-violet/"
+        }
+      },
+      {
+        "kind": "pickup",
+        "place": "남부 에리어 3 · 테이블시티 동문 맞은편",
+        "point": "south-three-area",
+        "steps": [
+          "테이블시티 동문 바로 바깥에서 가장 높은 돌기둥을 찾아요.",
+          "도시와 바위 지대를 함께 내려다볼 수 있는 돌기둥 꼭대기에서 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 팔데아 남부 기술머신",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-south-province-mesagoza"
+        }
+      }
+    ],
+    "167": [
+      {
+        "kind": "reward",
+        "place": "팀 카프 아지트",
+        "point": "map-star-fighting",
+        "steps": [
+          "팀 카프 아지트 입구에서 도전을 시작하고 단체전을 끝내요.",
+          "비파에게 이겨 기술머신을 받아요."
+        ],
+        "source": {
+          "title": "Pokémon Database · 스칼렛·바이올렛 기술머신",
+          "url": "https://pokemondb.net/scarlet-violet/tms"
+        }
+      }
+    ],
+    "168": [
+      {
+        "kind": "pickup",
+        "place": "오야 호수 중앙의 큰 섬 동쪽",
+        "point": "casseroya-lake",
+        "steps": [
+          "오야 호수 한가운데에서 가장 큰 섬으로 가요.",
+          "섬의 동쪽을 살펴봐요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 오야 호수 중앙의 큰 섬 동쪽 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "169": [
+      {
+        "kind": "reward",
+        "place": "테이블시티 · 학교 앞 계단",
+        "point": "mesagoza",
+        "steps": [
+          "스타더스트★스트리트의 마지막 배틀과 이어지는 학교 안 대화를 마쳐요.",
+          "학교 밖 계단으로 내려가 기다리는 사람과 이야기하면 기술머신을 받아요."
+        ],
+        "requirement": "스타더스트★스트리트 마지막 단계",
+        "source": {
+          "title": "Marriland · 스타더스트★스트리트 마지막 단계",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/starfall-street/finale/"
+        }
+      }
+    ],
+    "170": [
+      {
+        "kind": "pickup",
+        "place": "북부 에리어 3 서쪽으로 이어지는 동굴",
+        "point": "north-three-area",
+        "steps": [
+          "나페산 북서쪽과 북부 에리어 3 서쪽이 만나는 동굴길을 찾아요.",
+          "동굴 안으로 들어가 기술머신을 주워요."
+        ],
+        "source": {
+          "title": "Nintendo Life · 북부 에리어 3 서쪽으로 이어지는 동굴 위치 사진",
+          "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-tm-locations-north-province-glaseado-mountain-casseroya-lake"
+        }
+      }
+    ],
+    "171": [
+      {
+        "kind": "reward",
+        "place": "다섯 번째로 이긴 체육관",
+        "steps": [
+          "어느 순서든 체육관 관장을 다섯 명 이겨 체육관 배지 5개를 모아요.",
+          "그 뒤 이어지는 네모와의 배틀에서 이기면 테사에게 기술머신을 받아요."
+        ],
+        "requirement": "체육관 배지 5개 · 네모와의 배틀 승리",
+        "source": {
+          "title": "Bulbapedia · 기술머신 171",
+          "url": "https://bulbapedia.bulbagarden.net/wiki/TM171"
+        }
+      }
+    ]
+  }
+}

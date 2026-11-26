@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720">
+  <defs>
+    <clipPath id="dome"><ellipse cx="500" cy="360" rx="442" ry="302"/></clipPath>
+    <pattern id="tile" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M0 22h44M22 0v44" fill="none" stroke="#768fac" stroke-width="1" opacity=".13"/></pattern>
+    <g id="ice"><path d="M-23 12-1-26 22 12Z" fill="#8eb6cf"/><path d="m-1-26-10 17 8-4 6 6 4-5Z" fill="#f4fcff"/></g>
+    <g id="rock"><path d="m-28 16 16-34h29l16 34Z" fill="#b77858"/><path d="m-11-18-5 22h38l-5-22Z" fill="#ca916a"/></g>
+    <g id="tree"><path d="M-3 2h6v19h-6Z" fill="#98734f"/><path d="M-31 6Q-18-17 0-17T31 6Z" fill="#83a763"/><path d="M-23 1q12-14 22-13" fill="none" stroke="#a9c478" stroke-width="3" stroke-linecap="round"/></g>
+  </defs>
+  <rect width="1000" height="720" fill="#dadfeb"/>
+  <rect width="1000" height="720" fill="url(#tile)"/>
+  <ellipse cx="500" cy="360" rx="455" ry="315" fill="#aab2ca"/>
+  <g clip-path="url(#dome)">
+    <rect x="50" y="45" width="450" height="315" fill="#d1e6f1"/>
+    <rect x="500" y="45" width="450" height="315" fill="#a2dce0"/>
+    <rect x="50" y="360" width="450" height="330" fill="#e1b081"/>
+    <rect x="500" y="360" width="450" height="330" fill="#d6d69a"/>
+    <path d="M53 274q111-57 197-42 99 10 154-48l32-92h-31l-83 101-106-12-141 46Z" fill="#e6f2f8"/>
+    <path d="M115 310q77-42 136-28l69 21 37-19 25 8-39 27-55 16-57-17-91 18z" fill="#a9cde0" opacity=".8"/>
+    <path d="M499 95q99 29 146 68 66 9 79 37 10 14-12 40-31 22 38 60 81 36 143-41l45 23-18 54-420 26z" fill="#8bc9cf"/>
+    <path d="M501 143q96-22 152 30 37 8 53 29 11 22-24 39-30 5-55 42-24 37-120 35l-31-37z" fill="#edd8a2" stroke="#d7ecbb" stroke-width="7"/>
+    <path d="M749 166q51-35 97-7l18 42-25 31-65 6-38-31Z" fill="#edd8a2" stroke="#e0ecbf" stroke-width="6"/>
+    <path d="M866 258q35-22 67 2l-4 36-31 14-37-21Z" fill="#e9d39c"/>
+    <path d="M77 469q97-77 191-41 71 30 144 14l76 16-34 45-110 20-80-31-94 22-63 34Z" fill="#cb9168"/>
+    <path d="M48 592q103-75 174-64 101 2 159-27 32-12 110-17" fill="none" stroke="#8cc3c3" stroke-width="17"/>
+    <path d="M602 486q49-35 104-29 67 19 18 55-85 33-135 10-13-17 13-36Z" fill="#9ecbc0"/>
+    <path d="M789 571q51-29 86-5l23 33-41 45-68-16q-29-20 0-57Z" fill="#9ecbc0"/>
+    <g><use href="#ice" x="157" y="190"/><use href="#ice" x="213" y="171"/><use href="#ice" x="287" y="160"/><use href="#ice" x="333" y="144"/><use href="#ice" x="354" y="206"/><use href="#ice" x="392" y="149"/><use href="#rock" x="162" y="479"/><use href="#rock" x="205" y="463"/><use href="#rock" x="310" y="550"/><use href="#rock" x="350" y="561"/><use href="#rock" x="414" y="473"/><use href="#tree" x="622" y="562"/><use href="#tree" x="669" y="589"/><use href="#tree" x="836" y="484"/><use href="#tree" x="884" y="504"/><use href="#tree" x="762" y="528"/><use href="#tree" x="621" y="465"/></g>
+    <path d="M49 360h902M500 50v620" fill="none" stroke="#fff" stroke-width="10" opacity=".48"/>
+    <path d="M260 200 500 360 735 198M260 521l240-161 228 160" fill="none" stroke="#f9f6e5" stroke-width="6" stroke-linecap="round" stroke-dasharray="5 12" opacity=".82"/>
+  </g>
+  <ellipse cx="500" cy="360" rx="442" ry="302" fill="none" stroke="#f0f5f7" stroke-width="8"/>
+  <ellipse cx="500" cy="360" rx="433" ry="292" fill="none" stroke="#667995" stroke-width="2" opacity=".35"/>
+  <path d="m500 323 38 37-38 37-38-37z" fill="#e9eef0" stroke="#a4adba" stroke-width="3"/>
+  <path d="m500 336 24 24-24 24-24-24z" fill="#c7d7e8"/>
+  <g fill="#354650" font-family="system-ui,sans-serif" font-weight="700" font-size="21" text-anchor="middle" paint-order="stroke" stroke="#e6eee5" stroke-width="5" stroke-linejoin="round">
+    <text x="292" y="244">폴라 에리어</text><text x="709" y="244">코스트 에리어</text><text x="292" y="587">캐니언 에리어</text><text x="708" y="587">사바나 에리어</text>
+  </g>
+  <path d="M66 90V47m-9 10 9-10 9 10" fill="none" stroke="#586e8a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="66" y="109" text-anchor="middle" font-family="system-ui,sans-serif" font-size="15" font-weight="800" fill="#586e8a">북</text>
+</svg>

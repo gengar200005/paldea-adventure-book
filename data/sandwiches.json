@@ -1,0 +1,6939 @@
+{
+  "recipes": [
+    {
+      "number": 1,
+      "name": "잠봉뵈르",
+      "ingredients": [
+        {
+          "name": "슬라이스햄",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "ground",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "ghost",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "bug",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "쓴맛 잠봉뵈르",
+      "ingredients": [
+        {
+          "name": "슬라이스햄",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "비전 쌉쌀스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "bug",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "단맛 잠봉뵈르",
+      "ingredients": [
+        {
+          "name": "슬라이스햄",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "비전 달콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "bug",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "짠맛 잠봉뵈르",
+      "ingredients": [
+        {
+          "name": "슬라이스햄",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "비전 짭짤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "bug",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "신맛 잠봉뵈르",
+      "ingredients": [
+        {
+          "name": "슬라이스햄",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "비전 새콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "아기자기 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "bug",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "매운맛 잠봉뵈르",
+      "ingredients": [
+        {
+          "name": "슬라이스햄",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "비전 매콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "bug",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "레전드 쓴맛 샌드위치",
+      "ingredients": [
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "비전 쌉쌀스파이스",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "grass",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "레전드 짠맛 샌드위치",
+      "ingredients": [
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "비전 짭짤스파이스",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "grass",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "레전드 단맛 샌드위치",
+      "ingredients": [
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "비전 달콤스파이스",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "grass",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "레전드 신맛 샌드위치",
+      "ingredients": [
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "비전 새콤스파이스",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "아기자기 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "grass",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "레전드 매운맛 샌드위치",
+      "ingredients": [
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "비전 매콤스파이스",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "grass",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "잼 샌드위치",
+      "ingredients": [
+        {
+          "name": "딸기슬라이스",
+          "count": 1
+        },
+        {
+          "name": "베리잼",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "psychic",
+          "level": 1
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "슈퍼 잼 샌드위치",
+      "ingredients": [
+        {
+          "name": "딸기슬라이스",
+          "count": 1
+        },
+        {
+          "name": "베리잼",
+          "count": 1
+        },
+        {
+          "name": "요구르트",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "fighting",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "psychic",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "ghost",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "하이퍼 잼 샌드위치",
+      "ingredients": [
+        {
+          "name": "딸기슬라이스",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "베리잼",
+          "count": 1
+        },
+        {
+          "name": "요구르트",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "마스터 잼 샌드위치",
+      "ingredients": [
+        {
+          "name": "딸기슬라이스",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "베리잼",
+          "count": 1
+        },
+        {
+          "name": "요구르트",
+          "count": 1
+        },
+        {
+          "name": "비전 달콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "fighting",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "땅콩버터 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "땅콩버터",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "electric",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "bug",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": "슈퍼 땅콩버터 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "땅콩버터",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "electric",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "normal",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": "하이퍼 땅콩버터 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "땅콩버터",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "베리잼",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "bug",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "name": "마스터 땅콩버터 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "땅콩버터",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "베리잼",
+          "count": 1
+        },
+        {
+          "name": "비전 매콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "electric",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "bug",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "name": "피클 샌드위치",
+      "ingredients": [
+        {
+          "name": "피클슬라이스",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "fire",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "ghost",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "name": "슈퍼 피클 샌드위치",
+      "ingredients": [
+        {
+          "name": "피클슬라이스",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "유실물 파워",
+          "type": "fighting",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fire",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "ghost",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "name": "하이퍼 피클 샌드위치",
+      "ingredients": [
+        {
+          "name": "피클슬라이스",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "유실물 파워",
+          "type": "fighting",
+          "level": 2
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "fire",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "name": "마스터 피클 샌드위치",
+      "ingredients": [
+        {
+          "name": "피클슬라이스",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "비전 새콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "fighting",
+          "level": 2
+        },
+        {
+          "name": "아기자기 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "name": "마멀레이드 샌드위치",
+      "ingredients": [
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "유실물 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "rock",
+          "level": 1
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "name": "슈퍼 마멀레이드 샌드위치",
+      "ingredients": [
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "rock",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "poison",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "name": "하이퍼 마멀레이드 샌드위치",
+      "ingredients": [
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "크림치즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "fighting",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "name": "마스터 마멀레이드 샌드위치",
+      "ingredients": [
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "크림치즈",
+          "count": 1
+        },
+        {
+          "name": "비전 짭짤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "bug",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "fighting",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "name": "허브소시지 샌드위치",
+      "ingredients": [
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "ghost",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "ground",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "name": "슈퍼 허브소시지 샌드위치",
+      "ingredients": [
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "ghost",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "fighting",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "name": "하이퍼 허브소시지 샌드위치",
+      "ingredients": [
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fighting",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "name": "마스터 허브소시지 샌드위치",
+      "ingredients": [
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        },
+        {
+          "name": "비전 쌉쌀스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "fighting",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "name": "카레라이스 스타일 샌드위치",
+      "ingredients": [
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "normal",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "fire",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "fighting",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "name": "슈퍼 카레라이스 스타일 샌드위치",
+      "ingredients": [
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "normal",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "name": "하이퍼 카레라이스 스타일 샌드위치",
+      "ingredients": [
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "fairy",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "name": "마스터 카레라이스 스타일 샌드위치",
+      "ingredients": [
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "비전 매콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "fairy",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "name": "디저트 샌드위치",
+      "ingredients": [
+        {
+          "name": "사과슬라이스",
+          "count": 2
+        },
+        {
+          "name": "요구르트",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "flying",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "ice",
+          "level": 1
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "name": "슈퍼 디저트 샌드위치",
+      "ingredients": [
+        {
+          "name": "사과슬라이스",
+          "count": 2
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "요구르트",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "flying",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "ice",
+          "level": 1
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "name": "하이퍼 디저트 샌드위치",
+      "ingredients": [
+        {
+          "name": "사과슬라이스",
+          "count": 2
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "딸기슬라이스",
+          "count": 1
+        },
+        {
+          "name": "요구르트",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "유실물 파워",
+          "type": "flying",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "name": "마스터 디저트 샌드위치",
+      "ingredients": [
+        {
+          "name": "사과슬라이스",
+          "count": 2
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "딸기슬라이스",
+          "count": 1
+        },
+        {
+          "name": "요구르트",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        },
+        {
+          "name": "비전 달콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "flying",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "fighting",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "name": "트로피컬 샌드위치",
+      "ingredients": [
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "dragon",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "name": "슈퍼 트로피컬 샌드위치",
+      "ingredients": [
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "dark",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "water",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "name": "하이퍼 트로피컬 샌드위치",
+      "ingredients": [
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "water",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "ground",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "name": "마스터 트로피컬 샌드위치",
+      "ingredients": [
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        },
+        {
+          "name": "비전 새콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "water",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "ground",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "name": "아보카도 샌드위치",
+      "ingredients": [
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "dragon",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "electric",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "dark",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "name": "슈퍼 아보카도 샌드위치",
+      "ingredients": [
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "fairy",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "dark",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "name": "하이퍼 아보카도 샌드위치",
+      "ingredients": [
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "dragon",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "name": "마스터 아보카도 샌드위치",
+      "ingredients": [
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비전 짭짤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "dragon",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "name": "누들 샌드위치",
+      "ingredients": [
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "poison",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "rock",
+          "level": 1
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "ground",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "name": "슈퍼 누들 샌드위치",
+      "ingredients": [
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "rock",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "ground",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "name": "하이퍼 누들 샌드위치",
+      "ingredients": [
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "구운초리조",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "fire",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "electric",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "name": "마스터 누들 샌드위치",
+      "ingredients": [
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "구운초리조",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        },
+        {
+          "name": "비전 쌉쌀스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "electric",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "name": "감자샐러드 샌드위치",
+      "ingredients": [
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "빨간파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "bug",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "steel",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "ghost",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "name": "슈퍼 감자샐러드 샌드위치",
+      "ingredients": [
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "빨간파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "ghost",
+          "level": 1
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "bug",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "name": "하이퍼 감자샐러드 샌드위치",
+      "ingredients": [
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "빨간파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "bug",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "dragon",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "name": "마스터 감자샐러드 샌드위치",
+      "ingredients": [
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "빨간파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "비전 달콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "name": "스파이시 샌드위치",
+      "ingredients": [
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "칠리소스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "psychic",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "water",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "name": "슈퍼 스파이시 샌드위치",
+      "ingredients": [
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "칠리소스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "psychic",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "water",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "name": "하이퍼 스파이시 샌드위치",
+      "ingredients": [
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "칠리소스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "psychic",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "fighting",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "name": "마스터 스파이시 샌드위치",
+      "ingredients": [
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "칠리소스",
+          "count": 1
+        },
+        {
+          "name": "비전 새콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "psychic",
+          "level": 2
+        },
+        {
+          "name": "아기자기 파워",
+          "type": "fighting",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "name": "에그 샌드위치",
+      "ingredients": [
+        {
+          "name": "에그슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "flying",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "steel",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "rock",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "name": "슈퍼 에그 샌드위치",
+      "ingredients": [
+        {
+          "name": "에그슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "flying",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "steel",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "rock",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "name": "하이퍼 에그 샌드위치",
+      "ingredients": [
+        {
+          "name": "에그슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "flying",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "steel",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "rock",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "name": "마스터 에그 샌드위치",
+      "ingredients": [
+        {
+          "name": "에그슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "비전 짭짤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "flying",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "name": "기본 샌드위치",
+      "ingredients": [
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "토르티야",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "ghost",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "grass",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "fire",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 65,
+      "name": "슈퍼 기본 샌드위치",
+      "ingredients": [
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "토르티야",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "grass",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "fire",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 66,
+      "name": "하이퍼 기본 샌드위치",
+      "ingredients": [
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "토르티야",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "fire",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "ghost",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 67,
+      "name": "마스터 기본 샌드위치",
+      "ingredients": [
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "토르티야",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        },
+        {
+          "name": "비전 쌉쌀스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 68,
+      "name": "상큼 샌드위치",
+      "ingredients": [
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "bug",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "dragon",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 69,
+      "name": "슈퍼 상큼 샌드위치",
+      "ingredients": [
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fire",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "poison",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 70,
+      "name": "하이퍼 상큼 샌드위치",
+      "ingredients": [
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "피클슬라이스",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fighting",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "poison",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 71,
+      "name": "마스터 상큼 샌드위치",
+      "ingredients": [
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "피클슬라이스",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비전 매콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 72,
+      "name": "BLT 샌드위치",
+      "ingredients": [
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "rock",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "fairy",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "grass",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 73,
+      "name": "슈퍼 BLT 샌드위치",
+      "ingredients": [
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "rock",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "fairy",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 74,
+      "name": "하이퍼 BLT 샌드위치",
+      "ingredients": [
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "fairy",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "name": "마스터 BLT 샌드위치",
+      "ingredients": [
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        },
+        {
+          "name": "비전 달콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "fairy",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "name": "튀긴토막 샌드위치",
+      "ingredients": [
+        {
+          "name": "튀긴토막",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "bug",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "dark",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "steel",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "name": "슈퍼 튀긴토막 샌드위치",
+      "ingredients": [
+        {
+          "name": "튀긴토막",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "bug",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "dark",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "steel",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 78,
+      "name": "하이퍼 튀긴토막 샌드위치",
+      "ingredients": [
+        {
+          "name": "튀긴토막",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "bug",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "steel",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 79,
+      "name": "마스터 튀긴토막 샌드위치",
+      "ingredients": [
+        {
+          "name": "튀긴토막",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "케첩",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        },
+        {
+          "name": "비전 매콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "bug",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "steel",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 80,
+      "name": "햄 샌드위치",
+      "ingredients": [
+        {
+          "name": "피클슬라이스",
+          "count": 1
+        },
+        {
+          "name": "슬라이스햄",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "ground",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "name": "슈퍼 햄 샌드위치",
+      "ingredients": [
+        {
+          "name": "피클슬라이스",
+          "count": 1
+        },
+        {
+          "name": "슬라이스햄",
+          "count": 1
+        },
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "fighting",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "flying",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "ground",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "name": "하이퍼 햄 샌드위치",
+      "ingredients": [
+        {
+          "name": "피클슬라이스",
+          "count": 1
+        },
+        {
+          "name": "슬라이스햄",
+          "count": 1
+        },
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fairy",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "grass",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "name": "마스터 햄 샌드위치",
+      "ingredients": [
+        {
+          "name": "피클슬라이스",
+          "count": 1
+        },
+        {
+          "name": "슬라이스햄",
+          "count": 1
+        },
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        },
+        {
+          "name": "비전 짭짤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fairy",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "grass",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "name": "치즈 샌드위치",
+      "ingredients": [
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "크림치즈",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "bug",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "water",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "steel",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "name": "슈퍼 치즈 샌드위치",
+      "ingredients": [
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "크림치즈",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "steel",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "bug",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 86,
+      "name": "하이퍼 치즈 샌드위치",
+      "ingredients": [
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "크림치즈",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "electric",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "water",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 87,
+      "name": "마스터 치즈 샌드위치",
+      "ingredients": [
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "크림치즈",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비전 짭짤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "electric",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "water",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 88,
+      "name": "햄버그 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "psychic",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "dragon",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "steel",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "name": "슈퍼 햄버그 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "psychic",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "dragon",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "steel",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "name": "하이퍼 햄버그 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "psychic",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "steel",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "name": "마스터 햄버그 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        },
+        {
+          "name": "비전 달콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "psychic",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "steel",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "name": "훈제토막 샌드위치",
+      "ingredients": [
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "dark",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "dragon",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "psychic",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 93,
+      "name": "슈퍼 훈제토막 샌드위치",
+      "ingredients": [
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "psychic",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "dark",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 94,
+      "name": "하이퍼 훈제토막 샌드위치",
+      "ingredients": [
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "psychic",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "ghost",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "name": "마스터 훈제토막 샌드위치",
+      "ingredients": [
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비전 짭짤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "psychic",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "ghost",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "name": "후르츠 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "사과슬라이스",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "유실물 파워",
+          "type": "normal",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "ground",
+          "level": 1
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 97,
+      "name": "슈퍼 후르츠 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "사과슬라이스",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "유실물 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "poison",
+          "level": 1
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "name": "하이퍼 후르츠 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "사과슬라이스",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        },
+        {
+          "name": "요구르트",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "유실물 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "name": "마스터 후르츠 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "사과슬라이스",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        },
+        {
+          "name": "마멀레이드",
+          "count": 1
+        },
+        {
+          "name": "요구르트",
+          "count": 1
+        },
+        {
+          "name": "비전 달콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "flying",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "name": "믹스 샌드위치",
+      "ingredients": [
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "flying",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "dark",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "bug",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 101,
+      "name": "슈퍼 믹스 샌드위치",
+      "ingredients": [
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "bug",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "dragon",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "dark",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 102,
+      "name": "하이퍼 믹스 샌드위치",
+      "ingredients": [
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "bug",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "steel",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "name": "마스터 믹스 샌드위치",
+      "ingredients": [
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "비전 쌉쌀스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "bug",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "steel",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 104,
+      "name": "절벼게 샌드위치",
+      "ingredients": [
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "grass",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "fairy",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "ice",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 105,
+      "name": "슈퍼 절벼게 샌드위치",
+      "ingredients": [
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "fairy",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "ice",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 106,
+      "name": "하이퍼 절벼게 샌드위치",
+      "ingredients": [
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "노란파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "electric",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 107,
+      "name": "마스터 절벼게 샌드위치",
+      "ingredients": [
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "노란파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        },
+        {
+          "name": "비전 매콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "electric",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "name": "스위트 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "사과슬라이스",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "bug",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "flying",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 109,
+      "name": "슈퍼 스위트 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "사과슬라이스",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "bug",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "flying",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 110,
+      "name": "하이퍼 스위트 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "사과슬라이스",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "flying",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "normal",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 111,
+      "name": "마스터 스위트 샌드위치",
+      "ingredients": [
+        {
+          "name": "바나나슬라이스",
+          "count": 1
+        },
+        {
+          "name": "사과슬라이스",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "휘핑크림",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비전 새콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "electric",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "fighting",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 112,
+      "name": "베지 샌드위치",
+      "ingredients": [
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "poison",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "water",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "bug",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 113,
+      "name": "슈퍼 베지 샌드위치",
+      "ingredients": [
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "아기자기 파워",
+          "type": "bug",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "poison",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 114,
+      "name": "하이퍼 베지 샌드위치",
+      "ingredients": [
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "아기자기 파워",
+          "type": "bug",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "poison",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 115,
+      "name": "마스터 베지 샌드위치",
+      "ingredients": [
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "방울토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "비전 짭짤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "bug",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "poison",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 116,
+      "name": "볼륨 샌드위치",
+      "ingredients": [
+        {
+          "name": "토르티야",
+          "count": 1
+        },
+        {
+          "name": "튀긴토막",
+          "count": 1
+        },
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "땅콩버터",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "steel",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "ghost",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "bug",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 117,
+      "name": "슈퍼 볼륨 샌드위치",
+      "ingredients": [
+        {
+          "name": "토르티야",
+          "count": 1
+        },
+        {
+          "name": "튀긴토막",
+          "count": 1
+        },
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "땅콩버터",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "psychic",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "dark",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 118,
+      "name": "하이퍼 볼륨 샌드위치",
+      "ingredients": [
+        {
+          "name": "토르티야",
+          "count": 1
+        },
+        {
+          "name": "튀긴토막",
+          "count": 1
+        },
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "땅콩버터",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "steel",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "dark",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 119,
+      "name": "마스터 볼륨 샌드위치",
+      "ingredients": [
+        {
+          "name": "토르티야",
+          "count": 1
+        },
+        {
+          "name": "튀긴토막",
+          "count": 1
+        },
+        {
+          "name": "생햄",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "허브소시지",
+          "count": 1
+        },
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "땅콩버터",
+          "count": 1
+        },
+        {
+          "name": "비전 새콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "아기자기 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 120,
+      "name": "어른의 샌드위치",
+      "ingredients": [
+        {
+          "name": "구운초리조",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        },
+        {
+          "name": "칠리소스",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "poison",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "normal",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "dragon",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 121,
+      "name": "슈퍼 어른의 샌드위치",
+      "ingredients": [
+        {
+          "name": "구운초리조",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        },
+        {
+          "name": "칠리소스",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "fire",
+          "level": 1
+        },
+        {
+          "name": "경험치 파워",
+          "type": "dragon",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 122,
+      "name": "하이퍼 어른의 샌드위치",
+      "ingredients": [
+        {
+          "name": "구운초리조",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        },
+        {
+          "name": "칠리소스",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "큼직큼직 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "fire",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "dragon",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 123,
+      "name": "마스터 어른의 샌드위치",
+      "ingredients": [
+        {
+          "name": "구운초리조",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "피망슬라이스",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "머스터드",
+          "count": 1
+        },
+        {
+          "name": "칠리소스",
+          "count": 1
+        },
+        {
+          "name": "후추",
+          "count": 1
+        },
+        {
+          "name": "비전 매콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 124,
+      "name": "네오 베지 샌드위치",
+      "ingredients": [
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "노란파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "유실물 파워",
+          "type": "electric",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "fairy",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "psychic",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 125,
+      "name": "슈퍼 네오 베지 샌드위치",
+      "ingredients": [
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "노란파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "유실물 파워",
+          "type": "electric",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fairy",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "psychic",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 126,
+      "name": "하이퍼 네오 베지 샌드위치",
+      "ingredients": [
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "노란파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "아기자기 파워",
+          "type": "electric",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fairy",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "psychic",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 127,
+      "name": "마스터 네오 베지 샌드위치",
+      "ingredients": [
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "노란파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "양파슬라이스",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "오이슬라이스",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        },
+        {
+          "name": "마요네즈",
+          "count": 1
+        },
+        {
+          "name": "비전 달콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "electric",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "fairy",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "psychic",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 128,
+      "name": "매콤달콤 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "poison",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "fire",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "ground",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 129,
+      "name": "슈퍼 매콤달콤 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "ground",
+          "level": 1
+        },
+        {
+          "name": "유실물 파워",
+          "type": "poison",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 130,
+      "name": "하이퍼 매콤달콤 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "포획 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "ground",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "poison",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 131,
+      "name": "마스터 매콤달콤 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "토마토슬라이스",
+          "count": 1
+        },
+        {
+          "name": "키위슬라이스",
+          "count": 1
+        },
+        {
+          "name": "파인애플슬라이스",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "슬라이스치즈",
+          "count": 1
+        },
+        {
+          "name": "버터",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        },
+        {
+          "name": "비전 쌉쌀스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "dragon",
+          "level": 2
+        },
+        {
+          "name": "유실물 파워",
+          "type": "poison",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 132,
+      "name": "리치 샌드위치",
+      "ingredients": [
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "ice",
+          "level": 1
+        },
+        {
+          "name": "레이드 파워",
+          "type": "psychic",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "dark",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 133,
+      "name": "슈퍼 리치 샌드위치",
+      "ingredients": [
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "두부",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "dark",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 134,
+      "name": "하이퍼 리치 샌드위치",
+      "ingredients": [
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "두부",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "ice",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 135,
+      "name": "마스터 리치 샌드위치",
+      "ingredients": [
+        {
+          "name": "훈제토막",
+          "count": 1
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "바질",
+          "count": 1
+        },
+        {
+          "name": "두부",
+          "count": 1
+        },
+        {
+          "name": "적양파",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비전 매콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ghost",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "ice",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 136,
+      "name": "두부 샌드위치",
+      "ingredients": [
+        {
+          "name": "두부",
+          "count": 2
+        },
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 1
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "grass",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 137,
+      "name": "슈퍼 두부 샌드위치",
+      "ingredients": [
+        {
+          "name": "두부",
+          "count": 2
+        },
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "레이드 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "grass",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 138,
+      "name": "하이퍼 두부 샌드위치",
+      "ingredients": [
+        {
+          "name": "두부",
+          "count": 2
+        },
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "레이드 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fighting",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "grass",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 139,
+      "name": "마스터 두부 샌드위치",
+      "ingredients": [
+        {
+          "name": "두부",
+          "count": 2
+        },
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "양상추",
+          "count": 1
+        },
+        {
+          "name": "아보카도",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "호스래디시",
+          "count": 1
+        },
+        {
+          "name": "비전 짭짤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "fighting",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 140,
+      "name": "카레&누들 샌드위치",
+      "ingredients": [
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "빨간파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "노란파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "electric",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "psychic",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "rock",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 141,
+      "name": "슈퍼 카레&누들 샌드위치",
+      "ingredients": [
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "빨간파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "노란파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "유실물 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "psychic",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "electric",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 142,
+      "name": "하이퍼 카레&누들 샌드위치",
+      "ingredients": [
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "빨간파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "노란파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "에그슬라이스",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "grass",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "ice",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 143,
+      "name": "마스터 카레&누들 샌드위치",
+      "ingredients": [
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "빨간파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "구운베이컨",
+          "count": 1
+        },
+        {
+          "name": "노란파프리카슬라이스",
+          "count": 1
+        },
+        {
+          "name": "할라페뇨",
+          "count": 1
+        },
+        {
+          "name": "에그슬라이스",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        },
+        {
+          "name": "비전 달콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "rock",
+          "level": 2
+        },
+        {
+          "name": "알 파워",
+          "type": null,
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 144,
+      "name": "타워 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "steel",
+          "level": 1
+        },
+        {
+          "name": "조우 파워",
+          "type": "fire",
+          "level": 1
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "ghost",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 145,
+      "name": "슈퍼 타워 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "steel",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "ghost",
+          "level": 1
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "ice",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 146,
+      "name": "하이퍼 타워 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "두부",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "steel",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "normal",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 147,
+      "name": "마스터 타워 샌드위치",
+      "ingredients": [
+        {
+          "name": "햄버그",
+          "count": 1
+        },
+        {
+          "name": "누들",
+          "count": 1
+        },
+        {
+          "name": "감자샐러드",
+          "count": 1
+        },
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "두부",
+          "count": 1
+        },
+        {
+          "name": "올리브오일",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "카레파우더",
+          "count": 1
+        },
+        {
+          "name": "비전 쌉쌀스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "steel",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "경험치 파워",
+          "type": "fighting",
+          "level": 2
+        }
+      ]
+    },
+    {
+      "number": 148,
+      "name": "스시 스타일 샌드위치",
+      "ingredients": [
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 2
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "dark",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "normal",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 149,
+      "name": "슈퍼 스시 스타일 샌드위치",
+      "ingredients": [
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 2
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 1
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "경험치 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "fighting",
+          "level": 1
+        },
+        {
+          "name": "포획 파워",
+          "type": "normal",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 150,
+      "name": "하이퍼 스시 스타일 샌드위치",
+      "ingredients": [
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 2
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 2
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "조우 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "포획 파워",
+          "type": "normal",
+          "level": 2
+        },
+        {
+          "name": "큼직큼직 파워",
+          "type": "dark",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "number": 151,
+      "name": "마스터 스시 스타일 샌드위치",
+      "ingredients": [
+        {
+          "name": "라이스",
+          "count": 1
+        },
+        {
+          "name": "훈제토막",
+          "count": 2
+        },
+        {
+          "name": "절벼게맛살",
+          "count": 2
+        },
+        {
+          "name": "물냉이",
+          "count": 1
+        },
+        {
+          "name": "소금",
+          "count": 1
+        },
+        {
+          "name": "비니거",
+          "count": 1
+        },
+        {
+          "name": "와사비소스",
+          "count": 1
+        },
+        {
+          "name": "비전 새콤스파이스",
+          "count": 1
+        }
+      ],
+      "powers": [
+        {
+          "name": "칭호 파워",
+          "type": "ice",
+          "level": 2
+        },
+        {
+          "name": "아기자기 파워",
+          "type": "dark",
+          "level": 2
+        },
+        {
+          "name": "조우 파워",
+          "type": "normal",
+          "level": 2
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Serebii · 샌드위치 재료·식사 파워",
+      "url": "https://www.serebii.net/scarletviolet/sandwich.shtml"
+    },
+    {
+      "title": "샌드위치 시뮬레이터 · 레시피별 재료 수량과 효과",
+      "url": "https://github.com/cecilbowen/pokemon-sandwich-simulator/blob/master/src/data/sandwiches.json"
+    },
+    {
+      "title": "한국어판 게임 표기 · 샌드위치와 식사 파워 이름",
+      "url": "https://github.com/Pokemon-Project-com/sv-text/blob/main/common/common_kor.txt"
+    },
+    {
+      "title": "PokéAPI · 정식 한국어 도구명",
+      "url": "https://github.com/PokeAPI/pokeapi/blob/master/data/v2/csv/item_names.csv"
+    }
+  ]
+}

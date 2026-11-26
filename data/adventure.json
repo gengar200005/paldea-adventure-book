@@ -1,0 +1,3357 @@
+{
+  "missions": [
+    {
+      "id": "intro",
+      "title": "첫 파트너 고르기",
+      "route": "victory",
+      "level": null,
+      "place": "티스푼마을",
+      "action": "집 밖으로 나가서 나오하, 뜨아거, 꾸왁스와 함께 걸어요. 함께 모험하고 싶은 친구 한 마리를 골라요.",
+      "prep": "나오하는 풀, 뜨아거는 불꽃, 꾸왁스는 물 타입이에요. 가장 마음에 드는 친구를 골라도 끝까지 함께할 수 있어요.",
+      "reward": "첫 파트너가 생겨요.",
+      "next": "네모를 따라 몬스터볼로 포켓몬 잡는 법을 배워요.",
+      "party": [],
+      "recommendations": [
+        906,
+        909,
+        912
+      ],
+      "prerequisites": [],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-core"
+      ],
+      "verification": "cross-checked",
+      "tips": "처음 못 고른 두 마리는 본편 야생에서 만날 수 없어요. 나중에 통신교환 등으로 도감을 채울 수 있어요.",
+      "nextLinks": [
+        "mission/school"
+      ]
+    },
+    {
+      "id": "school",
+      "title": "학교에서 보물찾기 시작!",
+      "route": "victory",
+      "level": null,
+      "place": "테이블시티 · 오렌지 아카데미",
+      "action": "네모를 따라 포켓몬센터와 테이블시티를 지나 학교에 가요. 학교에서 이야기를 마치고 보물찾기를 시작해요.",
+      "prep": "처음 잡은 포켓몬을 팀에 함께 넣고, 포켓몬센터에서 체력을 채워요.",
+      "reward": "라이드를 타고 체육관, 주인 포켓몬, 스타단 기지를 자유롭게 찾아갈 수 있어요.",
+      "next": "테이블시티 서쪽의 세르클체육관으로 가요.",
+      "party": [],
+      "recommendations": [
+        921,
+        661,
+        915
+      ],
+      "prerequisites": [
+        "intro"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-core"
+      ],
+      "verification": "cross-checked",
+      "tips": "Y 버튼으로 지도를 열고 목적지를 정해요. 길을 잃으면 가까운 포켓몬센터를 찾아요.",
+      "nextLinks": [
+        "mission/gym-cortondo"
+      ],
+      "stagePoints": [
+        "poco-spawns",
+        "poco-lighthouse",
+        "los-platos",
+        "mesagoza"
+      ]
+    },
+    {
+      "id": "gym-cortondo",
+      "title": "세르클체육관 · 단풍",
+      "route": "victory",
+      "level": 15,
+      "place": "세르클마을",
+      "action": "체육관에 접수하고, 마을의 시험장에서 큰 올리브를 골대까지 밀어요. 체육관으로 돌아가 단풍에게 도전해요.",
+      "prep": "불꽃, 비행, 바위 기술을 가져가요. 뜨아거 또는 화살꼬빈이 든든해요.",
+      "reward": "벌레 배지와 기술머신 달려들기(TM021)를 얻어요.",
+      "next": "남부 에리어 3에서 암벽의 주인을 찾아요.",
+      "party": [
+        {
+          "species": 919,
+          "level": 14
+        },
+        {
+          "species": 917,
+          "level": 14
+        },
+        {
+          "species": 216,
+          "level": 15,
+          "tera": "bug"
+        }
+      ],
+      "recommendations": [
+        909,
+        661
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-walkthrough",
+        "sv-victory",
+        "db-teams",
+        "ko-tm"
+      ],
+      "verification": "cross-checked",
+      "tips": "깜지곰도 테라스탈을 하면 벌레 타입이 돼요. 불꽃이나 비행 기술로 계속 공격해요.",
+      "nextLinks": [
+        "mission/titan-stony"
+      ]
+    },
+    {
+      "id": "titan-stony",
+      "title": "암벽의 주인 · 절벼게",
+      "route": "legend",
+      "level": 16,
+      "place": "남부 에리어 3",
+      "action": "지도에 표시된 암벽에 붙어 있는 큰 절벼게를 찾아요. 첫 배틀 뒤 도망가면 뒤쫓아가 페퍼와 함께 다시 싸워요.",
+      "prep": "물, 풀, 격투, 땅, 강철 기술이 유리해요. 꾸왁스나 나오하를 먼저 내보내도 좋아요.",
+      "reward": "주인 배지를 받고 라이드가 대시를 배워요.",
+      "next": "보울체육관에서 해루미를 찾아요.",
+      "party": [
+        {
+          "species": 950,
+          "level": 16
+        }
+      ],
+      "recommendations": [
+        912,
+        906
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-core",
+        "sv-titans",
+        "bulba-titans"
+      ],
+      "verification": "cross-checked",
+      "tips": "라이드 중 왼쪽 스틱을 눌러 빠르게 달려요. 대시로 나무를 들이받으면 나무 위 포켓몬이 떨어질 수 있어요.",
+      "nextLinks": [
+        "mission/gym-artazon"
+      ],
+      "wayfindingStages": [
+        1,
+        2,
+        2
+      ],
+      "stagePoints": [
+        "mesagoza",
+        "map-titan-stony",
+        "map-titan-stony"
+      ]
+    },
+    {
+      "id": "gym-artazon",
+      "title": "보울체육관 · 콜사",
+      "route": "victory",
+      "level": 17,
+      "place": "보울마을",
+      "action": "체육관 접수 후 해루미를 찾기 시작해요. 마을에서 열 마리를 모아 해루미 광장으로 데려가요.",
+      "prep": "불꽃이나 비행 기술을 준비해요. 해루미를 따라오게 하려면 일부와 먼저 배틀해야 해요.",
+      "reward": "풀 배지와 기술머신 개척하기(TM020)를 얻어요.",
+      "next": "서부 에리어 1에서 대공의 주인을 찾아요.",
+      "party": [
+        {
+          "species": 548,
+          "level": 16
+        },
+        {
+          "species": 928,
+          "level": 16
+        },
+        {
+          "species": 185,
+          "level": 17,
+          "tera": "grass"
+        }
+      ],
+      "recommendations": [
+        909,
+        662
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-walkthrough",
+        "sv-victory",
+        "db-teams",
+        "ko-tm"
+      ],
+      "verification": "cross-checked",
+      "tips": "꼬지모가 풀 타입으로 바뀐 뒤 불꽃이나 비행 기술을 써요.",
+      "nextLinks": [
+        "mission/titan-open-sky"
+      ],
+      "wayfindingStages": [
+        2,
+        3,
+        3,
+        4
+      ],
+      "stagePoints": [
+        "map-gym-artazon"
+      ]
+    },
+    {
+      "id": "titan-open-sky",
+      "title": "대공의 주인 · 떨구새",
+      "route": "legend",
+      "level": 20,
+      "place": "서부 에리어 1",
+      "action": "언덕길에 굴러오는 바위를 피하면서 올라가요. 큰 떨구새와 싸우고, 첫 배틀 뒤 도망간 방향으로 따라가요.",
+      "prep": "전기, 얼음, 바위, 페어리 기술이 좋아요. 빠모의 전기 기술이 도움이 돼요.",
+      "reward": "주인 배지를 받고 라이드로 물 위를 다닐 수 있어요.",
+      "next": "서부 에리어 1의 스타단 악 군단 기지를 찾아요.",
+      "party": [
+        {
+          "species": 962,
+          "level": 20
+        }
+      ],
+      "recommendations": [
+        921,
+        950
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-core",
+        "sv-titans",
+        "bulba-titans"
+      ],
+      "verification": "cross-checked",
+      "nextLinks": [
+        "mission/star-dark"
+      ],
+      "wayfindingStages": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "star-dark",
+      "title": "스타단 악 군단 · 피나",
+      "route": "star",
+      "level": 21,
+      "place": "서부 에리어 1",
+      "action": "기지 앞에서 말을 걸고 팀 맨 앞 세 마리로 도전해요. R 버튼으로 내보내 10분 안에 30마리를 쓰러뜨린 뒤 피나와 배틀해요.",
+      "prep": "격투 기술을 챙겨요. 자망칼은 악과 강철 타입이라 격투에 특히 약해요.",
+      "reward": "스타단 배지, LP, 제작 재료, 기술머신 속임수(TM062)를 얻어요.",
+      "next": "누룩스체육관에서 모야모의 방송에 참여해요.",
+      "party": [
+        {
+          "species": 624,
+          "level": 21
+        }
+      ],
+      "recommendations": [
+        922,
+        296
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-star",
+        "ko-core",
+        "sv-star",
+        "db-teams"
+      ],
+      "verification": "cross-checked",
+      "specialOpponent": {
+        "name": "악 타입 스타모빌",
+        "level": 20,
+        "type": "dark"
+      },
+      "tips": "팀원이 자동 배틀로 지치면 기지의 회복 지점을 살펴봐요. 마지막 스타모빌에도 격투 기술이 좋아요.",
+      "nextLinks": [
+        "mission/gym-levincia"
+      ],
+      "wayfindingStages": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "gym-levincia",
+      "title": "누룩스체육관 · 모야모",
+      "route": "victory",
+      "level": 24,
+      "place": "누룩스시티",
+      "action": "체육관에 접수하고, 모야모의 방송에서 화면 속 클라벨을 세 번 찾아요. 중간에 나오는 트레이너와도 배틀해요.",
+      "prep": "앞쪽 상대에겐 땅 기술이 도움이 돼요. 마지막 무우마직에는 땅 기술 대신 강한 중립 기술을 준비해요.",
+      "reward": "전기 배지와 기술머신 볼트체인지(TM048)를 얻어요.",
+      "next": "동부 에리어 1의 스타단 불꽃 군단 기지를 찾아요.",
+      "party": [
+        {
+          "species": 940,
+          "level": 23
+        },
+        {
+          "species": 939,
+          "level": 23
+        },
+        {
+          "species": 404,
+          "level": 23
+        },
+        {
+          "species": 429,
+          "level": 24,
+          "tera": "electric",
+          "ability": "부유",
+          "immuneTo": [
+            "ground"
+          ],
+          "abilityTip": "땅 기술이 닿지 않아요. 평소처럼 피해를 주는 기술을 골라요."
+        }
+      ],
+      "recommendations": [
+        980,
+        195
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-walkthrough",
+        "sv-victory",
+        "db-teams",
+        "ko-tm"
+      ],
+      "verification": "cross-checked",
+      "tips": "찌리비는 처음부터 비행 타입이라 땅 기술이 안 통해요. 테라스탈한 무우마직도 부유 특성으로 땅 기술을 피해요. 기술이 안 통하면 다른 타입을 써요.",
+      "nextLinks": [
+        "mission/star-fire"
+      ],
+      "wayfindingStages": [
+        1,
+        1,
+        1
+      ],
+      "stagePoints": [
+        "map-gym-artazon",
+        "map-gym-levincia"
+      ]
+    },
+    {
+      "id": "star-fire",
+      "title": "스타단 불꽃 군단 · 멜로코",
+      "route": "star",
+      "level": 27,
+      "place": "동부 에리어 1",
+      "action": "맨 앞 세 마리에게 R 버튼으로 지시해 10분 안에 30마리를 쓰러뜨려요. 멜로코와 스타모빌도 이겨요.",
+      "prep": "물, 땅, 바위 기술을 준비해요. 코터스가 햇빛을 강하게 만들면 물 기술이 약해지니 땅 기술도 챙겨요.",
+      "reward": "스타단 배지, LP, 제작 재료, 기술머신 니트로차지(TM038)를 얻어요.",
+      "next": "동부 에리어 3에서 꿈트렁을 찾아요.",
+      "party": [
+        {
+          "species": 324,
+          "level": 27
+        }
+      ],
+      "recommendations": [
+        195,
+        913
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-star",
+        "ko-core",
+        "sv-star",
+        "db-teams"
+      ],
+      "verification": "cross-checked",
+      "specialOpponent": {
+        "name": "불꽃 타입 스타모빌",
+        "level": 26,
+        "type": "fire"
+      },
+      "nextLinks": [
+        "mission/titan-lurking-steel"
+      ],
+      "wayfindingStages": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "id": "titan-lurking-steel",
+      "title": "잠강의 주인 · 꿈트렁",
+      "route": "legend",
+      "level": 29,
+      "place": "동부 에리어 3",
+      "action": "광산 주변에서 땅속으로 숨는 꿈트렁을 찾아요. 가까이 가면 피하니 라이드를 타고 대시로 따라잡아요.",
+      "prep": "불꽃이나 격투 기술을 준비해요. 땅 기술을 쓰면 흙먹기 특성 때문에 오히려 상대 체력이 차요.",
+      "reward": "주인 배지를 받고 라이드로 더 높이 점프할 수 있어요.",
+      "next": "카라프체육관에 접수하고 곤포를 따라가요.",
+      "party": [
+        {
+          "species": 968,
+          "level": 29,
+          "ability": "흙먹기",
+          "immuneTo": [
+            "ground"
+          ],
+          "abilityTip": "땅 기술을 맞으면 상대가 회복해요. 불꽃이나 격투 기술을 골라요."
+        }
+      ],
+      "recommendations": [
+        910,
+        922
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-core",
+        "sv-titans",
+        "bulba-titans"
+      ],
+      "verification": "cross-checked",
+      "tips": "라이드 중 B 버튼을 길게 눌러 높이 뛰어요.",
+      "nextLinks": [
+        "mission/gym-cascarrafa"
+      ],
+      "wayfindingStages": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "gym-cascarrafa",
+      "title": "카라프체육관 · 곤포",
+      "route": "victory",
+      "level": 30,
+      "place": "카라프시티 → 마리네이드마을",
+      "action": "카라프체육관에서 곤포의 지갑을 받아요. 마리네이드마을 시장에 전해 주고 경매에서 이긴 뒤 체육관에 돌아가요.",
+      "prep": "전기 또는 풀 기술을 챙겨요. 나로테 또는 전기 기술을 쓰는 찌리배리면 좋아요.",
+      "reward": "물 배지와 기술머신 찬물끼얹기(TM022)를 얻어요.",
+      "next": "표식의 나무숲의 스타단 독 군단 기지를 찾아요.",
+      "party": [
+        {
+          "species": 976,
+          "level": 29
+        },
+        {
+          "species": 961,
+          "level": 29
+        },
+        {
+          "species": 740,
+          "level": 30,
+          "tera": "water"
+        }
+      ],
+      "recommendations": [
+        907,
+        939
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-walkthrough",
+        "sv-victory",
+        "db-teams",
+        "ko-tm"
+      ],
+      "verification": "cross-checked",
+      "tips": "경매에서는 곤포에게 받은 돈을 써요. 입찰가를 크게 올려야 할 때까지 기다렸다가 필요한 만큼만 올려요.",
+      "nextLinks": [
+        "mission/star-poison"
+      ],
+      "wayfindingStages": [
+        1,
+        2,
+        3
+      ],
+      "stagePoints": [
+        "map-gym-cascarrafa",
+        "asado-desert",
+        "marinade-auction",
+        "map-gym-cascarrafa"
+      ]
+    },
+    {
+      "id": "star-poison",
+      "title": "스타단 독 군단 · 추명",
+      "route": "star",
+      "level": 33,
+      "place": "표식의 나무숲",
+      "action": "숲의 스타단 기지 문에서 도전하고 10분 안에 30마리를 쓰러뜨려요. 추명과 스타모빌도 이겨요.",
+      "prep": "땅 기술이 좋아요. 스컹탱크는 악 타입도 있어서 에스퍼 기술이 안 통해요.",
+      "reward": "스타단 배지, LP, 제작 재료, 기술머신 더스트슈트(TM102)를 얻어요.",
+      "next": "참푸르체육관에서 비밀 메뉴를 찾아요.",
+      "party": [
+        {
+          "species": 435,
+          "level": 32
+        },
+        {
+          "species": 89,
+          "level": 32
+        },
+        {
+          "species": 966,
+          "level": 33
+        }
+      ],
+      "recommendations": [
+        980,
+        195
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-star",
+        "ko-core",
+        "sv-star",
+        "db-teams"
+      ],
+      "verification": "cross-checked",
+      "specialOpponent": {
+        "name": "독 타입 스타모빌",
+        "level": 32,
+        "type": "poison"
+      },
+      "tips": "독이 걸렸을 때를 대비해 해독제를 한두 개 준비해요.",
+      "nextLinks": [
+        "mission/gym-medali"
+      ],
+      "wayfindingStages": [
+        1,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "gym-medali",
+      "title": "참푸르체육관 · 청목",
+      "route": "victory",
+      "level": 36,
+      "place": "참푸르마을",
+      "action": "체육관에 접수하고 마을 트레이너들과 배틀해 비밀 메뉴 힌트를 모아요. 식당에서 주문하면 청목에게 도전할 수 있어요.",
+      "prep": "자말라와 노고고치는 격투 기술에 약해요. 마지막 찌르호크의 비행 기술을 버틸 다른 포켓몬도 준비해요.",
+      "reward": "노말 배지와 기술머신 객기(TM025)를 얻어요.",
+      "next": "프리지체육관으로 가서 더블배틀을 준비해요.",
+      "party": [
+        {
+          "species": 775,
+          "level": 35
+        },
+        {
+          "species": 982,
+          "level": 35
+        },
+        {
+          "species": 398,
+          "level": 36,
+          "tera": "normal"
+        }
+      ],
+      "recommendations": [
+        297,
+        448
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-walkthrough",
+        "sv-victory",
+        "db-teams",
+        "ko-tm"
+      ],
+      "verification": "cross-checked",
+      "tips": "비밀 메뉴 정답은 구운 주먹밥, 2인분, 불대문자, 레몬이에요.",
+      "nextLinks": [
+        "mission/gym-montenevera"
+      ],
+      "wayfindingStages": [
+        1,
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "gym-montenevera",
+      "title": "프리지체육관 · 라임",
+      "route": "victory",
+      "level": 42,
+      "place": "프리지마을",
+      "action": "체육관에 접수하고 무대에서 더블배틀 세 번을 이겨요. 이어서 라임과도 두 마리씩 내보내 싸워요.",
+      "prep": "악이나 고스트 기술을 챙겨요. 두 포켓몬이 같은 상대를 공격해 먼저 한 마리를 쓰러뜨려도 좋아요.",
+      "reward": "고스트 배지와 기술머신 섀도볼(TM114)을 얻어요.",
+      "next": "로스트 사막에서 토진의 주인을 찾아요.",
+      "party": [
+        {
+          "species": 354,
+          "level": 41
+        },
+        {
+          "species": 778,
+          "level": 41
+        },
+        {
+          "species": 972,
+          "level": 41
+        },
+        {
+          "species": 849,
+          "level": 42,
+          "tera": "ghost"
+        }
+      ],
+      "recommendations": [
+        229,
+        911
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-walkthrough",
+        "sv-victory",
+        "db-teams",
+        "ko-tm"
+      ],
+      "verification": "cross-checked",
+      "tips": "따라큐의 탈은 첫 공격을 막아요. 상대편 한 마리씩 차근차근 공략해요.",
+      "battleFormat": "double",
+      "nextLinks": [
+        "mission/titan-quaking-earth"
+      ],
+      "wayfindingStages": [
+        2,
+        3
+      ],
+      "stagePoints": [
+        "map-gym-medali",
+        "map-gym-montenevera"
+      ]
+    },
+    {
+      "id": "titan-quaking-earth",
+      "title": "토진의 주인",
+      "route": "legend",
+      "level": 45,
+      "place": "로스트 사막",
+      "action": "지도 표식 주변에서 몸집이 큰 포켓몬을 찾아요. 첫 배틀 뒤 도망간 곳까지 따라가 페퍼와 함께 이겨요.",
+      "prep": "스칼렛의 위대한엄니에는 물이나 비행 기술이 좋아요. 바이올렛의 무쇠바퀴에도 물 기술이 잘 통해요.",
+      "reward": "주인 배지를 받고 라이드를 타고 활공할 수 있어요.",
+      "next": "베이크체육관에서 리파의 시험을 봐요.",
+      "party": [
+        {
+          "species": 984,
+          "level": 45
+        }
+      ],
+      "recommendations": [
+        914,
+        130
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-core",
+        "sv-titans",
+        "bulba-titans"
+      ],
+      "verification": "cross-checked",
+      "versions": {
+        "violet": {
+          "party": [
+            {
+              "species": 990,
+              "level": 45
+            }
+          ]
+        }
+      },
+      "tips": "스칼렛에서는 위대한엄니, 바이올렛에서는 무쇠바퀴가 나와요. 공중에서 B 버튼으로 활공을 시작해요.",
+      "nextLinks": [
+        "mission/gym-alfornada"
+      ],
+      "wayfindingStages": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "gym-alfornada",
+      "title": "베이크체육관 · 리파",
+      "route": "victory",
+      "level": 45,
+      "place": "베이크마을",
+      "action": "체육관에 접수하고 화면에 나오는 표정에 맞춰 버튼을 눌러요. 사이사이 트레이너와의 배틀도 이겨요.",
+      "prep": "악 기술을 준비해요. 가디안에게는 강철, 테라스탈한 플라제스에게는 악 기술을 써 봐요.",
+      "reward": "에스퍼 배지와 기술머신 사이코키네시스(TM120)를 얻어요.",
+      "next": "다음은 눈 덮인 나페산체육관이에요.",
+      "party": [
+        {
+          "species": 981,
+          "level": 44
+        },
+        {
+          "species": 282,
+          "level": 44
+        },
+        {
+          "species": 956,
+          "level": 44
+        },
+        {
+          "species": 671,
+          "level": 45,
+          "tera": "psychic"
+        }
+      ],
+      "recommendations": [
+        229,
+        966
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-walkthrough",
+        "sv-victory",
+        "db-teams",
+        "ko-tm"
+      ],
+      "verification": "cross-checked",
+      "tips": "길이 막힌 것 같아도 큰 도로와 동굴을 따라가면 체육관에 닿을 수 있어요.",
+      "nextLinks": [
+        "mission/gym-glaseado"
+      ],
+      "wayfindingStages": [
+        1,
+        1,
+        2,
+        3
+      ],
+      "stagePoints": [
+        "alfornada-cavern",
+        "alfornada-cavern",
+        "map-gym-alfornada"
+      ]
+    },
+    {
+      "id": "gym-glaseado",
+      "title": "나페산체육관 · 그루샤",
+      "route": "victory",
+      "level": 48,
+      "place": "나페산",
+      "action": "체육관에서 접수한 뒤 라이드에 올라 눈길을 내려가요. 표시된 문을 따라 제한 시간 1분 30초 안에 들어와요.",
+      "prep": "불꽃, 강철, 격투, 바위 기술을 챙겨요. 마지막 파비코리는 테라스탈하면 얼음 타입이 돼요.",
+      "reward": "얼음 배지와 기술머신 아이스스피너(TM124)를 얻어요.",
+      "next": "북부 에리어 3의 스타단 페어리 군단을 찾아요.",
+      "party": [
+        {
+          "species": 873,
+          "level": 47
+        },
+        {
+          "species": 614,
+          "level": 47
+        },
+        {
+          "species": 975,
+          "level": 47
+        },
+        {
+          "species": 334,
+          "level": 48,
+          "tera": "ice"
+        }
+      ],
+      "recommendations": [
+        911,
+        959
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-walkthrough",
+        "sv-victory",
+        "db-teams",
+        "ko-tm"
+      ],
+      "verification": "cross-checked",
+      "nextLinks": [
+        "mission/star-fairy"
+      ],
+      "wayfindingStages": [
+        2,
+        3
+      ],
+      "stagePoints": [
+        "map-gym-montenevera",
+        "map-gym-glaseado"
+      ]
+    },
+    {
+      "id": "star-fairy",
+      "title": "스타단 페어리 군단 · 오르티가",
+      "route": "star",
+      "level": 51,
+      "place": "북부 에리어 3",
+      "action": "기지 입구의 배틀을 이기고 30마리 도전에 들어가요. 페어리 기술을 잘 버티는 포켓몬을 팀 맨 앞에 넣어요.",
+      "prep": "강철이나 독 기술을 준비해요. 마릴리에게는 풀이나 전기 기술도 잘 통해요.",
+      "reward": "스타단 배지, LP, 제작 재료, 기술머신 매지컬샤인(TM079)을 얻어요.",
+      "next": "북부 에리어 2의 스타단 격투 군단을 찾아요.",
+      "party": [
+        {
+          "species": 184,
+          "level": 50
+        },
+        {
+          "species": 40,
+          "level": 50
+        },
+        {
+          "species": 927,
+          "level": 51
+        }
+      ],
+      "recommendations": [
+        959,
+        966
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-star",
+        "ko-core",
+        "sv-star",
+        "db-teams"
+      ],
+      "verification": "cross-checked",
+      "specialOpponent": {
+        "name": "페어리 타입 스타모빌",
+        "level": 50,
+        "type": "fairy"
+      },
+      "tips": "바우첼은 노릇노릇바디 특성이어서 불꽃 기술을 쓰면 오히려 방어가 올라가요.",
+      "nextLinks": [
+        "mission/star-fighting"
+      ],
+      "wayfindingStages": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "star-fighting",
+      "title": "스타단 격투 군단 · 비파",
+      "route": "star",
+      "level": 56,
+      "place": "북부 에리어 2",
+      "action": "기지 입구에서 배틀한 뒤 30마리를 쓰러뜨리고 비파에게 도전해요. 보스전에 들어가기 전 팀 상태를 확인해요.",
+      "prep": "비행, 에스퍼, 페어리 기술을 준비해요. 루카리오에는 불꽃이나 땅 기술도 좋아요.",
+      "reward": "스타단 배지, LP, 제작 재료, 기술머신 인파이트(TM167)를 얻어요.",
+      "next": "오야 호수에서 위룡의 주인을 찾아요.",
+      "party": [
+        {
+          "species": 454,
+          "level": 55
+        },
+        {
+          "species": 766,
+          "level": 55
+        },
+        {
+          "species": 448,
+          "level": 55
+        },
+        {
+          "species": 979,
+          "level": 56
+        }
+      ],
+      "recommendations": [
+        282,
+        956
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-star",
+        "ko-core",
+        "sv-star",
+        "db-teams"
+      ],
+      "verification": "cross-checked",
+      "specialOpponent": {
+        "name": "격투 타입 스타모빌",
+        "level": 56,
+        "type": "fighting"
+      },
+      "tips": "격투 스타모빌은 맞을 때마다 방어가 올라가요. 사이코키네시스 같은 특수 기술로 공격해요.",
+      "nextLinks": [
+        "mission/titan-false-dragon"
+      ],
+      "wayfindingStages": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "id": "titan-false-dragon",
+      "title": "위룡의 주인",
+      "route": "legend",
+      "level": 57,
+      "place": "오야 호수",
+      "action": "호수 동쪽 섬에서 큰 소리를 내는 싸리용을 조사해요. 어써러셔를 호수 안쪽 섬까지 따라가고, 페퍼와 함께 이긴 뒤 싸리용과도 싸워요.",
+      "prep": "어써러셔에는 전기나 풀, 싸리용에는 페어리나 드래곤 기술을 써요. 물 위를 달릴 수 있어야 호수 안의 섬에 갈 수 있어요.",
+      "reward": "주인 배지를 받고 라이드를 타고 절벽을 오를 수 있어요.",
+      "next": "주인 배지가 다섯 개라면 페퍼의 연락을 따라 등대로 가요.",
+      "party": [
+        {
+          "species": 977,
+          "level": 56
+        },
+        {
+          "species": 978,
+          "level": 57
+        }
+      ],
+      "recommendations": [
+        939,
+        282
+      ],
+      "prerequisites": [
+        "school",
+        "titan-open-sky"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-core",
+        "ko-core",
+        "sv-titans",
+        "bulba-titans"
+      ],
+      "verification": "cross-checked",
+      "tips": "싸리용은 물·드래곤이라 풀과 전기가 2배 약점이 아니에요. 포켓몬을 바꿔 싸워요.",
+      "nextLinks": [
+        "mission/legend-final"
+      ],
+      "wayfindingStages": [
+        2,
+        3,
+        3
+      ]
+    },
+    {
+      "id": "legend-final",
+      "title": "페퍼가 기다리는 연구소",
+      "route": "legend",
+      "level": 63,
+      "place": "티스푼 오솔길 · 등대",
+      "action": "주인 배지 다섯 개를 모았다면 등대 옆 연구소로 가요. 이야기를 들은 뒤 밖에서 페퍼에게 말을 걸고 배틀해요.",
+      "prep": "풀이나 전기, 격투, 불꽃 기술을 나눠 준비해요. 마지막 포켓몬은 악 타입으로 테라스탈해요.",
+      "reward": "레전드 루트를 마쳐요.",
+      "next": "체육관과 스타단 도전에서 남아 있는 일을 끝내요.",
+      "party": [
+        {
+          "species": 820,
+          "level": 58
+        },
+        {
+          "species": 91,
+          "level": 59
+        },
+        {
+          "species": 952,
+          "level": 60
+        },
+        {
+          "species": 949,
+          "level": 61
+        },
+        {
+          "species": 934,
+          "level": 62
+        },
+        {
+          "species": 943,
+          "level": 63,
+          "tera": "dark"
+        }
+      ],
+      "recommendations": [
+        914,
+        959
+      ],
+      "prerequisites": [
+        "titan-stony",
+        "titan-open-sky",
+        "titan-lurking-steel",
+        "titan-quaking-earth",
+        "titan-false-dragon"
+      ],
+      "spoiler": true,
+      "sources": [
+        "sv-titans",
+        "ko-ending"
+      ],
+      "verification": "cross-checked",
+      "tips": "육파리는 땅·풀 타입이라 얼음에 4배 약해요. 콜로솔트는 물이나 풀 기술로 상대해요.",
+      "nextLinks": [
+        "mission/league",
+        "mission/star-clavell"
+      ]
+    },
+    {
+      "id": "star-clavell",
+      "title": "학교 입구에서 마지막 확인",
+      "route": "star",
+      "level": 61,
+      "place": "테이블시티 · 아카데미 입구",
+      "action": "스타단 기지 다섯 곳을 클리어한 뒤 학교 현관문 앞으로 가요. 입구의 상대에게 말을 걸면 배틀이 시작돼요.",
+      "prep": "팀을 회복하고 여러 타입의 기술을 챙겨요. 상대의 마지막 포켓몬은 내 첫 파트너에 따라 달라져요.",
+      "reward": "운동장에서 다음 배틀을 할 수 있어요.",
+      "next": "게임 안에서 밤이 되면 학교 운동장으로 가요.",
+      "party": [
+        {
+          "species": 765,
+          "level": 60
+        },
+        {
+          "species": 460,
+          "level": 60
+        },
+        {
+          "species": 855,
+          "level": 60
+        }
+      ],
+      "recommendations": [
+        983,
+        967
+      ],
+      "prerequisites": [
+        "star-dark",
+        "star-fire",
+        "star-poison",
+        "star-fairy",
+        "star-fighting"
+      ],
+      "spoiler": true,
+      "sources": [
+        "sv-star",
+        "official-star",
+        "ko-core"
+      ],
+      "verification": "cross-checked",
+      "starterParties": {
+        "906": [
+          {
+            "species": 591,
+            "level": 60
+          },
+          {
+            "species": 130,
+            "level": 60
+          },
+          {
+            "species": 911,
+            "level": 61,
+            "tera": "fire"
+          }
+        ],
+        "909": [
+          {
+            "species": 229,
+            "level": 60
+          },
+          {
+            "species": 591,
+            "level": 60
+          },
+          {
+            "species": 914,
+            "level": 61,
+            "tera": "water"
+          }
+        ],
+        "912": [
+          {
+            "species": 130,
+            "level": 60
+          },
+          {
+            "species": 229,
+            "level": 60
+          },
+          {
+            "species": 908,
+            "level": 61,
+            "tera": "grass"
+          }
+        ]
+      },
+      "tips": "눈설왕에는 불꽃이 아주 잘 들어요. 처음 나오하를 골랐다면 마지막은 라우드본, 뜨아거라면 웨이니발, 꾸왁스라면 마스카나예요.",
+      "nextLinks": [
+        "mission/star-final"
+      ]
+    },
+    {
+      "id": "star-final",
+      "title": "밤의 학교 운동장",
+      "route": "star",
+      "level": 63,
+      "place": "테이블시티 · 아카데미 운동장",
+      "action": "밤에 학교 안의 이동 화면에서 운동장을 골라요. 배틀 다음 날, 학교 계단 아래에서 오는 연락을 따라가요.",
+      "prep": "이브이의 진화형 여섯 마리와 싸워요. 격투, 땅, 전기, 불꽃과 강철 기술을 나눠 준비해요.",
+      "reward": "스타더스트★스트리트를 마치고 기술머신 용성군(TM169)을 얻어요.",
+      "next": "다른 두 이야기까지 끝났다면 제로게이트로 가요.",
+      "party": [
+        {
+          "species": 197,
+          "level": 62
+        },
+        {
+          "species": 134,
+          "level": 62
+        },
+        {
+          "species": 135,
+          "level": 62
+        },
+        {
+          "species": 136,
+          "level": 62
+        },
+        {
+          "species": 470,
+          "level": 62
+        },
+        {
+          "species": 700,
+          "level": 63,
+          "tera": "fairy"
+        }
+      ],
+      "recommendations": [
+        959,
+        980
+      ],
+      "prerequisites": [
+        "star-clavell"
+      ],
+      "spoiler": true,
+      "sources": [
+        "sv-star",
+        "ko-core",
+        "official-star"
+      ],
+      "verification": "cross-checked",
+      "tips": "마지막 님피아는 페어리 타입으로 테라스탈해요. 강철이나 독 기술이 좋아요.",
+      "nextLinks": [
+        "mission/league",
+        "mission/area-zero"
+      ]
+    },
+    {
+      "id": "league",
+      "title": "포켓몬리그 · 면접과 첫 배틀",
+      "route": "finale",
+      "level": 58,
+      "place": "테이블시티 북서쪽 · 포켓몬리그",
+      "action": "체육관 배지 여덟 개를 모아 리그 건물로 가요. 면접에 합격한 뒤 안으로 들어가 사천왕 첫 상대에게 도전해요.",
+      "prep": "풀이나 얼음 기술을 준비해요. 토오는 저수 특성 때문에 물 기술을 쓰면 체력이 차요.",
+      "reward": "사천왕 두 번째 상대에게 도전할 수 있어요.",
+      "next": "바로 다음 상대를 부르기 전에 팀을 회복해요.",
+      "party": [
+        {
+          "species": 340,
+          "level": 57
+        },
+        {
+          "species": 323,
+          "level": 57
+        },
+        {
+          "species": 232,
+          "level": 57
+        },
+        {
+          "species": 51,
+          "level": 57
+        },
+        {
+          "species": 980,
+          "level": 58,
+          "tera": "ground",
+          "ability": "저수",
+          "immuneTo": [
+            "water"
+          ],
+          "abilityTip": "물 기술을 맞으면 상대가 회복해요. 풀이나 얼음 기술을 써요."
+        }
+      ],
+      "recommendations": [
+        908,
+        471
+      ],
+      "prerequisites": [
+        "gym-cortondo",
+        "gym-artazon",
+        "gym-levincia",
+        "gym-cascarrafa",
+        "gym-medali",
+        "gym-montenevera",
+        "gym-alfornada",
+        "gym-glaseado"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-league",
+        "sv-victory",
+        "db-teams",
+        "ko-walkthrough"
+      ],
+      "verification": "cross-checked",
+      "tips": "면접에선 자신이 처음 고른 포켓몬과 고른 체육관의 관장·타입이 서로 맞도록 대답해요.",
+      "nextLinks": [
+        "mission/league-poppy"
+      ],
+      "wayfindingStages": [
+        1,
+        1,
+        2
+      ],
+      "stagePoints": [
+        "mesagoza",
+        "pokemon-league"
+      ]
+    },
+    {
+      "id": "league-poppy",
+      "title": "포켓몬리그 · 두 번째 배틀",
+      "route": "finale",
+      "level": 59,
+      "place": "포켓몬리그",
+      "action": "두 번째 사천왕에 도전해요. 마지막에는 두드리짱이 강철 타입으로 테라스탈해요.",
+      "prep": "불꽃이나 땅 기술을 준비해요. 아머까오는 비행 타입이라 땅 기술이 안 통해요.",
+      "reward": "사천왕 세 번째 상대에게 도전할 수 있어요.",
+      "next": "전기, 얼음, 바위 기술을 다시 확인해요.",
+      "party": [
+        {
+          "species": 879,
+          "level": 58
+        },
+        {
+          "species": 462,
+          "level": 58
+        },
+        {
+          "species": 437,
+          "level": 58,
+          "ability": "부유",
+          "immuneTo": [
+            "ground"
+          ],
+          "abilityTip": "땅 기술이 닿지 않아요. 불꽃 기술은 잘 통해요."
+        },
+        {
+          "species": 823,
+          "level": 58
+        },
+        {
+          "species": 959,
+          "level": 59,
+          "tera": "steel"
+        }
+      ],
+      "recommendations": [
+        911,
+        195
+      ],
+      "prerequisites": [
+        "league"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-league",
+        "sv-victory",
+        "db-teams",
+        "ko-walkthrough"
+      ],
+      "verification": "cross-checked",
+      "tips": "동탁군은 본작 리그에서 부유 특성을 지녀요. 땅 대신 불꽃 기술이 안전해요.",
+      "nextLinks": [
+        "mission/league-larry"
+      ]
+    },
+    {
+      "id": "league-larry",
+      "title": "포켓몬리그 · 세 번째 배틀",
+      "route": "finale",
+      "level": 60,
+      "place": "포켓몬리그",
+      "action": "세 번째 사천왕에 도전해요. 마지막 꼬이밍고는 비행 타입으로 테라스탈해요.",
+      "prep": "얼음과 바위 기술이 좋아요. 트로피우스와 파비코리는 얼음에 4배 약해요.",
+      "reward": "사천왕 네 번째 상대에게 도전할 수 있어요.",
+      "next": "다음 상대에게도 얼음 기술이 유용해요.",
+      "party": [
+        {
+          "species": 357,
+          "level": 59
+        },
+        {
+          "species": 741,
+          "level": 59,
+          "form": "파칙파칙 스타일"
+        },
+        {
+          "species": 334,
+          "level": 59
+        },
+        {
+          "species": 398,
+          "level": 59
+        },
+        {
+          "species": 973,
+          "level": 60,
+          "tera": "flying"
+        }
+      ],
+      "recommendations": [
+        975,
+        939
+      ],
+      "prerequisites": [
+        "league-poppy"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-league",
+        "sv-victory",
+        "db-teams",
+        "ko-walkthrough"
+      ],
+      "verification": "cross-checked",
+      "tips": "춤추새는 전기·비행 타입이에요. 전기 대신 얼음이나 바위 기술을 써요.",
+      "nextLinks": [
+        "mission/league-hassel"
+      ]
+    },
+    {
+      "id": "league-hassel",
+      "title": "포켓몬리그 · 네 번째 배틀",
+      "route": "finale",
+      "level": 61,
+      "place": "포켓몬리그",
+      "action": "네 번째 사천왕과 배틀해요. 드닐레이브는 마지막에 드래곤 타입으로 테라스탈해요.",
+      "prep": "얼음 기술을 준비해요. 음번과 애프룡은 얼음에 4배 약해요.",
+      "reward": "톱 챔피언에게 도전할 수 있어요.",
+      "next": "다음 배틀 전에 체력을 채워요.",
+      "party": [
+        {
+          "species": 715,
+          "level": 60
+        },
+        {
+          "species": 841,
+          "level": 60
+        },
+        {
+          "species": 691,
+          "level": 60
+        },
+        {
+          "species": 612,
+          "level": 60
+        },
+        {
+          "species": 998,
+          "level": 61,
+          "tera": "dragon"
+        }
+      ],
+      "recommendations": [
+        975,
+        700
+      ],
+      "prerequisites": [
+        "league-larry"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-league",
+        "sv-victory",
+        "db-teams",
+        "ko-walkthrough"
+      ],
+      "verification": "cross-checked",
+      "tips": "드래곤 기술은 페어리한테 안 통해요. 내 페어리 포켓몬을 교체로 내보낼 때 도움이 돼요.",
+      "nextLinks": [
+        "mission/league-geeta"
+      ]
+    },
+    {
+      "id": "league-geeta",
+      "title": "포켓몬리그 · 톱 챔피언",
+      "route": "finale",
+      "level": 62,
+      "place": "포켓몬리그 옥상",
+      "action": "사천왕을 모두 이긴 뒤 마지막 시험을 봐요. 상대 포켓몬이 바뀔 때마다 잘 맞는 기술을 골라요.",
+      "prep": "격투와 불꽃 기술을 챙겨요. 바위로 테라스탈한 킬라플로르에게 물이나 땅도 잘 통해요.",
+      "reward": "챔피언 랭크를 얻어요.",
+      "next": "테이블시티 중앙의 배틀 코트로 가요.",
+      "party": [
+        {
+          "species": 956,
+          "level": 61
+        },
+        {
+          "species": 673,
+          "level": 61
+        },
+        {
+          "species": 976,
+          "level": 61
+        },
+        {
+          "species": 713,
+          "level": 61
+        },
+        {
+          "species": 983,
+          "level": 61
+        },
+        {
+          "species": 970,
+          "level": 62,
+          "tera": "rock"
+        }
+      ],
+      "recommendations": [
+        914,
+        448
+      ],
+      "prerequisites": [
+        "league-hassel"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-league",
+        "sv-victory",
+        "db-teams",
+        "ko-walkthrough"
+      ],
+      "verification": "cross-checked",
+      "tips": "대도각참은 악·강철이라 격투 기술에 4배 약해요.",
+      "nextLinks": [
+        "mission/league-nemona"
+      ]
+    },
+    {
+      "id": "league-nemona",
+      "title": "테이블시티에서 친구와 결승전",
+      "route": "finale",
+      "level": 66,
+      "place": "테이블시티 · 중앙 배틀 코트",
+      "action": "중앙 광장의 배틀 코트에서 네모와 배틀해요. 나머지 포켓몬들은 내 첫 파트너에 관계없이 같아요.",
+      "prep": "격투나 땅 기술, 그리고 상대 첫 파트너를 이길 타입을 준비해요.",
+      "reward": "챔피언 로드를 마쳐요.",
+      "next": "다른 두 이야기도 끝났다면 연락을 받고 제로게이트로 가요.",
+      "party": [
+        {
+          "species": 745,
+          "level": 65
+        },
+        {
+          "species": 706,
+          "level": 65
+        },
+        {
+          "species": 923,
+          "level": 65
+        },
+        {
+          "species": 968,
+          "level": 65,
+          "ability": "흙먹기",
+          "immuneTo": [
+            "ground"
+          ],
+          "abilityTip": "땅 기술을 맞으면 상대가 회복해요. 불꽃이나 격투 기술을 써요."
+        },
+        {
+          "species": 982,
+          "level": 65
+        }
+      ],
+      "recommendations": [
+        914,
+        980
+      ],
+      "prerequisites": [
+        "league-geeta"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-league",
+        "sv-victory",
+        "db-teams",
+        "ko-walkthrough"
+      ],
+      "verification": "cross-checked",
+      "starterParties": {
+        "906": [
+          {
+            "species": 914,
+            "level": 66,
+            "tera": "water"
+          }
+        ],
+        "909": [
+          {
+            "species": 908,
+            "level": 66,
+            "tera": "grass"
+          }
+        ],
+        "912": [
+          {
+            "species": 911,
+            "level": 66,
+            "tera": "fire"
+          }
+        ]
+      },
+      "tips": "처음 나오하를 골랐다면 마지막은 웨이니발, 뜨아거라면 마스카나, 꾸왁스라면 라우드본이에요.",
+      "nextLinks": [
+        "mission/legend-final",
+        "mission/star-final",
+        "mission/area-zero"
+      ],
+      "stagePoints": [
+        "mesagoza"
+      ]
+    },
+    {
+      "id": "area-zero",
+      "title": "팔데아의 대공 탐험",
+      "route": "finale",
+      "level": 67,
+      "place": "제로게이트 → 에리어 제로 → 제로랩",
+      "action": "세 이야기를 모두 마친 뒤 제로게이트에 모여요. 아래로 내려가며 관측 유닛 네 곳 안의 장치를 작동하고 가장 아래의 제로랩으로 가요.",
+      "prep": "레벨 65~70쯤인 팀과 회복약을 준비해요. 악, 페어리, 물이나 땅 기술을 골고루 챙기면 좋아요.",
+      "reward": "본편 엔딩을 보고 새 탐험과 도전이 열려요.",
+      "next": "아카데미 교장실에 들러요.",
+      "party": [
+        {
+          "species": 988,
+          "level": 66
+        },
+        {
+          "species": 985,
+          "level": 66
+        },
+        {
+          "species": 986,
+          "level": 66
+        },
+        {
+          "species": 987,
+          "level": 66
+        },
+        {
+          "species": 989,
+          "level": 66
+        },
+        {
+          "species": 1005,
+          "level": 67
+        }
+      ],
+      "recommendations": [
+        700,
+        914,
+        980
+      ],
+      "prerequisites": [
+        "legend-final",
+        "star-final",
+        "league-nemona"
+      ],
+      "spoiler": true,
+      "sources": [
+        "sv-ending",
+        "ko-ending"
+      ],
+      "verification": "cross-checked",
+      "versions": {
+        "violet": {
+          "party": [
+            {
+              "species": 994,
+              "level": 66
+            },
+            {
+              "species": 991,
+              "level": 66
+            },
+            {
+              "species": 992,
+              "level": 66
+            },
+            {
+              "species": 993,
+              "level": 66
+            },
+            {
+              "species": 995,
+              "level": 66
+            },
+            {
+              "species": 1006,
+              "level": 67
+            }
+          ]
+        }
+      },
+      "tips": "스칼렛과 바이올렛의 마지막 팀은 달라요. 마지막에 평소 팀을 쓸 수 없는 때에는 포켓몬 메뉴 맨 아래의 라이드 포켓몬을 확인해요.",
+      "nextLinks": [
+        "mission/gym-rematches"
+      ],
+      "wayfindingStages": [
+        2,
+        2,
+        3,
+        4,
+        4,
+        4
+      ],
+      "stagePoints": [
+        "area-zero-gate",
+        "area-zero"
+      ]
+    },
+    {
+      "id": "gym-rematches",
+      "title": "체육관 한 바퀴 더!",
+      "route": "postgame",
+      "level": 66,
+      "place": "팔데아 · 체육관 여덟 곳",
+      "action": "엔딩 뒤 아카데미 교장실에 들러요. 다시 체육관 여덟 곳을 찾아가 강해진 관장들과 한 번씩 겨뤄요.",
+      "prep": "각 관장을 이길 기술을 준비해요. 모든 관장이 레벨 65~66 포켓몬 다섯 마리를 사용해요.",
+      "reward": "교장실 방문 때 마스터볼을 받고, 관장 배틀을 다 이기면 학교 대회가 열려요.",
+      "next": "아카데미로 돌아가 학교 최강 선발 대회에 나가요.",
+      "party": [],
+      "recommendations": [
+        911,
+        959,
+        923
+      ],
+      "prerequisites": [
+        "area-zero"
+      ],
+      "spoiler": false,
+      "sources": [
+        "sv-ace",
+        "ko-ace",
+        "ko-postgame",
+        "ko-ace-name"
+      ],
+      "verification": "cross-checked",
+      "nextLinks": [
+        "mission/academy-ace"
+      ]
+    },
+    {
+      "id": "academy-ace",
+      "title": "학교 최강 선발 대회",
+      "route": "postgame",
+      "level": 70,
+      "place": "테이블시티 · 아카데미 접수처",
+      "action": "관장 재대결을 모두 마치고 아카데미에서 대회에 참가해요. 네 경기 연속으로 이겨 첫 우승을 해요.",
+      "prep": "한 타입만 쓰면 막힐 수 있어요. 불꽃, 물, 격투와 페어리 기술을 고루 준비해요.",
+      "reward": "첫 우승 뒤 대회에 다시 참가할 수 있어요. 대회 보상과 상금을 모을 수 있어요.",
+      "next": "높은 별의 레이드에 도전하거나 DLC를 계속해요.",
+      "party": [],
+      "recommendations": [
+        911,
+        700,
+        983
+      ],
+      "prerequisites": [
+        "gym-rematches"
+      ],
+      "spoiler": false,
+      "sources": [
+        "sv-ace",
+        "ko-ace",
+        "ko-postgame",
+        "ko-ace-name"
+      ],
+      "verification": "cross-checked",
+      "tips": "첫 대회 순서는 페퍼, 지니어, 운향, 테사예요. 남청의 원반을 진행하면 이후 반복 대회 상대가 더 강해질 수 있어요.",
+      "nextLinks": [
+        "mission/raid-six",
+        "mission/teal-start"
+      ]
+    },
+    {
+      "id": "raid-six",
+      "title": "검은 결정의 레이드 열기",
+      "route": "postgame",
+      "level": 90,
+      "place": "팔데아 · 테라 레이드 결정",
+      "action": "학교 최강 선발 대회에서 우승하고 지니어의 전화를 받아요. 팔데아에서 높은 별의 레이드를 클리어하고 두 번째 전화를 기다려요.",
+      "prep": "레이드를 처음 한다면 별이 낮은 결정부터 연습해요. 보스의 테라 타입에 강하고 상대 기술도 잘 버티는 포켓몬을 데려가요.",
+      "reward": "팔데아 지도에 6성 검은 결정이 나타나요.",
+      "next": "솔로 레이드를 연습하며 경험사탕, 테라피스, 육성 도구를 모아요.",
+      "party": [],
+      "recommendations": [
+        939,
+        979,
+        184
+      ],
+      "prerequisites": [
+        "academy-ace"
+      ],
+      "spoiler": false,
+      "sources": [
+        "bulba-raids",
+        "ko-ace"
+      ],
+      "verification": "cross-checked",
+      "tips": "처음 전화 뒤 4성 이상 레이드에서 10번 이겨요. 5성 위주로 진행하면 확인하기 쉬워요. 7성은 기간 한정 이벤트가 열릴 때만 나타나요.",
+      "nextLinks": [
+        "field/raid"
+      ]
+    },
+    {
+      "id": "ride-legendary",
+      "title": "라이드 친구와 배틀하기",
+      "route": "postgame",
+      "level": 72,
+      "place": "에리어 제로 · 제로랩 뒤쪽",
+      "action": "엔딩 뒤에는 라이드 포켓몬을 배틀 형태로 바꿀 수 있어요. 따로 한 마리를 더 잡으려면 제로랩 뒤쪽의 수정 기둥 근처 바위길을 찾아요.",
+      "prep": "레벨 72 포켓몬과 싸워요. 저장하고 포획용 볼, 회복약, 상태이상 기술을 준비해요.",
+      "reward": "스칼렛에서는 야생 코라이돈, 바이올렛에서는 야생 미라이돈을 별도로 잡을 수 있어요.",
+      "next": "에리어 제로의 다른 패러독스 포켓몬도 찾아 도감을 채워요.",
+      "party": [
+        {
+          "species": 1007,
+          "level": 72
+        }
+      ],
+      "recommendations": [
+        700,
+        959
+      ],
+      "prerequisites": [
+        "area-zero"
+      ],
+      "spoiler": true,
+      "sources": [
+        "sv-legendary",
+        "ko-postgame"
+      ],
+      "verification": "cross-checked",
+      "versions": {
+        "violet": {
+          "party": [
+            {
+              "species": 1008,
+              "level": 72
+            }
+          ]
+        }
+      },
+      "nextLinks": [
+        "map/paldea/all/area-zero",
+        "dex/paldea"
+      ]
+    },
+    {
+      "id": "teal-start",
+      "title": "벽록의 가면 · 자연 학교에 가요",
+      "route": "teal",
+      "level": 13,
+      "place": "오렌지 아카데미 → 스이록마을",
+      "action": "보물찾기가 시작된 뒤 학교 입구에서 자연 학교 안내를 받아요. 북신의 고장에 도착하면 큰길을 따라 마을로 가고 시유와 배틀해요.",
+      "prep": "본편 엔딩 전이면 레벨 13 전후, 엔딩 뒤면 레벨 60 전후 팀을 준비해요. 격투와 불꽃이나 물 기술이 좋아요.",
+      "reward": "스이록마을에서 묵으며 다음 날의 과제를 받을 수 있어요.",
+      "next": "마을 회관 밖에서 카지를 만나 안내판을 찾으러 가요.",
+      "party": [
+        {
+          "species": 261,
+          "level": 12
+        },
+        {
+          "species": 37,
+          "level": 12
+        },
+        {
+          "species": 1012,
+          "level": 13
+        }
+      ],
+      "recommendations": [
+        296,
+        661
+      ],
+      "prerequisites": [
+        "school"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-teal",
+        "insider-teal",
+        "gamefaqs-teal",
+        "ko-kita"
+      ],
+      "verification": "cross-checked",
+      "afterCreditsParty": [
+        {
+          "species": 261,
+          "level": 60
+        },
+        {
+          "species": 37,
+          "level": 60
+        },
+        {
+          "species": 1012,
+          "level": 60
+        }
+      ],
+      "tips": "같은 DLC 배틀도 본편 엔딩 뒤에는 상대 레벨이 훨씬 높아져요.",
+      "nextLinks": [
+        "mission/teal-signboards"
+      ],
+      "stagePoints": [
+        "mesagoza",
+        "kitakami-road",
+        "mossui"
+      ]
+    },
+    {
+      "id": "teal-signboards",
+      "title": "안내판 찾아 사진 찍기",
+      "route": "teal",
+      "level": 12,
+      "place": "세벗 플라자 → 북신센터",
+      "action": "마을 서쪽의 애플 힐스를 지나 세벗 플라자의 안내판을 읽어요. 두 번째 안내판은 마을 동쪽의 신명 산길을 올라 북신센터에서 찾아요.",
+      "prep": "첫 카지 배틀에 대비해 바위나 전기 기술을 준비해요.",
+      "reward": "카지와 첫 두 곳에서 사진을 찍어요.",
+      "next": "남은 안내판은 축제 다음에 찾고, 지금은 카지의 집으로 가요.",
+      "party": [
+        {
+          "species": 161,
+          "level": 12
+        },
+        {
+          "species": 193,
+          "level": 12
+        }
+      ],
+      "recommendations": [
+        950,
+        921
+      ],
+      "prerequisites": [
+        "teal-start"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-teal",
+        "insider-teal",
+        "gamefaqs-teal",
+        "ko-kita"
+      ],
+      "verification": "cross-checked",
+      "afterCreditsParty": [
+        {
+          "species": 161,
+          "level": 59
+        },
+        {
+          "species": 193,
+          "level": 60
+        }
+      ],
+      "tips": "안내판에 다가가 A 버튼으로 조사하면 사진 촬영이 시작돼요.",
+      "nextLinks": [
+        "mission/teal-festival"
+      ]
+    },
+    {
+      "id": "teal-festival",
+      "title": "북신센터의 축제",
+      "route": "teal",
+      "level": 19,
+      "place": "스이록마을 → 북신센터",
+      "action": "카지의 집에서 축제 준비를 하고, 밤이 되면 북신센터로 가요. 축제 체험을 한 뒤 마을로 돌아가요.",
+      "prep": "격투, 불꽃, 비행 기술이 있는 팀을 회복해요.",
+      "reward": "축제 옷을 얻고 도깨비 퇴치 페스티벌을 즐길 수 있어요.",
+      "next": "애플 힐스를 지나 낙원의 황무지의 마지막 안내판을 확인해요.",
+      "party": [],
+      "recommendations": [
+        662,
+        922
+      ],
+      "prerequisites": [
+        "teal-signboards"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-teal",
+        "insider-teal",
+        "gamefaqs-teal",
+        "ko-kita"
+      ],
+      "verification": "cross-checked",
+      "nextLinks": [
+        "mission/teal-mountain"
+      ]
+    },
+    {
+      "id": "teal-mountain",
+      "title": "마지막 안내판과 산 위의 호수",
+      "route": "teal",
+      "level": 33,
+      "place": "낙원의 황무지 → 북신센터 → 태라수호",
+      "action": "낙원의 황무지에서 마지막 안내판을 찾아 카지와 배틀해요. 이야기를 더 들은 뒤 북신센터 뒤 계단을 올라 도깨비산 꼭대기의 태라수호로 가요.",
+      "prep": "산길에 오르기 전에 팀을 회복해요. 카지에게는 전기와 비행 기술을 챙겨요.",
+      "reward": "가면을 고칠 재료를 얻어요.",
+      "next": "스이록마을의 카지 집으로 돌아가요.",
+      "party": [],
+      "recommendations": [
+        939,
+        663
+      ],
+      "prerequisites": [
+        "teal-festival"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-teal",
+        "insider-teal",
+        "gamefaqs-teal",
+        "ko-kita"
+      ],
+      "verification": "cross-checked",
+      "tips": "산길 표지판에서 공포의 굴과 태라수호 방향이 갈라져요. 호수가 목적지라면 태라수호 표지를 따라가요.",
+      "nextLinks": [
+        "mission/teal-masks"
+      ],
+      "wayfindingStages": [
+        2,
+        2,
+        1,
+        3
+      ],
+      "stagePoints": [
+        "paradise-barrens",
+        "mossui",
+        "crystal-pool",
+        "crystal-pool"
+      ]
+    },
+    {
+      "id": "teal-masks",
+      "title": "가면 세 개 되찾기",
+      "route": "teal",
+      "level": 35,
+      "place": "등꽃 연못 · 도깨비산 · 낙원의 황무지",
+      "action": "스이록마을 사람들에게 세벗의 행방을 물어요. 등꽃 연못, 도깨비산의 동굴 아래 길, 낙원의 황무지로 가서 시유와 함께 싸워요.",
+      "prep": "세 포켓몬이 모두 독 타입을 지녀요. 이야후에는 악이나 고스트, 기로치에는 땅이나 에스퍼, 조타구에는 에스퍼 기술이 좋아요.",
+      "reward": "우물의 가면, 화덕의 가면, 주춧돌의 가면을 되찾아요.",
+      "next": "모두 되찾았으면 스이록마을에 돌아가요.",
+      "party": [
+        {
+          "species": 1015,
+          "level": 35
+        },
+        {
+          "species": 1016,
+          "level": 35
+        },
+        {
+          "species": 1014,
+          "level": 35
+        }
+      ],
+      "recommendations": [
+        980,
+        956
+      ],
+      "prerequisites": [
+        "teal-mountain"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-teal",
+        "insider-teal",
+        "gamefaqs-teal",
+        "ko-kita",
+        "teal-loyal",
+        "official-three"
+      ],
+      "verification": "cross-checked",
+      "tips": "세벗은 이 배틀에서 잡는 것이 아니에요. DLC 스토리를 끝낸 뒤 각자 있던 장소에서 일반 포획에 도전할 수 있어요.",
+      "nextLinks": [
+        "mission/teal-finale"
+      ],
+      "wayfindingStages": [
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "stagePoints": [
+        "mossui",
+        null,
+        null,
+        "mossui"
+      ]
+    },
+    {
+      "id": "teal-finale",
+      "title": "공포의 굴 앞 마지막 도전",
+      "route": "teal",
+      "level": 38,
+      "place": "도깨비산 · 공포의 굴",
+      "action": "도깨비산의 공포의 굴 앞에서 직접 배틀해요. 네 가면으로 바뀌는 오거폰을 이기고 원하는 볼로 잡아요. 그 뒤 시유의 마지막 도전을 마쳐요.",
+      "prep": "카지의 글라이온은 얼음에 약해요. 오거폰은 가면에 따라 방어 타입이 달라지므로 물, 풀, 바위, 불꽃 피해를 버틸 팀을 꾸려요.",
+      "reward": "오거폰을 얻고 벽록의 가면 이야기를 마쳐요.",
+      "next": "북신을 더 탐험하거나, 본편도 완료했다면 블루베리 아카데미로 가요.",
+      "party": [
+        {
+          "species": 275,
+          "level": 33
+        },
+        {
+          "species": 469,
+          "level": 37
+        },
+        {
+          "species": 1011,
+          "level": 36
+        },
+        {
+          "species": 476,
+          "level": 33
+        },
+        {
+          "species": 62,
+          "level": 38
+        },
+        {
+          "species": 472,
+          "level": 37
+        },
+        {
+          "species": 1017,
+          "level": 20
+        }
+      ],
+      "recommendations": [
+        975,
+        959
+      ],
+      "prerequisites": [
+        "teal-masks"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-teal",
+        "insider-teal",
+        "gamefaqs-teal",
+        "ko-kita",
+        "teal-final",
+        "teal-boss",
+        "official-masks",
+        "sv-legendary"
+      ],
+      "verification": "cross-checked",
+      "afterCreditsParty": [
+        {
+          "species": 275,
+          "level": 71
+        },
+        {
+          "species": 476,
+          "level": 71
+        },
+        {
+          "species": 469,
+          "level": 72
+        },
+        {
+          "species": 62,
+          "level": 72
+        },
+        {
+          "species": 1011,
+          "level": 72
+        },
+        {
+          "species": 472,
+          "level": 76
+        },
+        {
+          "species": 1017,
+          "level": 70
+        }
+      ],
+      "tips": "본편 엔딩 뒤라면 카지의 최고 레벨은 76, 오거폰은 레벨 70이에요. 테라스탈한 오거폰은 화덕·우물·주춧돌·벽록 가면 순서로 불꽃·물·바위·풀 타입이 돼요.",
+      "nextLinks": [
+        "mission/teal-loyal-catch",
+        "mission/indigo-start"
+      ],
+      "wayfindingStages": [
+        1,
+        2,
+        3
+      ],
+      "stagePoints": [
+        "dreaded-den",
+        "dreaded-den",
+        "dreaded-den",
+        "loyalty"
+      ]
+    },
+    {
+      "id": "teal-loyal-catch",
+      "title": "세벗을 한 마리씩 잡기",
+      "route": "teal",
+      "level": 70,
+      "place": "낙원의 황무지 · 등꽃 연못 · 도깨비산",
+      "action": "스이록마을 이야기가 끝났다면 전에 싸웠던 자리로 돌아가요. 조타구는 낙원의 황무지, 이야후는 등꽃 연못, 기로치는 도깨비산 아래 길에서 만나요.",
+      "prep": "배틀 전에 저장해요. 체력을 조금만 남기도록 칼등치기를 준비하고 잠들게 하는 기술과 볼을 챙겨요.",
+      "reward": "레벨 70 세벗을 각각 잡을 수 있어요.",
+      "next": "북신 도감이 150종 가까우면 세류와 사진 모험을 시작해요.",
+      "party": [
+        {
+          "species": 1014,
+          "level": 70
+        },
+        {
+          "species": 1015,
+          "level": 70
+        },
+        {
+          "species": 1016,
+          "level": 70
+        }
+      ],
+      "recommendations": [
+        286,
+        959
+      ],
+      "prerequisites": [
+        "teal-finale"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-three",
+        "sv-legendary",
+        "teal-loyal",
+        "ko-kita"
+      ],
+      "verification": "cross-checked",
+      "tips": "세 마리 모두 포획률이 낮으니, 회복약과 볼을 넉넉히 가져가요.",
+      "nextLinks": [
+        "mission/teal-bloodmoon"
+      ],
+      "stagePoints": [
+        null,
+        "okidogi",
+        "munkidori",
+        "fezandipiti"
+      ]
+    },
+    {
+      "id": "teal-bloodmoon",
+      "title": "세류와 사진 탐험",
+      "route": "teal",
+      "level": 70,
+      "place": "스이록마을 → 영겁의 숲",
+      "action": "북신 도감에 150종을 등록한 뒤 마을의 세류에게 말해요. 배틀을 끝내고 영겁의 숲 안개 속에서 서로 다른 포켓몬 10종을 촬영해요.",
+      "prep": "레벨 70 상대에게 쓸 물, 풀, 얼음이나 격투 기술을 챙겨요. 카메라를 들고 다가갈 땐 놀라 도망가지 않게 천천히 가요.",
+      "reward": "붉은 달의 다투곰을 잡고 마을에서 히스이의 모습 가디를 받을 수 있어요.",
+      "next": "다른 북신 포켓몬을 더 잡아 도감 보상을 확인해요.",
+      "party": [
+        {
+          "species": 901,
+          "level": 70,
+          "form": "붉은 달"
+        }
+      ],
+      "recommendations": [
+        914,
+        184
+      ],
+      "prerequisites": [
+        "teal-start"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-teal",
+        "insider-teal",
+        "gamefaqs-teal",
+        "ko-kita",
+        "teal-photo"
+      ],
+      "verification": "cross-checked",
+      "tips": "이 다투곰은 링곰을 진화시켜서 얻는 모습과 달라요. 사진 모험을 따라가야 만날 수 있어요.",
+      "nextLinks": [
+        "map/kitakami",
+        "dex/kitakami"
+      ],
+      "wayfindingStages": [
+        2,
+        2,
+        3
+      ],
+      "stagePoints": [
+        "mossui",
+        "timeless-woods",
+        "timeless-woods",
+        "bloodmoon",
+        "mossui"
+      ]
+    },
+    {
+      "id": "indigo-start",
+      "title": "남청의 원반 · 블루베리 아카데미",
+      "route": "indigo",
+      "level": 72,
+      "place": "블루베리 아카데미 입구 → 테라리움 돔",
+      "action": "본편과 벽록의 가면을 마친 뒤 학교에서 교환 유학 안내를 받아요. 블루베리에 도착하면 타로와 더블배틀하고, 지도에 뜨는 첫 수업 장소로 가요.",
+      "prep": "레벨 70 정도 포켓몬 두 마리를 앞에 둬요. 타로의 전기 타입에는 땅, 몰드류에는 물이나 격투 기술이 좋아요.",
+      "reward": "테라리움 돔 수업에 참여하고 신입생으로 탐험을 시작해요.",
+      "next": "시유의 연락을 받아 돔 중앙으로 가요.",
+      "party": [
+        {
+          "species": 312,
+          "level": 70
+        },
+        {
+          "species": 311,
+          "level": 70
+        },
+        {
+          "species": 530,
+          "level": 72
+        }
+      ],
+      "recommendations": [
+        980,
+        914
+      ],
+      "prerequisites": [
+        "area-zero",
+        "teal-finale"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-indigo",
+        "insider-indigo",
+        "ko-bb"
+      ],
+      "verification": "cross-checked",
+      "tips": "입구 타로 배틀에서 져도 유학 이야기는 이어져요.",
+      "battleFormat": "double",
+      "nextLinks": [
+        "mission/indigo-trials"
+      ],
+      "stagePoints": [
+        "mesagoza",
+        "academy-entrance",
+        "coastal-biome",
+        "central-plaza"
+      ]
+    },
+    {
+      "id": "indigo-trials",
+      "title": "블루베리그에 신청하기",
+      "route": "indigo",
+      "level": null,
+      "place": "테라리움 돔 중앙 → 리그부",
+      "action": "돔 중앙에서 시유를 만난 뒤 제빈을 따라 리그부로 가요. 참가를 신청하고 돔의 네 스퀘어로 찾아가요.",
+      "prep": "제빈의 시험은 무료이고, 다른 세 사천왕 챌린지에는 각각 50BP가 필요해요. 부족하면 돔에서 블루레크의 미션을 완료해요.",
+      "reward": "네 명의 사천왕에게 원하는 순서로 도전할 수 있어요.",
+      "next": "네 명 중 원하는 상대의 스퀘어로 가요.",
+      "party": [],
+      "recommendations": [],
+      "prerequisites": [
+        "indigo-start"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-bb",
+        "sv-bb",
+        "bulba-bb",
+        "ko-bb",
+        "official-bp",
+        "insider-indigo"
+      ],
+      "verification": "cross-checked",
+      "nextLinks": [
+        "mission/indigo-crispin",
+        "mission/indigo-amarys",
+        "mission/indigo-lacey",
+        "mission/indigo-drayton"
+      ],
+      "stagePoints": [
+        "central-plaza"
+      ]
+    },
+    {
+      "id": "indigo-crispin",
+      "title": "블루베리그 · 하솔",
+      "route": "indigo",
+      "level": 79,
+      "place": "사바나 스퀘어",
+      "action": "주변 학생들과 배틀하고 재료를 교환해 아주 매운 샌드위치를 만들어요. 시험을 마친 뒤 하솔과 더블배틀해요.",
+      "prep": "물과 바위 기술을 챙겨요. 부유 특성인 히트로토무에겐 땅 기술 대신 물이나 바위 기술을 써요.",
+      "reward": "하솔과의 사천왕 배틀을 끝내요.",
+      "next": "다른 스퀘어의 사천왕에게 도전해요.",
+      "party": [
+        {
+          "species": 479,
+          "level": 77,
+          "form": "히트로토무"
+        },
+        {
+          "species": 663,
+          "level": 77
+        },
+        {
+          "species": 103,
+          "level": 78
+        },
+        {
+          "species": 323,
+          "level": 78
+        },
+        {
+          "species": 467,
+          "level": 78
+        },
+        {
+          "species": 257,
+          "level": 79,
+          "tera": "fire"
+        }
+      ],
+      "recommendations": [
+        914,
+        983
+      ],
+      "prerequisites": [
+        "indigo-trials"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-bb",
+        "sv-bb",
+        "bulba-bb",
+        "ko-bb"
+      ],
+      "verification": "cross-checked",
+      "battleFormat": "double",
+      "tips": "시험에선 고추, 칠리소스처럼 매운 재료를 모아요. 배틀에서 햇빛이 강해지면 물 기술이 약해져요.",
+      "nextLinks": [
+        "mission/indigo-amarys",
+        "mission/indigo-lacey",
+        "mission/indigo-drayton",
+        "mission/indigo-champion"
+      ],
+      "stagePoints": [
+        "savanna-plaza"
+      ]
+    },
+    {
+      "id": "indigo-amarys",
+      "title": "블루베리그 · 네리네",
+      "route": "indigo",
+      "level": 80,
+      "place": "캐니언 스퀘어",
+      "action": "네리네의 비행 시험을 봐요. 라이드로 공중의 고리를 순서대로 지나 골인한 뒤 더블배틀해요.",
+      "prep": "불꽃, 땅, 격투 기술을 나눠 챙겨요. 무장조에는 불꽃, 핫삼에는 불꽃이 특히 강해요.",
+      "reward": "네리네와의 사천왕 배틀을 끝내요.",
+      "next": "다른 스퀘어의 사천왕에게 도전해요.",
+      "party": [
+        {
+          "species": 227,
+          "level": 78
+        },
+        {
+          "species": 51,
+          "level": 78,
+          "form": "알로라의 모습"
+        },
+        {
+          "species": 212,
+          "level": 79
+        },
+        {
+          "species": 579,
+          "level": 79
+        },
+        {
+          "species": 395,
+          "level": 79
+        },
+        {
+          "species": 376,
+          "level": 80,
+          "tera": "steel"
+        }
+      ],
+      "recommendations": [
+        911,
+        983
+      ],
+      "prerequisites": [
+        "indigo-trials"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-bb",
+        "sv-bb",
+        "bulba-bb",
+        "ko-bb"
+      ],
+      "verification": "cross-checked",
+      "battleFormat": "double",
+      "tips": "이 시험의 비행은 일시적이에요. 후편 이야기를 마치고 네리네를 다시 만나면 계속 비행할 수 있어요.",
+      "nextLinks": [
+        "mission/indigo-crispin",
+        "mission/indigo-lacey",
+        "mission/indigo-drayton",
+        "mission/indigo-champion"
+      ],
+      "wayfindingStages": [
+        1,
+        1,
+        2
+      ],
+      "stagePoints": [
+        "canyon-plaza"
+      ]
+    },
+    {
+      "id": "indigo-lacey",
+      "title": "블루베리그 · 타로",
+      "route": "indigo",
+      "level": 80,
+      "place": "코스트 스퀘어",
+      "action": "포켓몬 그림을 살펴 타로의 퀴즈 다섯 문제를 풀어요. 틀리면 만나는 트레이너를 이긴 다음 퀴즈를 계속할 수 있어요.",
+      "prep": "독과 강철 기술이 좋아요. 몰드류도 페어리 타입으로 테라스탈한 뒤에는 강철 기술에 약해요.",
+      "reward": "타로와의 사천왕 배틀을 끝내요.",
+      "next": "다른 스퀘어의 사천왕에게 도전해요.",
+      "party": [
+        {
+          "species": 547,
+          "level": 78
+        },
+        {
+          "species": 210,
+          "level": 78
+        },
+        {
+          "species": 730,
+          "level": 79
+        },
+        {
+          "species": 80,
+          "level": 79,
+          "form": "가라르의 모습"
+        },
+        {
+          "species": 869,
+          "level": 79
+        },
+        {
+          "species": 530,
+          "level": 80,
+          "tera": "fairy"
+        }
+      ],
+      "recommendations": [
+        959,
+        966
+      ],
+      "prerequisites": [
+        "indigo-trials"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-bb",
+        "sv-bb",
+        "bulba-bb",
+        "ko-bb"
+      ],
+      "verification": "cross-checked",
+      "battleFormat": "double",
+      "tips": "누리레느는 물 타입 기술을 쓸 수 있어요. 내 포켓몬의 방어 타입도 함께 확인해요.",
+      "nextLinks": [
+        "mission/indigo-crispin",
+        "mission/indigo-amarys",
+        "mission/indigo-drayton",
+        "mission/indigo-champion"
+      ],
+      "stagePoints": [
+        "coastal-plaza"
+      ]
+    },
+    {
+      "id": "indigo-drayton",
+      "title": "블루베리그 · 제빈",
+      "route": "indigo",
+      "level": 80,
+      "place": "폴라 스퀘어",
+      "action": "테라리움 돔에서 내가 직접 잡은 포켓몬만으로 시험의 세 트레이너를 이겨요. 시험 뒤 제빈과 싸울 때는 원래 팀으로 바꿔도 돼요.",
+      "prep": "얼음이나 페어리 기술을 챙겨요. 망나뇽과 플라이곤은 얼음 기술에 4배 약해요.",
+      "reward": "제빈과의 사천왕 배틀을 끝내요.",
+      "next": "네 명을 모두 이겼다면 블루베리 아카데미 입구로 가요.",
+      "party": [
+        {
+          "species": 149,
+          "level": 78
+        },
+        {
+          "species": 330,
+          "level": 78
+        },
+        {
+          "species": 612,
+          "level": 79
+        },
+        {
+          "species": 254,
+          "level": 79
+        },
+        {
+          "species": 230,
+          "level": 79
+        },
+        {
+          "species": 1018,
+          "level": 80,
+          "tera": "dragon"
+        }
+      ],
+      "recommendations": [
+        975,
+        959
+      ],
+      "prerequisites": [
+        "indigo-trials"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-bb",
+        "sv-bb",
+        "bulba-bb",
+        "ko-bb"
+      ],
+      "verification": "cross-checked",
+      "battleFormat": "double",
+      "tips": "테라 레이드, 교환, 알로 얻은 포켓몬은 시험용 팀에 넣지 말고 돔의 야생에서 직접 잡아요.",
+      "nextLinks": [
+        "mission/indigo-crispin",
+        "mission/indigo-amarys",
+        "mission/indigo-lacey",
+        "mission/indigo-champion"
+      ],
+      "wayfindingStages": [
+        1,
+        3,
+        4
+      ],
+      "stagePoints": [
+        "polar-plaza"
+      ]
+    },
+    {
+      "id": "indigo-champion",
+      "title": "블루베리그 · 최종 배틀",
+      "route": "indigo",
+      "level": 82,
+      "place": "블루베리 아카데미 입구",
+      "action": "사천왕을 모두 이겼다면 학교 입구의 마지막 상대에게 도전해요. 두 포켓몬이 기술을 서로 도와줄 수 있도록 조합해요.",
+      "prep": "전기, 얼음, 강철과 페어리 기술을 고루 준비해요. 마지막 과미드라가 격투 타입이 되면 페어리나 비행 기술을 써요.",
+      "reward": "블루베리그 챔피언이 돼요.",
+      "next": "이야기가 이어지는 교실의 안내를 따라가요.",
+      "party": [
+        {
+          "species": 186,
+          "level": 80
+        },
+        {
+          "species": 149,
+          "level": 80
+        },
+        {
+          "species": 861,
+          "level": 81
+        },
+        {
+          "species": 474,
+          "level": 81
+        },
+        {
+          "species": 727,
+          "level": 81
+        },
+        {
+          "species": 1019,
+          "level": 82,
+          "tera": "fighting"
+        }
+      ],
+      "recommendations": [
+        959,
+        923
+      ],
+      "prerequisites": [
+        "indigo-crispin",
+        "indigo-amarys",
+        "indigo-lacey",
+        "indigo-drayton"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-bb",
+        "sv-bb",
+        "bulba-bb",
+        "ko-bb"
+      ],
+      "verification": "cross-checked",
+      "battleFormat": "double",
+      "tips": "왕구리가 비를 내리면 불꽃 기술 위력이 낮아져요.",
+      "nextLinks": [
+        "mission/indigo-finale"
+      ]
+    },
+    {
+      "id": "indigo-finale",
+      "title": "깊은 곳의 마지막 모험",
+      "route": "indigo",
+      "level": 85,
+      "place": "제로랩 → 제로의 대공동",
+      "action": "학교에서 다음 목적지를 안내받아요. 제로랩의 장치를 사용해 아래층으로 내려가고, 길을 막은 수정 옆의 포켓몬을 쓰러뜨리며 나아가요.",
+      "prep": "연속 배틀을 준비해요. 테라스탈할 차례가 오면 화면 안내에 맞춰 테라스탈하고, 실드가 다시 생기면 공격해 에너지를 채워요.",
+      "reward": "테라파고스를 포획하고 남청의 원반 이야기를 마쳐요.",
+      "next": "블루베리 아카데미에 돌아가 영구 비행과 간식아저씨를 찾아요.",
+      "party": [
+        {
+          "species": 1024,
+          "level": 85,
+          "tera": "stellar"
+        }
+      ],
+      "recommendations": [
+        979,
+        914
+      ],
+      "prerequisites": [
+        "indigo-champion"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-indigo",
+        "sv-depths",
+        "insider-indigo"
+      ],
+      "verification": "cross-checked",
+      "tips": "마지막 특수 배틀은 진행 중 공격이 통하는 타입이 바뀔 수 있어요. 격투 기술만 든 팀으로 가지 않아요.",
+      "nextLinks": [
+        "mission/indigo-flight",
+        "mission/indigo-snacks"
+      ],
+      "wayfindingStages": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "stagePoints": [
+        "academy-entrance",
+        "zero-underdepths"
+      ]
+    },
+    {
+      "id": "indigo-flight",
+      "title": "이제 어디서든 하늘로!",
+      "route": "indigo",
+      "level": null,
+      "place": "블루베리 아카데미 · 3-2 교실",
+      "action": "남청의 원반을 끝내고 학교의 3-2 교실에서 네리네에게 말을 걸어요.",
+      "prep": "코라이돈 또는 미라이돈을 탔을 때 활공하는 방법을 먼저 확인해요.",
+      "reward": "활공 중 왼쪽 스틱을 누르면 계속 비행할 수 있어요.",
+      "next": "돔 위쪽과 팔데아의 높은 곳을 탐험해요.",
+      "party": [],
+      "recommendations": [],
+      "prerequisites": [
+        "indigo-finale"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-bb",
+        "insider-indigo"
+      ],
+      "verification": "cross-checked",
+      "nextLinks": [
+        "map/blueberry"
+      ]
+    },
+    {
+      "id": "indigo-snacks",
+      "title": "블루레크와 전설의 간식",
+      "route": "indigo",
+      "level": 70,
+      "place": "블루베리 아카데미 입구 → 팔데아",
+      "action": "남청의 원반이 끝나면 입구에 있는 간식아저씨에게 말을 걸어요. 블루레크를 이어가며 전설 포켓몬이 먹는 간식을 받아요.",
+      "prep": "전설과 싸우기 전에 회복약과 볼을 챙기고 저장해요. 간식아저씨가 알려 주는 힌트를 기억해요.",
+      "reward": "받은 간식에 맞는 전설의 포켓몬을 팔데아의 특정 장소에서 잡을 수 있어요.",
+      "next": "혼자 가능한 미션과 유니언 서클의 단체 미션을 구분해 도전해요.",
+      "party": [],
+      "recommendations": [
+        286,
+        959
+      ],
+      "prerequisites": [
+        "indigo-finale"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-snacks",
+        "gg-snacks",
+        "official-bp"
+      ],
+      "verification": "cross-checked",
+      "tips": "간식별 출현 포켓몬과 개인·단체 미션 조건은 스칼렛과 바이올렛에서 달라요.",
+      "nextLinks": [
+        "map/blueberry/all/snacksworth"
+      ],
+      "stagePoints": [
+        "snacksworth"
+      ]
+    },
+    {
+      "id": "epilogue",
+      "title": "번외편 · 향기가 나는 선물",
+      "route": "epilogue",
+      "level": null,
+      "place": "북신의 고장 · 스이록마을 도천상점",
+      "action": "게임 메뉴의 포켓포털에서 이상한 소포를 열고 인터넷으로 환상복슝을 받아요. 스이록마을 도천상점 앞을 조사해요.",
+      "prep": "학교 최강 선발 대회 첫 우승과 벽록의 가면·남청의 원반 완료가 필요해요. DLC 구입과 닌텐도 어카운트 연동도 확인해요.",
+      "reward": "번외편 이야기가 시작돼요.",
+      "next": "팔데아의 집에 들렀다가 친구들과 북신으로 가요. 마을 회관에서 TV 리모컨을 찾고 마을과 북신센터 주변의 배틀을 이어가요.",
+      "party": [],
+      "recommendations": [],
+      "prerequisites": [
+        "academy-ace",
+        "teal-finale",
+        "indigo-finale"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-epilogue",
+        "sv-epilogue"
+      ],
+      "verification": "cross-checked",
+      "tips": "이상한 소포를 받는 데 닌텐도 스위치 온라인 유료 가입은 필요하지 않아요. 공식 공지에는 배포 종료일이 제시되지 않았어요.",
+      "nextLinks": [
+        "mission/epilogue-nemona"
+      ],
+      "wayfindingStages": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "epilogue-nemona",
+      "title": "번외편 · 친구와 대결",
+      "route": "epilogue",
+      "level": 87,
+      "place": "세벗 플라자",
+      "action": "세벗 플라자에 도착하면 먼저 네모와 싸워요. 배틀이 끝난 뒤 잠깐 마을에 돌아가 팀을 회복할 수 있어요.",
+      "prep": "짜랑고우거와 미끄래곤에게는 페어리 기술이 좋아요. 마지막 친구에 맞춰 상성이 좋은 기술을 고르세요.",
+      "reward": "마지막 포켓몬에게 도전할 수 있어요.",
+      "next": "회복한 뒤 세벗 플라자의 포켓몬에게 말을 걸어요.",
+      "party": [
+        {
+          "species": 745,
+          "level": 86
+        },
+        {
+          "species": 784,
+          "level": 86
+        },
+        {
+          "species": 706,
+          "level": 86
+        },
+        {
+          "species": 923,
+          "level": 86
+        }
+      ],
+      "recommendations": [
+        700,
+        959
+      ],
+      "prerequisites": [
+        "epilogue"
+      ],
+      "spoiler": true,
+      "sources": [
+        "sv-epilogue",
+        "thonky-epilogue"
+      ],
+      "verification": "cross-checked",
+      "starterParties": {
+        "906": [
+          {
+            "species": 743,
+            "level": 86
+          },
+          {
+            "species": 914,
+            "level": 87,
+            "tera": "water"
+          }
+        ],
+        "909": [
+          {
+            "species": 350,
+            "level": 86
+          },
+          {
+            "species": 908,
+            "level": 87,
+            "tera": "grass"
+          }
+        ],
+        "912": [
+          {
+            "species": 477,
+            "level": 86
+          },
+          {
+            "species": 911,
+            "level": 87,
+            "tera": "fire"
+          }
+        ]
+      },
+      "nextLinks": [
+        "mission/epilogue-finale"
+      ],
+      "stagePoints": [
+        "mossui",
+        "hall",
+        "loyalty",
+        "loyalty"
+      ]
+    },
+    {
+      "id": "epilogue-finale",
+      "title": "번외편 · 북신에서 친구 찾기",
+      "route": "epilogue",
+      "level": 88,
+      "place": "세벗 플라자",
+      "action": "네모가 서 있던 세벗 플라자의 낯선 포켓몬에게 말을 걸어요. 쓰러뜨린 뒤 화면 안내대로 볼을 선택해요.",
+      "prep": "레벨 85~90 정도 팀과 회복약을 준비해요. 마지막 상대에게는 땅, 고스트, 악이나 에스퍼 기술이 도움이 돼요.",
+      "reward": "복숭악동을 잡고 번외편 이야기를 마쳐요.",
+      "next": "블루베리 리그부로 돌아가 새로 만날 수 있는 손님을 확인해요.",
+      "party": [
+        {
+          "species": 1025,
+          "level": 88
+        }
+      ],
+      "recommendations": [
+        980,
+        911
+      ],
+      "prerequisites": [
+        "epilogue-nemona"
+      ],
+      "spoiler": true,
+      "sources": [
+        "official-epilogue",
+        "official-pecha",
+        "sv-epilogue",
+        "thonky-epilogue"
+      ],
+      "verification": "cross-checked",
+      "tips": "복숭악동과 싸우기 직전에 회복해요. 이기고 나면 원하는 몬스터볼로 포획할 수 있어요.",
+      "nextLinks": [
+        "mission/indigo-coaches"
+      ],
+      "stagePoints": [
+        "loyalty"
+      ]
+    },
+    {
+      "id": "star-rematches",
+      "title": "스타단과 한 번 더 연습하기",
+      "route": "postgame",
+      "level": 66,
+      "place": "팔데아 · 스타단 기지",
+      "action": "스타단 이야기를 마친 뒤 다시 기지로 가서 보스에게 말을 걸어요. 문 옆 벨로는 맡기기 배틀 방식의 연습도 할 수 있어요.",
+      "prep": "보스들은 이전보다 강해졌어요. 다섯 마리를 상대할 수 있도록 체력을 채우고 상성을 확인해요.",
+      "reward": "보스 재대결과 기지 훈련을 다시 즐길 수 있어요.",
+      "next": "다른 기지의 배틀도 차례대로 도전해요.",
+      "party": [],
+      "recommendations": [],
+      "prerequisites": [
+        "area-zero",
+        "star-final"
+      ],
+      "spoiler": false,
+      "sources": [
+        "sv-star-rematch",
+        "db-teams",
+        "ko-postgame"
+      ],
+      "verification": "cross-checked",
+      "nextLinks": [
+        "map/paldea/star"
+      ]
+    },
+    {
+      "id": "titan-catch",
+      "title": "전에 만난 주인 포켓몬에게 인사",
+      "route": "legend",
+      "level": null,
+      "place": "팔데아 · 주인 포켓몬과 처음 싸운 주변",
+      "action": "물리친 주인 포켓몬의 장소로 다시 가요. 가까이 가도 도망치지 않는 개체 앞에서 A 버튼을 눌러 배틀을 시작해요.",
+      "prep": "포획하기 전에 저장해요. 체력을 낮추는 기술과 볼을 챙겨요.",
+      "reward": "주인과 싸웠던 특별한 증표를 가진 포켓몬을 잡을 수 있어요.",
+      "next": "다음 주인 포켓몬이 있던 장소를 찾아요.",
+      "party": [],
+      "recommendations": [
+        286,
+        959
+      ],
+      "prerequisites": [],
+      "spoiler": false,
+      "sources": [
+        "sv-titan-catch",
+        "bulba-titans"
+      ],
+      "verification": "cross-checked",
+      "tips": "포획은 주인별로 열려요. 잡고 싶은 주인과의 이야기 배틀을 끝낸 뒤 그 장소로 돌아가세요.",
+      "nextLinks": [
+        "map/paldea/titan"
+      ]
+    },
+    {
+      "id": "teal-ogre-minigame",
+      "title": "풍선을 톡톡! 도깨비 퇴치",
+      "route": "teal",
+      "level": null,
+      "place": "북신센터",
+      "action": "라이드를 타고 풍선을 터뜨려 네 가지 색의 나무열매를 모아요. 같은 색 열매를 골인 지점에 넣고, 다 넣을 때까지 쫓아오는 포켓몬을 내보내요.",
+      "prep": "처음에는 쉬운 난이도로 색마다 다른 장바구니 위치를 익혀요. 친구와 하면 열매 모으기와 지키기를 나눠도 좋아요.",
+      "reward": "성적에 따라 떡 등 육성 아이템을 받을 수 있어요.",
+      "next": "다른 난이도에도 도전하거나 북신의 새 장소를 살펴봐요.",
+      "party": [],
+      "recommendations": [],
+      "prerequisites": [
+        "teal-festival"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-festival",
+        "ko-kita",
+        "insider-teal"
+      ],
+      "verification": "cross-checked",
+      "nextLinks": [
+        "map/kitakami/all/hall"
+      ],
+      "stagePoints": [
+        "hall"
+      ]
+    },
+    {
+      "id": "indigo-starters",
+      "title": "옛날 첫 파트너 만나기",
+      "route": "indigo",
+      "level": null,
+      "place": "블루베리 리그부 → 테라리움 돔",
+      "action": "리그부 컴퓨터의 지원 목록에서 생태계 업그레이드를 골라요. 열고 싶은 에리어 한 곳에 3,000BP를 써요.",
+      "prep": "네 곳 중 마음에 드는 포켓몬이 나오는 에리어부터 열어요. 예를 들어 사바나에는 파이리, 리아코, 나몰빼미가 나타나요.",
+      "reward": "지원한 에리어의 야생에 역대 첫 파트너 포켓몬들이 나타나요.",
+      "next": "지도를 열고 지원한 에리어를 돌아보며 찾아요.",
+      "party": [],
+      "recommendations": [
+        4,
+        158,
+        722
+      ],
+      "prerequisites": [
+        "indigo-trials"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-bp",
+        "sv-berry-starters"
+      ],
+      "verification": "cross-checked",
+      "nextLinks": [
+        "map/blueberry"
+      ]
+    },
+    {
+      "id": "indigo-coaches",
+      "title": "리그부에 선생님 초대하기",
+      "route": "indigo",
+      "level": null,
+      "place": "블루베리 아카데미 · 리그부",
+      "action": "후편을 마치고 리그부 컴퓨터의 초대 목록을 열어요. 만나고 싶은 손님을 고르고 200BP로 불러요.",
+      "prep": "배틀할 손님의 타입을 미리 확인해요. 같은 손님을 다시 만나고 싶다면 다음 방문도 기록해요.",
+      "reward": "특별한 대화, 배틀과 선물을 얻어요. 같은 강사를 세 번째로 불렀을 때는 포켓몬 교환을 제안받을 수 있어요.",
+      "next": "다른 손님도 불러 대화와 배틀을 모아요.",
+      "party": [],
+      "recommendations": [],
+      "prerequisites": [
+        "indigo-finale"
+      ],
+      "spoiler": false,
+      "sources": [
+        "official-bp",
+        "sv-berry-coaches"
+      ],
+      "verification": "cross-checked",
+      "nextLinks": [
+        "map/blueberry/all/academy-entrance"
+      ]
+    },
+    {
+      "id": "indigo-paradox",
+      "title": "세류의 사진 속 포켓몬",
+      "route": "indigo",
+      "level": 75,
+      "place": "사바나 휴게소 1 → 에리어 제로",
+      "action": "북신에서 세류와의 사진 모험을 마치고 블루베리 도감 200종을 채워요. 사바나 에리어의 첫 휴게소에서 세류를 만나 사진을 받은 뒤 에리어 제로를 찾아가요.",
+      "prep": "사진 속 폭포와 바위 지형을 그대로 기억해요. 레벨 75 포켓몬을 잡을 볼과 회복약을 챙겨요.",
+      "reward": "스칼렛에선 꿰뚫는화염과 날뛰는우레, 바이올렛에선 무쇠암석과 무쇠감투를 만날 수 있어요.",
+      "next": "다른 버전에 나오는 포켓몬 도감은 교환 등으로 채워요.",
+      "party": [
+        {
+          "species": 1020,
+          "level": 75
+        },
+        {
+          "species": 1021,
+          "level": 75
+        }
+      ],
+      "recommendations": [
+        959,
+        286
+      ],
+      "prerequisites": [
+        "teal-bloodmoon",
+        "indigo-start"
+      ],
+      "spoiler": true,
+      "sources": [
+        "sv-berry-perrin",
+        "insider-indigo"
+      ],
+      "verification": "cross-checked",
+      "versions": {
+        "violet": {
+          "party": [
+            {
+              "species": 1022,
+              "level": 75
+            },
+            {
+              "species": 1023,
+              "level": 75
+            }
+          ]
+        }
+      },
+      "tips": "스칼렛의 꿰뚫는화염은 가장 긴 폭포 위쪽 풀밭, 날뛰는우레는 입구 가까운 폭포 아래에 있어요.",
+      "nextLinks": [
+        "dex/blueberry",
+        "map/paldea/all/area-zero"
+      ],
+      "wayfindingStages": [
+        3,
+        4,
+        4
+      ]
+    }
+  ],
+  "sources": {
+    "official-core": {
+      "title": "포켓몬코리아 · 세 갈래 이야기",
+      "url": "https://pokemonkorea.co.kr/sv/menu190?mode=view&number=2660"
+    },
+    "official-league": {
+      "title": "포켓몬코리아 · 챔피언 로드",
+      "url": "https://pokemonkorea.co.kr/sv/menu190?mode=view&number=2663"
+    },
+    "db-teams": {
+      "title": "Pokémon Database · 체육관, 스타단, 사천왕",
+      "url": "https://pokemondb.net/scarlet-violet/gymleaders-elitefour"
+    },
+    "sv-victory": {
+      "title": "Serebii · 챔피언 로드",
+      "url": "https://www.serebii.net/scarletviolet/victoryroad.shtml"
+    },
+    "sv-titans": {
+      "title": "Serebii · 레전드 루트",
+      "url": "https://www.serebii.net/scarletviolet/pathoflegends.shtml"
+    },
+    "bulba-titans": {
+      "title": "Bulbapedia · 주인 포켓몬",
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Titan_Pok%C3%A9mon"
+    },
+    "sv-star": {
+      "title": "Serebii · 스타더스트★스트리트",
+      "url": "https://www.serebii.net/scarletviolet/starfallstreet.shtml"
+    },
+    "official-star": {
+      "title": "Pokémon HOME 한국어 · 스타단 보스 명칭",
+      "url": "https://battle-lp1.pokemon-home.com/scvi/regulation/qo6tpvpjrb725h7wt23m/ko-s"
+    },
+    "ko-walkthrough": {
+      "title": "NSgame · 챔피언 로드 한국어 공략",
+      "url": "https://nsgame.tistory.com/1291"
+    },
+    "ko-core": {
+      "title": "GG게임 · 한국어 본편 도전 순서",
+      "url": "https://www.ggemguide.com/guides/video/3153/"
+    },
+    "ko-tm": {
+      "title": "스칼렛·바이올렛 한국어 배틀 및 보상 정리",
+      "url": "https://gugomah.tistory.com/m/1731"
+    },
+    "sv-ending": {
+      "title": "Serebii · 에리어 제로",
+      "url": "https://www.serebii.net/scarletviolet/thewayhome.shtml"
+    },
+    "ko-ending": {
+      "title": "NSgame · 제로랩까지 한국어 공략",
+      "url": "https://nsgame.tistory.com/1292"
+    },
+    "sv-ace": {
+      "title": "Serebii · 학교 최강 선발 대회",
+      "url": "https://www.serebii.net/scarletviolet/academyacetournament.shtml"
+    },
+    "ko-ace": {
+      "title": "NSgame · 대회와 레이드 해금",
+      "url": "https://nsgame.tistory.com/1294"
+    },
+    "bulba-raids": {
+      "title": "Bulbapedia · 테라 레이드",
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Tera_Raid_Battle"
+    },
+    "ko-postgame": {
+      "title": "NSgame · 엔딩 후 콘텐츠",
+      "url": "https://nsgame.tistory.com/1312"
+    },
+    "sv-legendary": {
+      "title": "Serebii · 전설 포켓몬",
+      "url": "https://www.serebii.net/scarletviolet/legendary.shtml"
+    },
+    "official-teal": {
+      "title": "포켓몬코리아 · 벽록의 가면",
+      "url": "https://pokemonkorea.co.kr/sv_dlc/menu263?mode=view&number=2823"
+    },
+    "official-masks": {
+      "title": "포켓몬코리아 · 오거폰의 가면",
+      "url": "https://pokemonkorea.co.kr/pokedex/view/1286"
+    },
+    "official-three": {
+      "title": "포켓몬코리아 · 세벗의 이름과 특성",
+      "url": "https://pokemonkorea.co.kr/sv_dlc/menu334?mode=view&number=3122"
+    },
+    "insider-teal": {
+      "title": "Pokéball Insider · 벽록의 가면 진행",
+      "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-teal-mask/"
+    },
+    "gamefaqs-teal": {
+      "title": "GameFAQs · 벽록의 가면 전후 레벨",
+      "url": "https://gamefaqs.gamespot.com/switch/359435-pokemon-scarlet/faqs/80291/dlc-part-1-the-teal-mask"
+    },
+    "ko-kita": {
+      "title": "북신의 고장 · 한국어 지명 및 지역",
+      "url": "https://namu.moe/w/%EB%B6%81%EC%8B%A0%EC%9D%98%20%EA%B3%A0%EC%9E%A5"
+    },
+    "teal-boss": {
+      "title": "Bulbapedia · 카지의 배틀",
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Kieran"
+    },
+    "teal-final": {
+      "title": "Nintendo Life · 벽록의 가면 마지막 배틀",
+      "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-the-teal-mask-dlc-walkthrough-the-final-battles"
+    },
+    "teal-loyal": {
+      "title": "Nintendo Life · 세벗의 위치",
+      "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-the-teal-mask-dlc-walkthrough-where-to-find-the-loyal-three"
+    },
+    "teal-photo": {
+      "title": "붉은 달 다투곰 · 한국어 포획 공략",
+      "url": "https://ggemguide.com/guides/video/3016/"
+    },
+    "official-indigo": {
+      "title": "포켓몬코리아 · 남청의 원반",
+      "url": "https://pokemonkorea.co.kr/sv_dlc/menu263?mode=view&number=2824"
+    },
+    "official-bb": {
+      "title": "포켓몬코리아 · 블루베리그 챌린지와 비행",
+      "url": "https://pokemonkorea.co.kr/sv_dlc/menu335?mode=view&number=3131"
+    },
+    "official-bp": {
+      "title": "포켓몬코리아 · 블루레크 및 리그부",
+      "url": "https://pokemonkorea.co.kr/sv_dlc/menu335?mode=view&number=3143"
+    },
+    "sv-bb": {
+      "title": "Serebii · 블루베리그 팀 편성",
+      "url": "https://www.serebii.net/scarletviolet/blueberryelitefour.shtml"
+    },
+    "bulba-bb": {
+      "title": "Bulbapedia · 사천왕 챌린지",
+      "url": "https://bulbapedia.bulbagarden.net/wiki/Elite_Trial"
+    },
+    "insider-indigo": {
+      "title": "Pokéball Insider · 남청의 원반 진행",
+      "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-indigo-disk/"
+    },
+    "sv-depths": {
+      "title": "Serebii · 에리어 제로 최심부",
+      "url": "https://www.serebii.net/scarletviolet/areazerounderdepths.shtml"
+    },
+    "ko-bb": {
+      "title": "블루베리그 · 한국어 이름과 스퀘어",
+      "url": "https://namu.moe/w/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC%EA%B7%B8"
+    },
+    "official-snacks": {
+      "title": "포켓몬코리아 · 간식아저씨의 전설 포켓몬",
+      "url": "https://pokemonkorea.co.kr/sv_dlc/menu335?mode=view&number=3234"
+    },
+    "gg-snacks": {
+      "title": "GG게임 · 간식아저씨 버전별 해금",
+      "url": "https://www.ggemguide.com/guides/video/3117/"
+    },
+    "official-epilogue": {
+      "title": "포켓몬코리아 · 번외편 시작 조건",
+      "url": "https://pokemonkorea.co.kr/sv_dlc/menu267?mode=view&number=3288"
+    },
+    "official-pecha": {
+      "title": "포켓몬코리아 · 복숭악동",
+      "url": "https://pokemonkorea.co.kr/sv_dlc/menu334?mode=view&number=3293"
+    },
+    "sv-epilogue": {
+      "title": "Serebii · 번외편 진행과 팀 편성",
+      "url": "https://www.serebii.net/scarletviolet/mochimayhem.shtml"
+    },
+    "thonky-epilogue": {
+      "title": "Thonky · 번외편 길 안내",
+      "url": "https://www.thonky.com/pokemon-scarlet-violet/mochi-mayhem"
+    },
+    "ko-ace-name": {
+      "title": "포켓몬 위키 · 배틀 스쿨 워즈",
+      "url": "https://pokemon.fandom.com/ko/wiki/%EB%B0%B0%ED%8B%80_%EC%8A%A4%EC%BF%A8_%EC%9B%8C%EC%A6%88"
+    },
+    "sv-star-rematch": {
+      "title": "Serebii · 스타단과 연습 배틀",
+      "url": "https://www.serebii.net/scarletviolet/teamstarrematches.shtml"
+    },
+    "sv-titan-catch": {
+      "title": "Serebii · 포획할 수 있는 주인 포켓몬",
+      "url": "https://www.serebii.net/scarletviolet/titanpokemon.shtml"
+    },
+    "official-festival": {
+      "title": "포켓몬코리아 · 도깨비 퇴치 페스티벌",
+      "url": "https://pokemonkorea.co.kr/sv_dlc/menu335?mode=view&number=3130"
+    },
+    "sv-berry-coaches": {
+      "title": "Serebii · 리그부 특강 강사",
+      "url": "https://www.serebii.net/scarletviolet/leagueclubcoaches.shtml"
+    },
+    "sv-berry-starters": {
+      "title": "Serebii · 테라리움의 파트너 포켓몬",
+      "url": "https://www.serebii.net/scarletviolet/terariumstarters.shtml"
+    },
+    "sv-berry-perrin": {
+      "title": "Serebii · 세류와 패러독스 포켓몬",
+      "url": "https://www.serebii.net/scarletviolet/paradoxperrin.shtml"
+    }
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "missions": {
+    "gym-cortondo": {
+      "start": "테이블시티 서문",
+      "point": "map-gym-cortondo",
+      "steps": [
+        {
+          "landmark": "세르클마을 서쪽 포켓몬센터",
+          "action": "체육관에서 접수한 뒤 서쪽 포켓몬센터로 가요. 센터 북쪽에 울타리로 둘러싸인 올리브 시험장이 있어요."
+        },
+        {
+          "landmark": "울타리 틈을 막은 미니브",
+          "action": "올리브 밀기가 어렵다면 미니브 옆 트레이너에게 말을 걸어요. 이기면 미니브가 비켜서 지름길이 열려요."
+        },
+        {
+          "landmark": "큰 바구니",
+          "action": "올리브를 바구니 안에 넣으면 시험이 끝나요. 체육관으로 돌아가요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Marriland · 세르클체육관",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/victory-road/cortondo-gym/"
+        },
+        {
+          "title": "Thonky · 세르클체육관",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/cortondo-gym"
+        },
+        {
+          "title": "Thonky · 서문 밖 남부 에리어 2",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/south-province-area-two"
+        },
+        {
+          "title": "Serebii · 단풍의 배틀과 보상",
+          "url": "https://www.serebii.net/scarletviolet/victoryroad.shtml"
+        },
+        {
+          "title": "Pokéball Insider · 서문에서 세르클체육관까지",
+          "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/cortondo-gym/"
+        },
+        {
+          "title": "GameWith · 시험장 위치와 바구니",
+          "url": "https://gamewith.jp/pokemon-sv/article/show/374040"
+        }
+      ],
+      "prepare": "포켓몬센터에서 회복해요. Lv.14~16쯤인 뜨아거나 화살꼬빈처럼 불꽃·비행 기술을 쓸 친구를 앞에 두면 좋아요.",
+      "stages": [
+        {
+          "title": "테이블시티 서문",
+          "action": "테이블시티 서쪽 문으로 나가요.",
+          "look": "Y로 지도를 열고 북쪽을 위로 맞춰요. 도시 왼쪽 문 밖에 남부 에리어 2가 있어요.",
+          "ifLost": "남부 에리어 1이나 3이 뜨면 도시 안으로 돌아와요. 지도에서 서문을 다시 찾아요.",
+          "point": "mesagoza-west-gate",
+          "mapLabel": "서문 출구 위치",
+          "from": "mesagoza",
+          "photo": "assets/route/west-gate-exit.webp",
+          "photoUrl": "https://www.thonky.com/pokemon-scarlet-violet/_IMG/south-province-area-two.jpg",
+          "photoAlt": "서문 밖에서 보이는 흙길이에요. 게임에 ‘남부 에리어 2’가 뜨면 맞게 나왔어요.",
+          "photoSource": {
+            "title": "Thonky · 서문 밖 남부 에리어 2",
+            "url": "https://www.thonky.com/pokemon-scarlet-violet/south-province-area-two"
+          }
+        },
+        {
+          "title": "남부 에리어 2 큰길",
+          "action": "갈색 큰길을 따라 세르클마을까지 가요.",
+          "look": "길가에 포켓몬센터와 높은 망루가 나와요. 올리브밭 너머 마을 입구에도 빨간 지붕의 센터가 있어요.",
+          "ifLost": "풀밭에서 길이 끊기면 마지막으로 본 큰길로 돌아와요. 마을 동쪽 센터를 목적지로 잡아요.",
+          "point": "cortondo-east-center",
+          "mapLabel": "세르클마을 동쪽 입구",
+          "from": "mesagoza-west-gate"
+        },
+        {
+          "title": "세르클마을 체육관 접수",
+          "action": "체육관 안 접수대 앞에서 A를 눌러요.",
+          "look": "마을 동쪽에서 길을 따라 들어오면 왼편에 큰 체육관 건물이 보여요. 입구 위 둥근 표식을 찾아요.",
+          "ifLost": "시험장에서 시작할 수 없다면 체육관 접수대에 먼저 다녀와요.",
+          "point": "map-gym-cortondo",
+          "mapLabel": "세르클체육관 위치",
+          "from": "cortondo-east-center",
+          "photo": "assets/route/cortondo-gym-door.webp",
+          "photoUrl": "https://www.thonky.com/pokemon-scarlet-violet/_IMG/cortondo-gym.jpg",
+          "photoAlt": "체육관의 둥근 표식 바로 아래 유리문으로 들어가요.",
+          "photoSource": {
+            "title": "Thonky · 세르클체육관",
+            "url": "https://www.thonky.com/pokemon-scarlet-violet/cortondo-gym"
+          }
+        },
+        {
+          "title": "올리브 시험장 입구",
+          "action": "울타리 입구 직원 앞에서 A를 눌러요.",
+          "look": "마을 서쪽 포켓몬센터에서 북쪽 길을 따라가요. 네모난 운동장을 둘러싼 울타리가 시험장이에요.",
+          "ifLost": "체육관에 접수했는지 확인하고 서쪽 포켓몬센터에서 다시 북쪽으로 가요.",
+          "point": "cortondo-olive-field",
+          "mapLabel": "올리브 시험장 부근",
+          "from": "cortondo-west-center",
+          "photo": "assets/route/olive-test-field.webp",
+          "photoUrl": "https://img.gamewith.jp/img/fae19ae9f989dfed063d6cacc260b58b.png",
+          "photoAlt": "게임 지도에서 빨간 화살표가 마을 북서쪽 시험장을 가리켜요. 울타리 입구에 직원이 있어요.",
+          "photoSource": {
+            "title": "GameWith · 시험장 위치와 바구니",
+            "url": "https://gamewith.jp/pokemon-sv/article/show/374040"
+          }
+        },
+        {
+          "title": "큰 바구니에 넣기",
+          "action": "초록 올리브 뒤에 서서 붉은 바구니 쪽으로 밀어요.",
+          "look": "올리브에 부딪히면 앞으로 굴러가요. 운동장 북쪽 끝에 옆면이 열린 커다란 붉은 바구니가 보여요.",
+          "ifLost": "울타리에 걸리면 옆으로 돌아가 다시 밀어요. 미니브에게 막히면 옆 트레이너와 배틀해 길을 열 수도 있어요.",
+          "point": "cortondo-olive-field",
+          "mapLabel": "올리브 시험장 부근",
+          "photo": "assets/route/olive-goal.webp",
+          "photoUrl": "https://img.gamewith.jp/img/0325be3a349856d74bfb57e9900e165e.png",
+          "photoAlt": "화살표 끝의 붉은 바구니가 골대예요. 열린 쪽으로 올리브를 밀어 넣어요.",
+          "photoSource": {
+            "title": "GameWith · 시험장 위치와 바구니",
+            "url": "https://gamewith.jp/pokemon-sv/article/show/374040"
+          }
+        },
+        {
+          "title": "단풍과 배틀",
+          "action": "체육관 접수대로 돌아가 단풍에게 도전해요.",
+          "look": "시험 통과 안내를 본 뒤 접수대에서 A를 눌러요. 마지막 깜지곰은 벌레 타입으로 테라스탈해요.",
+          "ifLost": "다시 도전할 때는 마을 포켓몬센터에서 회복한 뒤 접수대로 돌아와요.",
+          "point": "map-gym-cortondo",
+          "mapLabel": "단풍에게 도전할 체육관",
+          "from": "cortondo-olive-field",
+          "useMissionParty": true
+        }
+      ]
+    },
+    "titan-stony": {
+      "start": "남부 에리어 3 포켓몬센터",
+      "point": "map-titan-stony",
+      "steps": [
+        {
+          "landmark": "보울마을 방향 큰길",
+          "action": "테이블시티 동쪽에서 오는 큰길을 계속 따라가요. 보울마을에 닿기 전에 지도 속 주인 포켓몬 표시가 큰길의 바로 북쪽에 오는 곳에서 길을 벗어나요."
+        },
+        {
+          "landmark": "북쪽 바위 절벽",
+          "action": "절벽에 붙어 있는 아주 큰 절벼게에게 가까이 가요."
+        },
+        {
+          "landmark": "첫 배틀을 한 절벽 아래",
+          "action": "절벼게가 아래로 달아나면 같은 절벽의 아래쪽으로 내려가 두 번째로 접근해요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Marriland · 암벽의 주인",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/path-of-legends/stony-cliff-titan/"
+        },
+        {
+          "title": "Thonky · 암벽의 주인",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/stony-cliff-titan"
+        }
+      ]
+    },
+    "gym-artazon": {
+      "start": "보울체육관 접수대",
+      "point": "map-gym-artazon",
+      "steps": [
+        {
+          "landmark": "체육관 동쪽의 해루미 광장 입구",
+          "action": "접수한 뒤 광장 앞 안내원에게 말을 걸어요. 시험이 시작되면 광장을 등지고 돌아서요. 바로 앞 길에서 해루미 세 마리를 찾아요."
+        },
+        {
+          "landmark": "가로등과 풍차",
+          "action": "서쪽 가로등의 해루미를 쫓아 말을 걸어요. 풍차 동쪽과 풍차 위 배틀 코트에서도 한 마리씩 찾아요. 일부 해루미는 배틀에서 이겨야 따라와요."
+        },
+        {
+          "landmark": "체육관 서쪽 연못",
+          "action": "수영장 북쪽, 근처 자판기, 서쪽 푸드 카트 앞에서 한 마리씩 찾아요. 더 서쪽으로 가서 포장된 산책길을 시계 방향으로 돌면 한 마리를 더 찾을 수 있어요."
+        },
+        {
+          "landmark": "해루미 광장",
+          "action": "10마리가 뒤따라오면 처음 말을 건 안내원에게 돌아가요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thonky · 보울체육관",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/artazon-gym"
+        },
+        {
+          "title": "Marriland · 보울체육관",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/victory-road/artazon-gym/"
+        }
+      ]
+    },
+    "titan-open-sky": {
+      "start": "서부 에리어 1 중앙 포켓몬센터",
+      "point": "map-titan-open-sky",
+      "steps": [
+        {
+          "landmark": "센터 북서쪽 비탈",
+          "action": "지도에서 주인 포켓몬을 목표로 찍어요. 센터에서 북서쪽으로 가면 큰 바위가 아래로 굴러오는 비탈이 보여요."
+        },
+        {
+          "landmark": "굴러오는 바위 사이",
+          "action": "코라이돈을 타고 바위가 지나간 빈 쪽으로 방향을 바꿔 올라가요."
+        },
+        {
+          "landmark": "비탈 꼭대기",
+          "action": "꼭대기에 닿으면 자동으로 첫 배틀이 시작돼요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thonky · 대공의 주인",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/open-sky-titan"
+        },
+        {
+          "title": "Marriland · 대공의 주인",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/path-of-legends/open-sky-titan/"
+        }
+      ]
+    },
+    "star-dark": {
+      "start": "세르클마을 서쪽 큰길",
+      "point": "map-star-dark",
+      "steps": [
+        {
+          "landmark": "굽이굽이 오르막과 첫 다리",
+          "action": "세르클마을에서 서쪽으로 굽은 오르막길을 따라가 다리를 건너요. 가까이에 서부 에리어 1 중앙 포켓몬센터가 있어요."
+        },
+        {
+          "landmark": "첫 센터에서 두 번째 다리",
+          "action": "중앙 센터에서 북서쪽으로 가다가 길이 북쪽으로 굽으면 따라가요. 두 번째 다리를 건너 계속 가면 서부 에리어 1 북부 포켓몬센터에 닿아요."
+        },
+        {
+          "landmark": "큰길을 막은 바리케이드",
+          "action": "두 번째 센터에서 북동쪽 큰길을 따라가요. 길을 막은 바리케이드가 보이면 오른쪽으로 돌아 스타단 문을 찾으세요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Marriland · 스타단 악 군단",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/starfall-street/team-star-dark/"
+        },
+        {
+          "title": "Thonky · 스타단 악 군단",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/dark-crew-base"
+        }
+      ]
+    },
+    "gym-levincia": {
+      "start": "보울마을 북동쪽 평야",
+      "point": "map-gym-levincia",
+      "steps": [
+        {
+          "landmark": "바다가 보이는 평야 끝",
+          "action": "스타단 불꽃 군단이 큰길을 막고 있으면 평야를 북동쪽으로 가로질러 바다 쪽으로 가요."
+        },
+        {
+          "landmark": "땅이 북쪽으로 튀어나온 모래사장",
+          "action": "모래사장으로 내려가서 강과 바다가 만나는 얕은 곳을 건너요. 여기서는 코라이돈의 물 이동 능력이 없어도 돼요."
+        },
+        {
+          "landmark": "누룩스시티로 가는 다리",
+          "action": "강어귀를 건넌 뒤 북서쪽 다리를 건너 누룩스시티에 들어가요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Marriland · 누룩스체육관 해안 우회로",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/victory-road/levincia-gym/"
+        }
+      ]
+    },
+    "star-fire": {
+      "start": "보울마을 동쪽",
+      "point": "map-star-fire",
+      "steps": [
+        {
+          "landmark": "동부 에리어 1 포켓몬센터",
+          "action": "보울마을 동쪽에서 북동쪽으로 큰길을 따라 포켓몬센터에 도착해요."
+        },
+        {
+          "landmark": "센터 서쪽 길의 남쪽 담장",
+          "action": "포켓몬센터에서 서쪽 길로 돌아가면 남쪽에 스타단 기지가 보여요. 길에 설치한 바리케이드 앞에서 기지 쪽 담장과 정문을 찾으세요."
+        },
+        {
+          "landmark": "스타단 정문",
+          "action": "정문을 지키는 사람에게 다가가요. 돌아갈지 물으면 계속 가겠다고 답해야 첫 배틀이 시작돼요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thonky · 스타단 불꽃 군단",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/fire-crew-base"
+        },
+        {
+          "title": "Marriland · 스타단 불꽃 군단",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/starfall-street/team-star-fire/"
+        }
+      ]
+    },
+    "titan-lurking-steel": {
+      "start": "누룩스시티 북쪽 큰길",
+      "point": "map-titan-lurking-steel",
+      "steps": [
+        {
+          "landmark": "동부 에리어 3 오르막길",
+          "action": "누룩스시티에서 북쪽 오르막길을 따라가요. 큰길은 남쪽으로 한 번 굽고 피케마을이 있는 남서쪽으로 이어져요."
+        },
+        {
+          "landmark": "큰길 북쪽의 움푹 파인 땅",
+          "action": "피케마을까지 가기 전에 큰길 북쪽 구덩이를 찾아요. 땅 위로 얼굴을 내민 꿈트렁에게 코라이돈을 타고 돌진하면 첫 배틀이 시작돼요."
+        },
+        {
+          "landmark": "구덩이 주변의 터널",
+          "action": "첫 배틀 뒤 꿈트렁이 벽을 뚫으면 생긴 동굴을 끝까지 지나가요. 다시 몸을 내민 꿈트렁에게 돌진한 뒤, 새로 열린 구멍까지 따라가요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Marriland · 잠강의 주인",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/path-of-legends/lurking-steel-titan/"
+        },
+        {
+          "title": "Thonky · 잠강의 주인",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/lurking-steel-titan"
+        }
+      ]
+    },
+    "gym-cascarrafa": {
+      "start": "카라프체육관 문 앞",
+      "point": "map-gym-cascarrafa",
+      "steps": [
+        {
+          "landmark": "카라프시티의 두 승강장",
+          "action": "곤포의 지갑을 받으면 체육관 앞 승강장을 타고 중간층으로 내려가요. 중간층의 북서쪽 승강장을 타고 한 층 더 내려가요."
+        },
+        {
+          "landmark": "로스트 사막 북서쪽",
+          "action": "사막 북쪽 가장자리를 따라 서쪽으로 가요. 무너진 건물이 보이면 바로 남쪽으로 돌아 큰 산 아래를 따라가요. 북쪽으로 빠져나가는 길을 찾으면 마리네이드마을 앞 포켓몬센터로 갈 수 있어요."
+        },
+        {
+          "landmark": "지붕이 큰 시장",
+          "action": "센터에서 북서쪽 마을로 내려가요. 포장길 끝에 큰 지붕이 있는 시장이 나와요. 지붕 아래를 서쪽으로 걸어 곤포에게 다가가요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thonky · 카라프체육관",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/cascarrafa-gym"
+        },
+        {
+          "title": "Marriland · 로스트 사막 횡단 경로",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/victory-road/cascarrafa-gym/"
+        }
+      ]
+    },
+    "star-poison": {
+      "start": "피케마을",
+      "point": "map-star-poison",
+      "steps": [
+        {
+          "landmark": "마을 북쪽의 큰 채굴 구덩이",
+          "action": "피케마을에서 북쪽으로 가되 커다란 채굴 구덩이 안으로 내려가지 말고 가장자리로 돌아가요."
+        },
+        {
+          "landmark": "숲 남쪽 포켓몬센터",
+          "action": "표식의 나무숲으로 들어가기 전에 포켓몬센터에 들러요. 센터에서 숲길을 따라가면 왼쪽에 스타단 문이 보여요."
+        },
+        {
+          "landmark": "스타단 문 앞",
+          "action": "문 앞 사람에게 다가가 첫 배틀을 시작해요. 이긴 뒤 문에 달린 벨을 눌러요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Marriland · 스타단 독 군단",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/starfall-street/team-star-poison/"
+        },
+        {
+          "title": "Thonky · 스타단 독 군단",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/poison-crew-base"
+        }
+      ]
+    },
+    "gym-medali": {
+      "start": "참푸르체육관 접수대",
+      "point": "map-gym-medali",
+      "steps": [
+        {
+          "landmark": "체육관 남동쪽의 보물식당",
+          "action": "요리의 힌트를 찾으려면 문 앞 직원 뒤로 가서 카운터 끝 손님에게 말을 걸어요."
+        },
+        {
+          "landmark": "식당 서쪽 길과 아이스크림 수레",
+          "action": "식당 서쪽에서 학생과 배틀해 힌트를 들은 뒤 가까운 북서쪽 수레 메뉴의 맨 아래를 확인해요."
+        },
+        {
+          "landmark": "체육관 남서쪽 계단",
+          "action": "체육관 건물 남서쪽 학생과 배틀한 뒤, 가까운 계단을 내려가 창살을 살펴요."
+        },
+        {
+          "landmark": "마을 남서쪽 길과 파란 새",
+          "action": "마을 남서쪽 학생과 배틀한 뒤 북동쪽으로 가요. 머리에 파란 새를 얹은 사람이 하는 말을 읽고 식당 입구 직원에게 돌아가요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thonky · 참푸르체육관 힌트 위치",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/medali-gym"
+        }
+      ]
+    },
+    "gym-montenevera": {
+      "start": "프리지체육관 접수대",
+      "point": "map-gym-montenevera",
+      "steps": [
+        {
+          "landmark": "체육관 남쪽 야외 무대",
+          "action": "접수한 뒤 밖으로 나와 남쪽 무대로 걸어요. 무대 위에 올라갈 필요 없이 무대 앞 사람에게 말을 걸면 시험이 시작돼요."
+        },
+        {
+          "landmark": "체육관 접수대",
+          "action": "더블배틀 세 번이 끝나면 체육관으로 돌아가 관장 배틀을 신청해요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thonky · 프리지체육관",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/montenevera-gym"
+        }
+      ]
+    },
+    "titan-quaking-earth": {
+      "start": "카라프시티 아래층 사막 출구",
+      "point": "map-titan-quaking-earth",
+      "steps": [
+        {
+          "landmark": "로스트 사막 서쪽 평지",
+          "action": "움직이는 큰 포켓몬을 찾아요. 돌거나 걸어갈 때 가까이 다가가 몸이 닿으면 첫 배틀이 시작돼요."
+        },
+        {
+          "landmark": "첫 배틀 지점의 남서쪽",
+          "action": "첫 배틀을 끝낸 뒤 포켓몬이 달아나면 남서쪽으로 쫓아가요. 다시 가까이 가면 두 번째 배틀 장면이 시작돼요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thonky · 토진의 주인",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/quaking-earth-titan"
+        },
+        {
+          "title": "Marriland · 토진의 주인",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/path-of-legends/quaking-earth-titan/"
+        }
+      ]
+    },
+    "gym-alfornada": {
+      "start": "세르클마을 서쪽 풍차 옆 포켓몬센터",
+      "point": "map-gym-alfornada",
+      "steps": [
+        {
+          "landmark": "포켓몬센터 남쪽의 베이크 공동 입구",
+          "action": "센터에서 남쪽 길로 가요. 높이 점프하는 능력을 배웠다면 코라이돈을 타고 B를 꾹 눌러 동굴 안의 높은 바위턱을 넘어가요."
+        },
+        {
+          "landmark": "동굴 입구 서쪽 모래사장",
+          "action": "높이 점프하는 능력이 아직 없다면 동굴 서쪽 절벽 아래 모래사장으로 내려가요. 해안 절벽을 따라 구불구불한 오르막을 올라 다른 입구로 동굴에 들어가요."
+        },
+        {
+          "landmark": "평평한 고원과 마을 안쪽",
+          "action": "동굴을 계속 위로 올라 출구로 나오면 고원 너머로 베이크마을이 보여요. 마을에 들어가 안쪽에 있는 체육관을 찾아요."
+        },
+        {
+          "landmark": "체육관 문 왼쪽의 마당",
+          "action": "접수하고 문 밖으로 나오자마자 왼쪽 마당으로 가요. 그곳에서 학교 선생님에게 말을 걸면 시험을 시작할 수 있어요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Marriland · 베이크마을 동굴과 해안 우회로",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/victory-road/alfornada-gym/"
+        },
+        {
+          "title": "Thonky · 베이크체육관 시험장",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/alfornada-gym"
+        }
+      ]
+    },
+    "gym-glaseado": {
+      "start": "나페산체육관 접수대",
+      "point": "map-gym-glaseado",
+      "steps": [
+        {
+          "landmark": "포켓몬센터 옆 눈사람",
+          "action": "체육관에서 접수한 뒤 밖으로 나와 포켓몬센터 쪽으로 올라가요. 눈사람 근처 직원에게 말하면 출발해요."
+        },
+        {
+          "landmark": "눈길의 색깔 화살표",
+          "action": "왼쪽 스틱을 아래로 당겨 속도를 줄일 수 있어요. 화살표 사이를 지나 1분 30초 안에 골인해요. 화살표를 놓치면 시간이 더해져요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thonky · 나페산체육관",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/glaseado-gym"
+        }
+      ]
+    },
+    "star-fairy": {
+      "start": "참푸르마을 북동쪽 다리",
+      "point": "map-star-fairy",
+      "steps": [
+        {
+          "landmark": "산 중턱 포켓몬센터",
+          "action": "참푸르마을에서 북동쪽 다리를 건너 산으로 오르는 길을 따라가요."
+        },
+        {
+          "landmark": "센터 북쪽의 바닷가 방향 내리막",
+          "action": "산의 센터에 닿으면 프리지마을 쪽 동쪽 길 대신 북쪽으로 내려가요. 바다 가까이까지 낮아지는 방향으로 가면 포켓몬센터가 하나 더 있어요."
+        },
+        {
+          "landmark": "바닷가 센터 북쪽 정문",
+          "action": "두 번째 센터에서 더 북쪽으로 가면 스타단 정문이 나와요. 문 앞 사람에게 다가가면 첫 배틀이 열려요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Marriland · 스타단 페어리 군단",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/starfall-street/team-star-fairy/"
+        },
+        {
+          "title": "Thonky · 스타단 페어리 군단",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/fairy-crew-base"
+        }
+      ]
+    },
+    "star-fighting": {
+      "start": "나페산체육관",
+      "point": "map-star-fighting",
+      "steps": [
+        {
+          "landmark": "산 동쪽의 바위 골짜기",
+          "action": "나페산체육관에서 동쪽 산비탈을 내려 바위가 많은 골짜기 쪽으로 가요. 먼저 산기슭 포켓몬센터를 찾아요."
+        },
+        {
+          "landmark": "남쪽 굽은 절벽길과 대나무숲",
+          "action": "산기슭 센터에서 남쪽으로 굽은 길을 지나 대나무숲에 들어가요. 숲에서는 북동쪽 포켓몬센터를 목표로 가요."
+        },
+        {
+          "landmark": "대나무숲 센터 바로 동쪽",
+          "action": "두 번째 센터에서 동쪽으로 조금 더 가면 기지 정문이 보여요. 정문 앞 사람에게 다가가세요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Marriland · 스타단 격투 군단",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/starfall-street/team-star-fighting/"
+        },
+        {
+          "title": "Thonky · 스타단 격투 군단",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/fighting-crew-base"
+        }
+      ]
+    },
+    "titan-false-dragon": {
+      "start": "오야 호수 동쪽 섬",
+      "point": "map-titan-false-dragon",
+      "steps": [
+        {
+          "landmark": "섬 남쪽 물가의 큰 싸리용",
+          "action": "다른 싸리용을 전부 건드릴 필요 없어요. 큰 소리로 우는 커다란 싸리용 한 마리에게 말을 걸면 첫 배틀이 열려요."
+        },
+        {
+          "landmark": "호수 가운데 섬의 북쪽",
+          "action": "첫 배틀이 끝나면 동쪽 섬에서 출발해 호수 가운데 큰 섬의 북쪽 물가로 가요. 새 위치가 지도에 표시돼요."
+        },
+        {
+          "landmark": "얕은 물 가운데 낮은 바위턱",
+          "action": "바위턱에 올라가 있는 싸리용에게 가까이 가면 다음 배틀이 시작돼요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thonky · 위룡의 주인",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/false-dragon-titan"
+        },
+        {
+          "title": "Marriland · 위룡의 주인",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/path-of-legends/false-dragon-titan/"
+        }
+      ],
+      "warning": "동쪽 섬으로 가려면 코라이돈이 물 위를 달릴 수 있어야 해요. 대공의 주인을 먼저 쓰러뜨리면 배워요."
+    },
+    "league": {
+      "start": "테이블시티 서쪽 포켓몬센터",
+      "point": "pokemon-league",
+      "steps": [
+        {
+          "landmark": "센터 북서쪽의 동굴 같은 출구",
+          "action": "테이블시티 서쪽 센터에서 북서쪽으로 올라가 출구를 지나가요. 세르클마을로 나가는 서쪽 길과 다른 출구예요."
+        },
+        {
+          "landmark": "언덕길 끝의 큰 건물",
+          "action": "길을 끝까지 가면 포켓몬리그 건물이 나와요. 배지가 8개 있다면 문 앞 사람에게 말을 걸어요."
+        },
+        {
+          "landmark": "면접실의 의자 앞",
+          "action": "의자 앞쪽으로 다가가 앉으면 면접이 시작돼요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Thonky · 포켓몬리그 입구",
+          "url": "https://www.thonky.com/pokemon-scarlet-violet/champion-assessment"
+        },
+        {
+          "title": "Marriland · 포켓몬리그",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/victory-road/finale/"
+        }
+      ]
+    },
+    "area-zero": {
+      "start": "제로게이트에서 에리어 제로에 내려온 곳",
+      "point": "area-zero-gate",
+      "steps": [
+        {
+          "landmark": "첫 번째 관측 유닛",
+          "action": "내린 곳에서 왼쪽으로 가 얕은 개울을 건너요. 살짝 오른쪽으로 가다가 절벽 가장자리 앞에서 왼쪽 길을 따라 바위 비탈을 내려가요."
+        },
+        {
+          "landmark": "두 번째 관측 유닛",
+          "action": "1번 유닛 문을 등지고 앞쪽의 큰 돌을 지나 갈림길에서 오른쪽으로 가요. 바위가 지붕처럼 덮은 길을 지나 비탈을 내려간 뒤 큰 나무에서 왼쪽으로 가면 오른쪽 절벽 아래에 2번 유닛이 있어요."
+        },
+        {
+          "landmark": "세 번째 관측 유닛",
+          "action": "2번 유닛 문을 등지고 오른쪽 폭포 옆 비탈을 내려가요. 아래의 강을 건너 큰 나무를 지나 앞쪽으로 계속 가면 3번 유닛이 보여요."
+        },
+        {
+          "landmark": "네 번째 관측 유닛",
+          "action": "3번 유닛 정면의 큰 동굴로 들어가 첫 갈림길에서 오른쪽으로 가요. 동굴 안이 넓어지면 왼쪽 내리막을 따라 큰 바위와 긴 터널을 지나세요."
+        },
+        {
+          "landmark": "네 번째 유닛 아래의 둥근 공터",
+          "action": "4번 유닛에서 나와 내리막 끝의 무늬 있는 돌판에서 왼쪽으로 가요. 둥근 공터에서 울타리가 끊긴 앞쪽 오른쪽 비탈을 찾아요."
+        },
+        {
+          "landmark": "커다랗고 납작한 수정과 바닥의 물",
+          "action": "내리막을 따라 납작한 수정을 만나면 오른쪽 비탈로 내려가요. 동굴 바닥의 물가 정면에 제로랩 입구가 있어요."
+        }
+      ],
+      "sources": [
+        {
+          "title": "Marriland · 관측 유닛 1~3",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/the-way-home/area-zero-surface/"
+        },
+        {
+          "title": "Marriland · 관측 유닛 4와 제로랩",
+          "url": "https://marriland.com/scarlet-violet/walkthrough/the-way-home/area-zero-cavern/"
+        }
+      ],
+      "warning": "관측 유닛마다 건물 안의 패널을 조작해요. 네 곳의 잠금을 모두 풀어야 제로랩에 들어갈 수 있어요."
+    }
+  }
+}

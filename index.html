@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f7f5ed">
+<meta name="description" content="포켓몬스터 스칼렛을 플레이할 때 곁에 두는 한국어 모험책">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icon-192.png">
+<link rel="apple-touch-icon" href="assets/icon-192.png">
+<link rel="stylesheet" href="style.css">
+<title>팔데아 모험책</title>
+</head>
+<body>
+<a class="skip" href="#main">본문으로 건너뛰기</a>
+<aside id="sidebar" class="sidebar" aria-label="주 메뉴"></aside>
+<div class="layout">
+  <header class="topbar">
+    <a href="#home" class="mobile-brand"><span class="brand-mark" aria-hidden="true">✦</span> 팔데아 모험책</a>
+    <div id="trail" class="trail">팔데아 모험책</div>
+    <div id="top-actions" class="top-actions"></div>
+  </header>
+  <main id="main" class="main" tabindex="-1"><p class="empty">모험책을 열고 있어요.</p></main>
+  <footer class="footer">팔데아 모험책 · 포켓몬스터 스칼렛을 위한 비공식 팬 가이드 · <a href="https://pokemondb.net/sprites" target="_blank" rel="noopener noreferrer">도감 그림 Pokémon Database</a></footer>
+</div>
+<nav id="bottom" class="bottom" aria-label="빠른 메뉴"></nav>
+<div id="toast" class="toast" role="status"></div>
+<input id="backup-input" type="file" accept=".json,application/json" hidden>
+<input id="art-input" type="file" hidden>
+<script type="module" src="app.js"></script>
+</body>
+</html>

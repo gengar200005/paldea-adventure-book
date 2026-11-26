@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720">
+  <defs>
+    <pattern id="leaf" width="48" height="38" patternUnits="userSpaceOnUse">
+      <path d="M8 14q2-5 7-6-1 6-7 6Zm26 16q3-5 7-5-1 5-7 5Z" fill="#3e7858" opacity=".15"/>
+    </pattern>
+    <g id="cedar"><path d="m0 0-8 12h4l-7 10h22l-7-10h4Z" fill="#518262"/><path d="M-2 21h4v5h-4Z" fill="#6b5950"/></g>
+    <g id="apple"><circle r="10" fill="#91bb66"/><path d="M-1 10h2v7h-2Z" fill="#84654a"/><circle cx="-4" cy="-3" r="2.6" fill="#cf6156"/><circle cx="5" cy="2" r="2.7" fill="#cf6156"/></g>
+    <g id="house"><path d="M-11 0h22v15h-22Z" fill="#f6e4b9"/><path d="m-15 1 15-11L15 1Z" fill="#c06c5d"/><path d="M-3 6h6v9h-6Z" fill="#98705d"/></g>
+  </defs>
+  <rect width="1000" height="720" fill="#afcda0"/>
+  <path d="M0 140q81-68 158-75l155-26 82 40 144-18 125 41 96-57 240 57v527l-138-13-86 58-150-23-152 37-114-32-104 26-125-58-131 4Z" fill="#c2d990"/>
+  <path d="M0 140q81-68 158-75l155-26 82 40 144-18 125 41 96-57 240 57v527l-138-13-86 58-150-23-152 37-114-32-104 26-125-58-131 4Z" fill="url(#leaf)"/>
+  <path d="M90 243q66-130 174-137l106 61-20 99-90 68-141-8Z" fill="#d8bd84"/>
+  <path d="M151 248q27-35 70-38m-32 65 26-11m36-62 31 14" fill="none" stroke="#aa8b65" stroke-width="4" stroke-linecap="round" opacity=".6"/>
+  <path d="M686 95q40-48 120-49l143 52 20 120-115 72-73-38-88-38Z" fill="#8eb981"/>
+  <g><use href="#cedar" x="731" y="113"/><use href="#cedar" x="746" y="103"/><use href="#cedar" x="761" y="120"/><use href="#cedar" x="805" y="84"/><use href="#cedar" x="823" y="93"/><use href="#cedar" x="845" y="89"/><use href="#cedar" x="906" y="142"/><use href="#cedar" x="887" y="151"/><use href="#cedar" x="922" y="155"/><use href="#cedar" x="846" y="218"/><use href="#cedar" x="822" y="223"/><use href="#cedar" x="805" y="210"/><use href="#cedar" x="764" y="181"/></g>
+  <path d="m276 326 46-99 58-57 24-40 138-39 109 59 49 72 53 54-14 69-95 50-66 43-133 14-85-50-44-31Z" fill="#b39584" stroke="#b6c88e" stroke-width="12" stroke-linejoin="round"/>
+  <path d="m363 292 52-57 37-75 60-30 87 36 47 101-17 54-91 78-111-18-60-45z" fill="#997b76" stroke="#cab099" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M438 259q20-40 62-49 57-16 91 37l-5 42-38 29-59-6-57-19Z" fill="#9ad5d2" stroke="#cce5df" stroke-width="7" stroke-linejoin="round"/>
+  <path d="m501 261 9-26 12 22-5 14-10 4zm33 19 12-22 9 17-4 12-9 3z" fill="#e0f7ed" stroke="#85bbbe" stroke-width="2"/>
+  <path d="M927 289q-117 22-154 92-40 66-95 99-31 24-122 23l-73-16q-56-12-81 18-40 53-73 123l-18 92m367-240q63 20 78 53 16 33 72 58 58 22 120 100" fill="none" stroke="#82c3c9" stroke-width="20" stroke-linecap="round"/>
+  <path d="M927 289q-117 22-154 92-40 66-95 99-31 24-122 23l-73-16q-56-12-81 18-40 53-73 123l-18 92m367-240q63 20 78 53 16 33 72 58 58 22 120 100" fill="none" stroke="#a0dad8" stroke-width="12" stroke-linecap="round"/>
+  <path d="M453 720q30-69 10-133-6-62-35-141-19-34-6-75m6 75q-71 12-99 42m102-44q96-21 156-44l113-61m-277 42q-40-59-25-79 15-23 42-31" fill="none" stroke="#fdf0c1" stroke-width="9" stroke-linecap="round" stroke-dasharray="6 12"/>
+  <g><use href="#apple" x="192" y="396"/><use href="#apple" x="220" y="386"/><use href="#apple" x="249" y="386"/><use href="#apple" x="277" y="392"/><use href="#apple" x="195" y="429"/><use href="#apple" x="222" y="419"/><use href="#apple" x="254" y="420"/><use href="#apple" x="285" y="420"/><use href="#apple" x="215" y="459"/><use href="#apple" x="246" y="455"/><use href="#apple" x="277" y="453"/><use href="#apple" x="799" y="546"/><use href="#apple" x="819" y="552"/><use href="#apple" x="839" y="546"/><use href="#house" x="410" y="441"/><use href="#house" x="440" y="421"/><use href="#house" x="471" y="440"/><use href="#house" x="721" y="317"/><use href="#house" x="750" y="329"/></g>
+  <g fill="#354645" font-family="system-ui,sans-serif" font-weight="700" font-size="19" text-anchor="middle" paint-order="stroke" stroke="#e2eac2" stroke-width="4" stroke-linejoin="round">
+    <text x="300" y="180">낙원의 황무지</text><text x="550" y="193" stroke="#d1b9a1">도깨비산</text><text x="801" y="188">영겁의 숲</text><text x="239" y="483">애플 힐스</text><text x="542" y="597">북신 가도</text><text x="809" y="606">북신 합류지</text>
+  </g>
+  <path d="M66 90V47m-9 10 9-10 9 10" fill="none" stroke="#517459" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="66" y="109" text-anchor="middle" font-family="system-ui,sans-serif" font-size="15" font-weight="800" fill="#517459">북</text>
+</svg>

@@ -1,0 +1,1288 @@
+{
+  "missions": {
+    "intro": [
+      {
+        "icon": "flower",
+        "label": "나오하 · 풀"
+      },
+      {
+        "icon": "battle",
+        "label": "뜨아거 · 불꽃"
+      },
+      {
+        "icon": "water",
+        "label": "꾸왁스 · 물"
+      }
+    ],
+    "school": [
+      {
+        "icon": "home",
+        "label": "포켓몬센터"
+      },
+      {
+        "icon": "gate",
+        "label": "테이블시티"
+      },
+      {
+        "icon": "book",
+        "label": "오렌지 아카데미"
+      },
+      {
+        "icon": "flag",
+        "label": "보물찾기 시작"
+      }
+    ],
+    "gym-cortondo": [
+      {
+        "icon": "home",
+        "label": "체육관 접수"
+      },
+      {
+        "icon": "olive",
+        "label": "큰 올리브 밀기"
+      },
+      {
+        "icon": "gate",
+        "label": "골대 통과"
+      },
+      {
+        "icon": "battle",
+        "label": "단풍과 배틀"
+      }
+    ],
+    "titan-stony": [
+      {
+        "icon": "cliff",
+        "label": "암벽에서 찾기"
+      },
+      {
+        "icon": "battle",
+        "label": "첫 배틀"
+      },
+      {
+        "icon": "shoes",
+        "label": "도망간 쪽으로"
+      },
+      {
+        "icon": "shoes",
+        "label": "대시 해금"
+      }
+    ],
+    "gym-artazon": [
+      {
+        "icon": "home",
+        "label": "체육관 접수"
+      },
+      {
+        "icon": "flower",
+        "label": "해루미 10마리"
+      },
+      {
+        "icon": "flag",
+        "label": "해루미 광장"
+      },
+      {
+        "icon": "battle",
+        "label": "콜사와 배틀"
+      }
+    ],
+    "titan-open-sky": [
+      {
+        "icon": "slope",
+        "label": "굴러오는 바위 피하기"
+      },
+      {
+        "icon": "battle",
+        "label": "언덕 위 첫 배틀"
+      },
+      {
+        "icon": "shoes",
+        "label": "뒤쫓아 다시 배틀"
+      },
+      {
+        "icon": "water",
+        "label": "물 위 이동 해금"
+      }
+    ],
+    "star-dark": [
+      {
+        "icon": "gate",
+        "label": "악 군단 기지"
+      },
+      {
+        "icon": "bag",
+        "label": "팀 앞 3마리"
+      },
+      {
+        "icon": "timer",
+        "label": "R 버튼 · 10분에 30마리"
+      },
+      {
+        "icon": "battle",
+        "label": "피나에게 도전"
+      }
+    ],
+    "gym-levincia": [
+      {
+        "icon": "home",
+        "label": "체육관 접수"
+      },
+      {
+        "icon": "screen",
+        "label": "방송 속 클라벨 찾기"
+      },
+      {
+        "icon": "check",
+        "label": "세 번 찾기"
+      },
+      {
+        "icon": "battle",
+        "label": "모야모에게 도전"
+      }
+    ],
+    "star-fire": [
+      {
+        "icon": "gate",
+        "label": "불꽃 군단 기지"
+      },
+      {
+        "icon": "bag",
+        "label": "팀 앞 3마리"
+      },
+      {
+        "icon": "timer",
+        "label": "R 버튼 · 10분에 30마리"
+      },
+      {
+        "icon": "battle",
+        "label": "멜로코에게 도전"
+      }
+    ],
+    "titan-lurking-steel": [
+      {
+        "icon": "tunnel",
+        "label": "광산의 구덩이"
+      },
+      {
+        "icon": "shoes",
+        "label": "라이드 대시로 접근"
+      },
+      {
+        "icon": "battle",
+        "label": "꿈트렁과 배틀"
+      },
+      {
+        "icon": "slope",
+        "label": "높이뛰기 해금"
+      }
+    ],
+    "gym-cascarrafa": [
+      {
+        "icon": "bag",
+        "label": "곤포의 지갑"
+      },
+      {
+        "icon": "market",
+        "label": "마리네이드마을 경매"
+      },
+      {
+        "icon": "home",
+        "label": "카라프체육관으로"
+      },
+      {
+        "icon": "battle",
+        "label": "곤포와 배틀"
+      }
+    ],
+    "star-poison": [
+      {
+        "icon": "gate",
+        "label": "숲의 독 군단 기지"
+      },
+      {
+        "icon": "bag",
+        "label": "팀 앞 3마리"
+      },
+      {
+        "icon": "timer",
+        "label": "R 버튼 · 10분에 30마리"
+      },
+      {
+        "icon": "battle",
+        "label": "추명에게 도전"
+      }
+    ],
+    "gym-medali": [
+      {
+        "icon": "home",
+        "label": "체육관 접수"
+      },
+      {
+        "icon": "battle",
+        "label": "배틀로 힌트 얻기"
+      },
+      {
+        "icon": "meal",
+        "label": "보물식당에서 주문"
+      },
+      {
+        "icon": "battle",
+        "label": "청목에게 도전"
+      }
+    ],
+    "gym-montenevera": [
+      {
+        "icon": "home",
+        "label": "체육관 접수"
+      },
+      {
+        "icon": "double",
+        "label": "무대에서 더블배틀"
+      },
+      {
+        "icon": "check",
+        "label": "세 번 이기기"
+      },
+      {
+        "icon": "double",
+        "label": "라임에게 도전"
+      }
+    ],
+    "titan-quaking-earth": [
+      {
+        "icon": "desert",
+        "label": "로스트 사막"
+      },
+      {
+        "icon": "battle",
+        "label": "큰 포켓몬과 첫 배틀"
+      },
+      {
+        "icon": "shoes",
+        "label": "쫓아가 함께 배틀"
+      },
+      {
+        "icon": "wing",
+        "label": "활공 해금"
+      }
+    ],
+    "gym-alfornada": [
+      {
+        "icon": "home",
+        "label": "체육관 접수"
+      },
+      {
+        "icon": "face",
+        "label": "표정을 보고 버튼 누르기"
+      },
+      {
+        "icon": "battle",
+        "label": "시험 중 트레이너 배틀"
+      },
+      {
+        "icon": "battle",
+        "label": "리파에게 도전"
+      }
+    ],
+    "gym-glaseado": [
+      {
+        "icon": "home",
+        "label": "체육관 접수"
+      },
+      {
+        "icon": "snow",
+        "label": "라이드로 눈길의 문 통과"
+      },
+      {
+        "icon": "timer",
+        "label": "1분 30초 안에 골인"
+      },
+      {
+        "icon": "battle",
+        "label": "그루샤와 배틀"
+      }
+    ],
+    "star-fairy": [
+      {
+        "icon": "gate",
+        "label": "페어리 군단 기지"
+      },
+      {
+        "icon": "bag",
+        "label": "팀 앞 3마리"
+      },
+      {
+        "icon": "timer",
+        "label": "R 버튼 · 10분에 30마리"
+      },
+      {
+        "icon": "battle",
+        "label": "오르티가에게 도전"
+      }
+    ],
+    "star-fighting": [
+      {
+        "icon": "gate",
+        "label": "격투 군단 기지"
+      },
+      {
+        "icon": "bag",
+        "label": "팀 앞 3마리"
+      },
+      {
+        "icon": "timer",
+        "label": "R 버튼 · 10분에 30마리"
+      },
+      {
+        "icon": "battle",
+        "label": "비파에게 도전"
+      }
+    ],
+    "titan-false-dragon": [
+      {
+        "icon": "water",
+        "label": "오야 호수 동쪽 섬"
+      },
+      {
+        "icon": "capture",
+        "label": "큰 소리 내는 싸리용"
+      },
+      {
+        "icon": "battle",
+        "label": "물속 상대를 작은 섬까지"
+      },
+      {
+        "icon": "cliff",
+        "label": "절벽 오르기 해금"
+      }
+    ],
+    "legend-final": [
+      {
+        "icon": "check",
+        "label": "주인 배지 5개"
+      },
+      {
+        "icon": "home",
+        "label": "등대 옆 연구소"
+      },
+      {
+        "icon": "battle",
+        "label": "밖에서 페퍼와 배틀"
+      }
+    ],
+    "star-clavell": [
+      {
+        "icon": "check",
+        "label": "스타단 기지 5곳"
+      },
+      {
+        "icon": "gate",
+        "label": "학교 현관 앞"
+      },
+      {
+        "icon": "battle",
+        "label": "입구에서 배틀"
+      }
+    ],
+    "star-final": [
+      {
+        "icon": "timer",
+        "label": "밤에 아카데미로"
+      },
+      {
+        "icon": "flag",
+        "label": "이동 메뉴에서 운동장"
+      },
+      {
+        "icon": "battle",
+        "label": "배틀 후 다음 날 연락"
+      }
+    ],
+    "league": [
+      {
+        "icon": "check",
+        "label": "체육관 배지 8개"
+      },
+      {
+        "icon": "gate",
+        "label": "포켓몬리그 입구"
+      },
+      {
+        "icon": "book",
+        "label": "면접 통과"
+      },
+      {
+        "icon": "battle",
+        "label": "첫 배틀"
+      }
+    ],
+    "league-poppy": [
+      {
+        "icon": "battle",
+        "label": "리그 두 번째 배틀"
+      },
+      {
+        "icon": "crystal",
+        "label": "마지막 상대 · 강철 테라"
+      }
+    ],
+    "league-larry": [
+      {
+        "icon": "battle",
+        "label": "리그 세 번째 배틀"
+      },
+      {
+        "icon": "crystal",
+        "label": "마지막 상대 · 비행 테라"
+      }
+    ],
+    "league-hassel": [
+      {
+        "icon": "battle",
+        "label": "리그 네 번째 배틀"
+      },
+      {
+        "icon": "crystal",
+        "label": "마지막 상대 · 드래곤 테라"
+      }
+    ],
+    "league-geeta": [
+      {
+        "icon": "check",
+        "label": "사천왕 클리어"
+      },
+      {
+        "icon": "battle",
+        "label": "상대마다 유리한 기술 선택"
+      }
+    ],
+    "league-nemona": [
+      {
+        "icon": "flag",
+        "label": "테이블시티 중앙 배틀 코트"
+      },
+      {
+        "icon": "battle",
+        "label": "네모에게 도전"
+      }
+    ],
+    "area-zero": [
+      {
+        "icon": "gate",
+        "label": "제로게이트 입장"
+      },
+      {
+        "icon": "cliff",
+        "label": "아래로 이동"
+      },
+      {
+        "icon": "gear",
+        "label": "관측 유닛 4곳 작동"
+      },
+      {
+        "icon": "home",
+        "label": "제로랩"
+      }
+    ],
+    "gym-rematches": [
+      {
+        "icon": "book",
+        "label": "아카데미 교장실"
+      },
+      {
+        "icon": "battle",
+        "label": "관장 재대결 8곳"
+      }
+    ],
+    "academy-ace": [
+      {
+        "icon": "check",
+        "label": "관장 재대결 완료"
+      },
+      {
+        "icon": "home",
+        "label": "아카데미 접수"
+      },
+      {
+        "icon": "battle",
+        "label": "4경기 연속 승리"
+      }
+    ],
+    "raid-six": [
+      {
+        "icon": "battle",
+        "label": "학교 대회 우승"
+      },
+      {
+        "icon": "crystal",
+        "label": "팔데아 고난도 레이드"
+      },
+      {
+        "icon": "screen",
+        "label": "두 번째 전화를 기다리기"
+      }
+    ],
+    "ride-legendary": [
+      {
+        "icon": "home",
+        "label": "제로랩 뒤쪽"
+      },
+      {
+        "icon": "crystal",
+        "label": "수정 기둥 곁 바위길"
+      },
+      {
+        "icon": "capture",
+        "label": "라이드 포켓몬 한 마리 더"
+      }
+    ],
+    "teal-start": [
+      {
+        "icon": "book",
+        "label": "학교에서 안내 받기"
+      },
+      {
+        "icon": "shoes",
+        "label": "북신의 고장 큰길"
+      },
+      {
+        "icon": "home",
+        "label": "스이록마을"
+      }
+    ],
+    "teal-signboards": [
+      {
+        "icon": "home",
+        "label": "스이록마을"
+      },
+      {
+        "icon": "book",
+        "label": "서쪽 · 세벗 플라자"
+      },
+      {
+        "icon": "book",
+        "label": "동쪽 · 북신센터"
+      }
+    ],
+    "teal-festival": [
+      {
+        "icon": "home",
+        "label": "카지의 집"
+      },
+      {
+        "icon": "timer",
+        "label": "밤에 북신센터"
+      },
+      {
+        "icon": "flag",
+        "label": "축제 후 마을로"
+      }
+    ],
+    "teal-mountain": [
+      {
+        "icon": "book",
+        "label": "낙원의 황무지 안내판"
+      },
+      {
+        "icon": "home",
+        "label": "북신센터 뒤 계단"
+      },
+      {
+        "icon": "water",
+        "label": "산꼭대기의 태라수호"
+      }
+    ],
+    "teal-masks": [
+      {
+        "icon": "water",
+        "label": "등꽃 연못"
+      },
+      {
+        "icon": "tunnel",
+        "label": "도깨비산 동굴 아래"
+      },
+      {
+        "icon": "desert",
+        "label": "낙원의 황무지"
+      }
+    ],
+    "teal-finale": [
+      {
+        "icon": "tunnel",
+        "label": "공포의 굴 앞"
+      },
+      {
+        "icon": "battle",
+        "label": "가면 4개에 대응"
+      },
+      {
+        "icon": "capture",
+        "label": "배틀 후 포획"
+      }
+    ],
+    "teal-loyal-catch": [
+      {
+        "icon": "desert",
+        "label": "조타구 · 낙원의 황무지"
+      },
+      {
+        "icon": "water",
+        "label": "이야후 · 등꽃 연못"
+      },
+      {
+        "icon": "cliff",
+        "label": "기로치 · 도깨비산 아래 길"
+      }
+    ],
+    "teal-bloodmoon": [
+      {
+        "icon": "book",
+        "label": "북신 도감 150종"
+      },
+      {
+        "icon": "camera",
+        "label": "안개 속 10종 촬영"
+      },
+      {
+        "icon": "battle",
+        "label": "레벨 70에 도전"
+      }
+    ],
+    "indigo-start": [
+      {
+        "icon": "check",
+        "label": "본편과 벽록의 가면"
+      },
+      {
+        "icon": "home",
+        "label": "블루베리로 교환 유학"
+      },
+      {
+        "icon": "double",
+        "label": "타로와 더블배틀"
+      },
+      {
+        "icon": "flag",
+        "label": "돔 안 첫 수업"
+      }
+    ],
+    "indigo-trials": [
+      {
+        "icon": "flag",
+        "label": "돔 중앙"
+      },
+      {
+        "icon": "home",
+        "label": "리그부에서 참가 신청"
+      },
+      {
+        "icon": "battle",
+        "label": "네 스퀘어에 도전"
+      }
+    ],
+    "indigo-crispin": [
+      {
+        "icon": "battle",
+        "label": "학생과 배틀·재료 교환"
+      },
+      {
+        "icon": "sandwich",
+        "label": "아주 매운 샌드위치"
+      },
+      {
+        "icon": "double",
+        "label": "하솔과 더블배틀"
+      }
+    ],
+    "indigo-amarys": [
+      {
+        "icon": "wing",
+        "label": "라이드 비행"
+      },
+      {
+        "icon": "gate",
+        "label": "공중 고리를 순서대로"
+      },
+      {
+        "icon": "double",
+        "label": "네리네와 더블배틀"
+      }
+    ],
+    "indigo-lacey": [
+      {
+        "icon": "screen",
+        "label": "그림을 자세히 보기"
+      },
+      {
+        "icon": "book",
+        "label": "퀴즈 5문제"
+      },
+      {
+        "icon": "double",
+        "label": "타로와 더블배틀"
+      }
+    ],
+    "indigo-drayton": [
+      {
+        "icon": "capture",
+        "label": "돔에서 직접 잡은 포켓몬"
+      },
+      {
+        "icon": "battle",
+        "label": "시험 상대 3명"
+      },
+      {
+        "icon": "double",
+        "label": "팀을 골라 제빈과 배틀"
+      }
+    ],
+    "indigo-champion": [
+      {
+        "icon": "check",
+        "label": "블루베리 사천왕 완료"
+      },
+      {
+        "icon": "gate",
+        "label": "학교 입구"
+      },
+      {
+        "icon": "double",
+        "label": "두 마리의 기술 맞추기"
+      }
+    ],
+    "indigo-finale": [
+      {
+        "icon": "gear",
+        "label": "제로랩 장치"
+      },
+      {
+        "icon": "cliff",
+        "label": "아래층으로"
+      },
+      {
+        "icon": "crystal",
+        "label": "길을 막은 수정 옆 배틀"
+      }
+    ],
+    "indigo-flight": [
+      {
+        "icon": "check",
+        "label": "남청의 원반 완료"
+      },
+      {
+        "icon": "book",
+        "label": "학교 3-2 교실"
+      },
+      {
+        "icon": "wing",
+        "label": "네리네와 이야기"
+      }
+    ],
+    "indigo-snacks": [
+      {
+        "icon": "home",
+        "label": "학교 입구 간식아저씨"
+      },
+      {
+        "icon": "check",
+        "label": "블루레크 완료"
+      },
+      {
+        "icon": "bag",
+        "label": "전설의 간식"
+      }
+    ],
+    "epilogue": [
+      {
+        "icon": "screen",
+        "label": "포켓포털 → 이상한 소포"
+      },
+      {
+        "icon": "bag",
+        "label": "환상복슝 받기"
+      },
+      {
+        "icon": "market",
+        "label": "스이록마을 도천상점 앞"
+      }
+    ],
+    "epilogue-nemona": [
+      {
+        "icon": "flag",
+        "label": "세벗 플라자"
+      },
+      {
+        "icon": "battle",
+        "label": "네모와 배틀"
+      },
+      {
+        "icon": "heart",
+        "label": "마을에서 팀 회복 가능"
+      }
+    ],
+    "epilogue-finale": [
+      {
+        "icon": "flag",
+        "label": "세벗 플라자"
+      },
+      {
+        "icon": "battle",
+        "label": "낯선 포켓몬과 배틀"
+      },
+      {
+        "icon": "capture",
+        "label": "볼 고르기"
+      }
+    ],
+    "star-rematches": [
+      {
+        "icon": "check",
+        "label": "스타단 이야기 완료"
+      },
+      {
+        "icon": "gate",
+        "label": "기지 다시 방문"
+      },
+      {
+        "icon": "battle",
+        "label": "보스와 재대결"
+      }
+    ],
+    "titan-catch": [
+      {
+        "icon": "flag",
+        "label": "첫 배틀 장소로"
+      },
+      {
+        "icon": "capture",
+        "label": "도망치지 않는 개체에 A 버튼"
+      },
+      {
+        "icon": "battle",
+        "label": "배틀에서 잡기"
+      }
+    ],
+    "teal-ogre-minigame": [
+      {
+        "icon": "capture",
+        "label": "색깔별 풍선 터뜨리기"
+      },
+      {
+        "icon": "apple",
+        "label": "같은 색 열매 바구니로"
+      },
+      {
+        "icon": "battle",
+        "label": "다가오는 포켓몬을 쫓기"
+      }
+    ],
+    "indigo-starters": [
+      {
+        "icon": "screen",
+        "label": "리그부 컴퓨터"
+      },
+      {
+        "icon": "book",
+        "label": "생태계 업그레이드"
+      },
+      {
+        "icon": "coin",
+        "label": "에리어 1곳에 3,000 BP"
+      }
+    ],
+    "indigo-coaches": [
+      {
+        "icon": "screen",
+        "label": "리그부 초대 목록"
+      },
+      {
+        "icon": "coin",
+        "label": "200 BP로 초대"
+      },
+      {
+        "icon": "home",
+        "label": "리그부에서 만나기"
+      }
+    ],
+    "indigo-paradox": [
+      {
+        "icon": "book",
+        "label": "북신 사진 모험과 블루베리 200종"
+      },
+      {
+        "icon": "camera",
+        "label": "사바나 휴게소에서 사진"
+      },
+      {
+        "icon": "cliff",
+        "label": "사진을 보고 에리어 제로로"
+      }
+    ]
+  },
+  "articles": {
+    "catch-basics": [
+      {
+        "icon": "shoes",
+        "label": "가까이 다가가기"
+      },
+      {
+        "icon": "health",
+        "label": "HP를 조금만 남기기"
+      },
+      {
+        "icon": "capture",
+        "label": "가방에서 볼 던지기"
+      }
+    ],
+    "charcadet-armor": [
+      {
+        "icon": "bag",
+        "label": "스칼렛 · 동미러의조각 10개"
+      },
+      {
+        "icon": "market",
+        "label": "피케마을에서 갑옷 교환"
+      },
+      {
+        "icon": "battle",
+        "label": "축복받은갑옷을 카르본에게"
+      }
+    ],
+    "gimmighoul-coins": [
+      {
+        "icon": "home",
+        "label": "전망대 위·유적 확인"
+      },
+      {
+        "icon": "coin",
+        "label": "모으령의코인 999개"
+      },
+      {
+        "icon": "battle",
+        "label": "모으령 레벨을 한 번 올리기"
+      }
+    ],
+    "ruin-stakes": [
+      {
+        "icon": "cliff",
+        "label": "활공과 절벽 오르기 준비"
+      },
+      {
+        "icon": "keys",
+        "label": "색별로 말뚝 8개"
+      },
+      {
+        "icon": "gate",
+        "label": "사당 앞에서 저장"
+      },
+      {
+        "icon": "capture",
+        "label": "레벨 60에 도전"
+      }
+    ],
+    "bloodmoon": [
+      {
+        "icon": "home",
+        "label": "스이록마을의 세류"
+      },
+      {
+        "icon": "camera",
+        "label": "서로 다른 10종 촬영"
+      },
+      {
+        "icon": "battle",
+        "label": "다투곰 · 레벨 70"
+      }
+    ],
+    "evolution-apples": [
+      {
+        "icon": "apple",
+        "label": "새콤한사과 → 애프룡"
+      },
+      {
+        "icon": "apple",
+        "label": "달콤한사과 → 단지래플"
+      },
+      {
+        "icon": "apple",
+        "label": "꿀맛사과 → 과미르"
+      },
+      {
+        "icon": "battle",
+        "label": "드래곤옐 + 레벨업 → 과미드라"
+      }
+    ],
+    "tera-shards": [
+      {
+        "icon": "meal",
+        "label": "참푸르체육관 클리어 후 보물식당"
+      },
+      {
+        "icon": "crystal",
+        "label": "원하는 타입 테라피스 50개"
+      },
+      {
+        "icon": "check",
+        "label": "포켓몬과 타입 선택"
+      }
+    ],
+    "tm-making": [
+      {
+        "icon": "home",
+        "label": "포켓몬센터"
+      },
+      {
+        "icon": "gear",
+        "label": "녹색 기술머신머신"
+      },
+      {
+        "icon": "bag",
+        "label": "LP와 재료 확인"
+      },
+      {
+        "icon": "book",
+        "label": "만들어서 기술 배우기"
+      }
+    ],
+    "item-printer": [
+      {
+        "icon": "home",
+        "label": "남청의 원반 리그부"
+      },
+      {
+        "icon": "screen",
+        "label": "과학부에 200 BP 지원"
+      },
+      {
+        "icon": "gear",
+        "label": "유실물과 BP 넣기"
+      },
+      {
+        "icon": "bag",
+        "label": "무작위 도구 받기"
+      }
+    ],
+    "sandwich": [
+      {
+        "icon": "flag",
+        "label": "평평한 곳에서 피크닉"
+      },
+      {
+        "icon": "sandwich",
+        "label": "빵 위에 재료 얹기"
+      },
+      {
+        "icon": "timer",
+        "label": "완성 뒤 식사 파워 확인"
+      }
+    ],
+    "egg": [
+      {
+        "icon": "heart",
+        "label": "알을 낳을 조합 준비"
+      },
+      {
+        "icon": "sandwich",
+        "label": "알 파워 음식"
+      },
+      {
+        "icon": "egg",
+        "label": "피크닉 바구니 확인"
+      },
+      {
+        "icon": "shoes",
+        "label": "팀에 넣고 이동"
+      }
+    ],
+    "mirror-herb": [
+      {
+        "icon": "market",
+        "label": "카라프시티에서 흉내허브"
+      },
+      {
+        "icon": "book",
+        "label": "배울 포켓몬 기술 한 칸 비우기"
+      },
+      {
+        "icon": "sandwich",
+        "label": "기술을 아는 포켓몬과 피크닉"
+      }
+    ],
+    "training-iv": [
+      {
+        "icon": "home",
+        "label": "프리지마을 포켓몬센터 근처"
+      },
+      {
+        "icon": "battle",
+        "label": "레벨 50 이상"
+      },
+      {
+        "icon": "coin",
+        "label": "은색병뚜껑 1개로 능력 하나"
+      }
+    ],
+    "raid-start": [
+      {
+        "icon": "crystal",
+        "label": "빛나는 결정 찾기"
+      },
+      {
+        "icon": "battle",
+        "label": "처음에는 1~2성"
+      },
+      {
+        "icon": "capture",
+        "label": "승리 후 포획·보상"
+      }
+    ],
+    "raid-unlock": [
+      {
+        "icon": "battle",
+        "label": "본편 배지와 스토리 진행"
+      },
+      {
+        "icon": "check",
+        "label": "학교 최강 선발 대회"
+      },
+      {
+        "icon": "crystal",
+        "label": "고난도 레이드 클리어"
+      }
+    ],
+    "raid-pick": [
+      {
+        "icon": "crystal",
+        "label": "상대 테라 타입 확인"
+      },
+      {
+        "icon": "battle",
+        "label": "잘 통하는 내 기술 확인"
+      },
+      {
+        "icon": "health",
+        "label": "상대가 쓸 공격도 대비"
+      }
+    ],
+    "raid-solo": [
+      {
+        "icon": "crystal",
+        "label": "3~4성에서 먼저 시험"
+      },
+      {
+        "icon": "battle",
+        "label": "상대 약점 기술 준비"
+      },
+      {
+        "icon": "heart",
+        "label": "공격하며 회복하거나 회복 응원"
+      }
+    ],
+    "raid-azumarill": [
+      {
+        "icon": "check",
+        "label": "특성 천하장사"
+      },
+      {
+        "icon": "battle",
+        "label": "치근거리기 준비"
+      },
+      {
+        "icon": "heart",
+        "label": "충분한 HP에서만 배북"
+      }
+    ],
+    "meal-powers": [
+      {
+        "icon": "sandwich",
+        "label": "하려는 일에 맞춰 식사"
+      },
+      {
+        "icon": "capture",
+        "label": "조우·포획"
+      },
+      {
+        "icon": "egg",
+        "label": "알·부화"
+      },
+      {
+        "icon": "timer",
+        "label": "효과 시간 확인"
+      }
+    ],
+    "ogre-oustin": [
+      {
+        "icon": "home",
+        "label": "북신센터에서 접수"
+      },
+      {
+        "icon": "capture",
+        "label": "같은 색 풍선 터뜨리기"
+      },
+      {
+        "icon": "apple",
+        "label": "바구니에 열매 넣기"
+      },
+      {
+        "icon": "battle",
+        "label": "열매를 빼앗기지 않게 지키기"
+      }
+    ],
+    "shiny-outbreak": [
+      {
+        "icon": "flag",
+        "label": "지도에서 대량발생 찾기"
+      },
+      {
+        "icon": "battle",
+        "label": "같은 무리에서 반복 배틀"
+      },
+      {
+        "icon": "screen",
+        "label": "색이 다른 개체 확인"
+      }
+    ],
+    "level-up": [
+      {
+        "icon": "crystal",
+        "label": "레이드에서 경험사탕 받기"
+      },
+      {
+        "icon": "bag",
+        "label": "가방에서 필요한 팀원에게"
+      },
+      {
+        "icon": "battle",
+        "label": "지역 레벨을 보고 도전"
+      }
+    ],
+    "trade-evo": [
+      {
+        "icon": "bag",
+        "label": "필요한 도구 지니기"
+      },
+      {
+        "icon": "double",
+        "label": "믿을 수 있는 상대와 교환"
+      },
+      {
+        "icon": "check",
+        "label": "진화 확인 후 돌려받기"
+      }
+    ],
+    "stones": [
+      {
+        "icon": "bag",
+        "label": "맞는 진화의 돌 준비"
+      },
+      {
+        "icon": "book",
+        "label": "가방에서 사용할 포켓몬 고르기"
+      },
+      {
+        "icon": "check",
+        "label": "새 모습 확인"
+      }
+    ]
+  }
+}

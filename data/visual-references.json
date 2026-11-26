@@ -1,0 +1,1149 @@
+{
+  "missions": {
+    "gym-cortondo": [
+      {
+        "title": "세르클마을로 가는 길과 올리브 굴리기",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/cortondo-gym/",
+        "language": "en"
+      }
+    ],
+    "titan-stony": [
+      {
+        "title": "암벽 길과 절벼게를 처음 만나는 곳",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/stony-cliff-titan/",
+        "language": "en"
+      }
+    ],
+    "gym-artazon": [
+      {
+        "title": "보울마을에서 해루미를 찾는 곳",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/artazon-gym/",
+        "language": "en"
+      }
+    ],
+    "titan-open-sky": [
+      {
+        "title": "풍차가 있는 길과 바위가 굴러오는 비탈",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/open-sky-titan/",
+        "language": "en"
+      }
+    ],
+    "star-dark": [
+      {
+        "title": "악 군단 입구와 스타단 배틀",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/dark-crew-base/",
+        "language": "en"
+      }
+    ],
+    "gym-levincia": [
+      {
+        "title": "누룩스시티 길과 숨바꼭질 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/levincia-gym/",
+        "language": "en"
+      }
+    ],
+    "star-fire": [
+      {
+        "title": "불꽃 군단 입구와 스타단 배틀",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/fire-crew-base/",
+        "language": "en"
+      }
+    ],
+    "titan-lurking-steel": [
+      {
+        "title": "꿈트렁이 드나드는 구덩이와 터널",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/lurking-steel-titan/",
+        "language": "en"
+      }
+    ],
+    "gym-cascarrafa": [
+      {
+        "title": "마리네이드마을 시장과 경매 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/cascarrafa-gym/",
+        "language": "en"
+      }
+    ],
+    "star-poison": [
+      {
+        "title": "표식의 나무숲과 독 군단 입구",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/poison-crew-base/",
+        "language": "en"
+      }
+    ],
+    "gym-medali": [
+      {
+        "title": "보물식당과 비밀 메뉴 주문 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/medali-gym/",
+        "language": "en"
+      }
+    ],
+    "gym-montenevera": [
+      {
+        "title": "눈 덮인 길과 프리지체육관 무대",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/montenevera-gym/",
+        "language": "en"
+      }
+    ],
+    "titan-quaking-earth": [
+      {
+        "title": "로스트 사막과 토진의 주인",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/quaking-earth-titan/",
+        "language": "en"
+      }
+    ],
+    "gym-alfornada": [
+      {
+        "title": "베이크마을로 가는 길과 체육관 테스트",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/alfornada-gym/",
+        "language": "en"
+      }
+    ],
+    "gym-glaseado": [
+      {
+        "title": "나페산 오르는 길과 눈길 슬라이딩",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/glaseado-gym/",
+        "language": "en"
+      }
+    ],
+    "star-fairy": [
+      {
+        "title": "북부 에리어 3와 페어리 군단 입구",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/fairy-crew-base/",
+        "language": "en"
+      }
+    ],
+    "star-fighting": [
+      {
+        "title": "산길과 격투 군단 아지트 입구",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/fighting-crew-base/",
+        "language": "en"
+      }
+    ],
+    "titan-false-dragon": [
+      {
+        "title": "오야 호수의 섬과 첫 만남 위치",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/false-dragon-titan/",
+        "language": "en"
+      }
+    ],
+    "intro": [
+      {
+        "title": "처음 포켓몬을 고르는 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-academy/",
+        "language": "en"
+      }
+    ],
+    "school": [
+      {
+        "title": "오렌지 아카데미와 보물찾기 출발 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-academy/",
+        "language": "en"
+      }
+    ],
+    "legend-final": [
+      {
+        "title": "등대 길과 마지막 배틀 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/path-of-legends/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "star-clavell": [
+      {
+        "title": "학교 입구와 운동장 배틀 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/starfall-street/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "star-final": [
+      {
+        "title": "학교 입구와 운동장 배틀 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/starfall-street/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "league": [
+      {
+        "title": "포켓몬리그 건물과 챔피언 로드 결승 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/victory-road/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "league-poppy": [
+      {
+        "title": "포켓몬리그 건물과 챔피언 로드 결승 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/victory-road/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "league-larry": [
+      {
+        "title": "포켓몬리그 건물과 챔피언 로드 결승 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/victory-road/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "league-hassel": [
+      {
+        "title": "포켓몬리그 건물과 챔피언 로드 결승 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/victory-road/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "league-geeta": [
+      {
+        "title": "포켓몬리그 건물과 챔피언 로드 결승 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/victory-road/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "league-nemona": [
+      {
+        "title": "포켓몬리그 건물과 챔피언 로드 결승 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/victory-road/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "area-zero": [
+      {
+        "title": "제로게이트부터 에리어 제로까지 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-way-home/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "gym-rematches": [
+      {
+        "title": "체육관 재대결과 학교 대회 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/post-game/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "academy-ace": [
+      {
+        "title": "체육관 재대결과 학교 대회 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/post-game/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "raid-six": [
+      {
+        "title": "체육관 재대결과 학교 대회 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/post-game/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "teal-start": [
+      {
+        "title": "스이록마을과 북신의 고장 공식 화면",
+        "url": "https://pokemonkorea.co.kr/sv_dlc/menu263?mode=view&number=2823",
+        "language": "ko"
+      },
+      {
+        "title": "자연 학교 출발부터 이어지는 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-teal-mask/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "teal-signboards": [
+      {
+        "title": "북신의 고장 안내판·축제·도깨비산 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-teal-mask/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "teal-festival": [
+      {
+        "title": "북신의 고장 안내판·축제·도깨비산 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-teal-mask/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "teal-mountain": [
+      {
+        "title": "북신의 고장 안내판·축제·도깨비산 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-teal-mask/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "teal-masks": [
+      {
+        "title": "북신의 고장 안내판·축제·도깨비산 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-teal-mask/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "teal-finale": [
+      {
+        "title": "북신의 고장 안내판·축제·도깨비산 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-teal-mask/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "teal-ogre-minigame": [
+      {
+        "title": "북신의 고장 안내판·축제·도깨비산 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-teal-mask/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "teal-loyal-catch": [
+      {
+        "title": "세벗의 위치를 보여 주는 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-the-teal-mask-dlc-walkthrough-where-to-find-the-loyal-three",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "teal-bloodmoon": [
+      {
+        "title": "세류와 사진 촬영 위치를 보여 주는 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-get-bloodmoon-ursaluna",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-start": [
+      {
+        "title": "블루베리 아카데미와 테라리움 돔 공식 화면",
+        "url": "https://pokemonkorea.co.kr/sv_dlc/menu263?mode=view&number=2824",
+        "language": "ko"
+      },
+      {
+        "title": "교환 유학부터 이어지는 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-indigo-disk/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-trials": [
+      {
+        "title": "테라리움 돔과 블루베리그 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-indigo-disk/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-crispin": [
+      {
+        "title": "테라리움 돔과 블루베리그 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-indigo-disk/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-amarys": [
+      {
+        "title": "테라리움 돔과 블루베리그 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-indigo-disk/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-lacey": [
+      {
+        "title": "테라리움 돔과 블루베리그 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-indigo-disk/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-drayton": [
+      {
+        "title": "테라리움 돔과 블루베리그 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-indigo-disk/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-champion": [
+      {
+        "title": "테라리움 돔과 블루베리그 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-indigo-disk/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-flight": [
+      {
+        "title": "테라리움 돔과 블루베리그 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/the-indigo-disk/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-finale": [
+      {
+        "title": "제로의 대공동 길과 마지막 배틀 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-catch-terapagos-in-the-indigo-disk-dlc",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-snacks": [
+      {
+        "title": "간식으로 만나는 전설 포켓몬 25종의 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-25-returning-legendary-pokemon-locations-in-the-indigo-disk",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "indigo-starters": [
+      {
+        "title": "테라리움 돔의 역대 첫 파트너 포켓몬 공식 화면",
+        "url": "https://pokemonkorea.co.kr/sv_dlc/menu335?mode=view&number=3141",
+        "language": "ko"
+      }
+    ],
+    "epilogue": [
+      {
+        "title": "환상복슝 받기와 도천상점 공식 화면",
+        "url": "https://pokemonkorea.co.kr/sv_dlc/menu267?mode=view&number=3288",
+        "language": "ko"
+      }
+    ],
+    "epilogue-nemona": [
+      {
+        "title": "번외편의 마을과 배틀 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/epilogue/",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "epilogue-finale": [
+      {
+        "title": "번외편의 마을과 배틀 게임 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/epilogue/",
+        "language": "en",
+        "spoilers": true
+      }
+    ]
+  },
+  "articles": {
+    "charcadet-armor": [
+      {
+        "title": "카르본 진화 갑옷을 주는 사람과 장소",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-evolve-charcadet-into-armarouge-ceruledge-how-to-get-auspicious-and-malicious-armor",
+        "language": "en"
+      }
+    ],
+    "gimmighoul-coins": [
+      {
+        "title": "망루의 모으령과 코인 획득 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-gimmighoul-coins-what-are-they-for",
+        "language": "en"
+      }
+    ],
+    "ruin-stakes": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "shrine-ting-lu": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "shrine-chi-yu": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "shrine-wo-chien": [
+      {
+        "title": "후목의 사당과 총지엔 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-get-wo-chien",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "shrine-chien-pao": [
+      {
+        "title": "동파의 사당과 파오젠 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-get-chien-pao",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "bloodmoon": [
+      {
+        "title": "세류와 사진 촬영 위치를 보여 주는 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-get-bloodmoon-ursaluna",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "loyal-three": [
+      {
+        "title": "세벗의 위치를 보여 주는 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-the-teal-mask-dlc-walkthrough-where-to-find-the-loyal-three",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "ogerpon-masks": [
+      {
+        "title": "가면별 모습과 획득 장면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-get-ogerpon",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "snacksworth": [
+      {
+        "title": "간식으로 만나는 전설 포켓몬 25종의 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-25-returning-legendary-pokemon-locations-in-the-indigo-disk",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "terarium-starters": [
+      {
+        "title": "테라리움 돔의 역대 첫 파트너 포켓몬 공식 화면",
+        "url": "https://pokemonkorea.co.kr/sv_dlc/menu335?mode=view&number=3141",
+        "language": "ko"
+      }
+    ],
+    "pecharunt": [
+      {
+        "title": "환상복슝 받기와 도천상점 공식 화면",
+        "url": "https://pokemonkorea.co.kr/sv_dlc/menu267?mode=view&number=3288",
+        "language": "ko"
+      }
+    ],
+    "home-and-events": [
+      {
+        "title": "이상한 소포를 받는 메뉴 공식 화면",
+        "url": "https://pokemonkorea.co.kr/sv_receive",
+        "language": "ko"
+      }
+    ],
+    "trade-evo": [
+      {
+        "title": "포켓포털 통신교환 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2623",
+        "language": "ko"
+      }
+    ],
+    "sandwich": [
+      {
+        "title": "피크닉·샌드위치·알 바구니 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2699",
+        "language": "ko"
+      }
+    ],
+    "ham-sandwich": [
+      {
+        "title": "피크닉·샌드위치·알 바구니 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2699",
+        "language": "ko"
+      }
+    ],
+    "friendship-picnic": [
+      {
+        "title": "피크닉·샌드위치·알 바구니 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2699",
+        "language": "ko"
+      }
+    ],
+    "egg": [
+      {
+        "title": "피크닉·샌드위치·알 바구니 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2699",
+        "language": "ko"
+      }
+    ],
+    "shiny-egg": [
+      {
+        "title": "피크닉·샌드위치·알 바구니 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2699",
+        "language": "ko"
+      }
+    ],
+    "meal-powers": [
+      {
+        "title": "샌드위치 재료와 완성 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-sandwiches-explained-all-sandwich-recipes-and-ingredients",
+        "language": "en"
+      }
+    ],
+    "avocado-sandwich": [
+      {
+        "title": "샌드위치 재료와 완성 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-sandwiches-explained-all-sandwich-recipes-and-ingredients",
+        "language": "en"
+      }
+    ],
+    "sparkling-sandwich": [
+      {
+        "title": "샌드위치 재료와 완성 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-sandwiches-explained-all-sandwich-recipes-and-ingredients",
+        "language": "en"
+      }
+    ],
+    "shiny-outbreak": [
+      {
+        "title": "대량발생과 색이 다른 포켓몬 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-catch-shiny-pokemon-and-improve-shiny-odds",
+        "language": "en"
+      }
+    ],
+    "raid-start": [
+      {
+        "title": "테라 레이드 결정과 배틀 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2625",
+        "language": "ko"
+      }
+    ],
+    "raid-unlock": [
+      {
+        "title": "테라 레이드 결정과 배틀 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2625",
+        "language": "ko"
+      }
+    ],
+    "raid-pick": [
+      {
+        "title": "테라 레이드 결정과 배틀 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2625",
+        "language": "ko"
+      }
+    ],
+    "raid-solo": [
+      {
+        "title": "테라 레이드 결정과 배틀 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2625",
+        "language": "ko"
+      }
+    ],
+    "raid-rewards": [
+      {
+        "title": "테라 레이드 결정과 배틀 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2625",
+        "language": "ko"
+      }
+    ],
+    "raid-events": [
+      {
+        "title": "테라 레이드 결정과 배틀 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2625",
+        "language": "ko"
+      }
+    ],
+    "raid-azumarill": [
+      {
+        "title": "테라 레이드 결정과 배틀 공식 화면",
+        "url": "https://www.pokemonkorea.co.kr/sv/menu189?mode=view&number=2625",
+        "language": "ko"
+      }
+    ],
+    "tm-making": [
+      {
+        "title": "포켓몬센터 기술머신머신과 제작 메뉴",
+        "url": "https://pokemonkorea.co.kr/sv/menu189?mode=view&number=2700",
+        "language": "ko"
+      }
+    ],
+    "training-iv": [
+      {
+        "title": "대단한 특훈 NPC와 병뚜껑 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-hyper-training-and-how-to-get-bottle-caps",
+        "language": "en"
+      }
+    ],
+    "item-printer": [
+      {
+        "title": "도구 프린터 지원 신청과 사용 메뉴",
+        "url": "https://www.gamepur.com/GUIDES/HOW-TO-GET-USE-THE-ITEM-PRINTER-IN-POKEMON-SCARLET-VIOLET-THE-INDIGO-DISK",
+        "language": "en"
+      }
+    ]
+  },
+  "points": {
+    "mossui": [
+      {
+        "title": "스이록마을과 북신의 고장 공식 화면",
+        "url": "https://pokemonkorea.co.kr/sv_dlc/menu263?mode=view&number=2823",
+        "language": "ko"
+      }
+    ],
+    "hall": [
+      {
+        "title": "스이록마을과 북신의 고장 공식 화면",
+        "url": "https://pokemonkorea.co.kr/sv_dlc/menu263?mode=view&number=2823",
+        "language": "ko"
+      }
+    ],
+    "grasswither": [
+      {
+        "title": "후목의 사당과 총지엔 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-get-wo-chien",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "icerend": [
+      {
+        "title": "동파의 사당과 파오젠 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-get-chien-pao",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "groundblight": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "firescourge": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "charcadet-armor": [
+      {
+        "title": "카르본 진화 갑옷을 주는 사람과 장소",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-evolve-charcadet-into-armarouge-ceruledge-how-to-get-auspicious-and-malicious-armor",
+        "language": "en"
+      }
+    ],
+    "snacksworth": [
+      {
+        "title": "간식으로 만나는 전설 포켓몬 25종의 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-25-returning-legendary-pokemon-locations-in-the-indigo-disk",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "starter-upgrade": [
+      {
+        "title": "테라리움 돔의 역대 첫 파트너 포켓몬 공식 화면",
+        "url": "https://pokemonkorea.co.kr/sv_dlc/menu335?mode=view&number=3141",
+        "language": "ko"
+      }
+    ],
+    "bloodmoon": [
+      {
+        "title": "세류와 사진 촬영 위치를 보여 주는 게임 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-how-to-get-bloodmoon-ursaluna",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "map-gym-cortondo": [
+      {
+        "title": "세르클마을로 가는 길과 올리브 굴리기",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/cortondo-gym/",
+        "language": "en"
+      }
+    ],
+    "map-titan-stony": [
+      {
+        "title": "암벽 길과 절벼게를 처음 만나는 곳",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/stony-cliff-titan/",
+        "language": "en"
+      }
+    ],
+    "map-gym-artazon": [
+      {
+        "title": "보울마을에서 해루미를 찾는 곳",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/artazon-gym/",
+        "language": "en"
+      }
+    ],
+    "map-titan-open-sky": [
+      {
+        "title": "풍차가 있는 길과 바위가 굴러오는 비탈",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/open-sky-titan/",
+        "language": "en"
+      }
+    ],
+    "map-star-dark": [
+      {
+        "title": "악 군단 입구와 스타단 배틀",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/dark-crew-base/",
+        "language": "en"
+      }
+    ],
+    "map-gym-levincia": [
+      {
+        "title": "누룩스시티 길과 숨바꼭질 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/levincia-gym/",
+        "language": "en"
+      }
+    ],
+    "map-star-fire": [
+      {
+        "title": "불꽃 군단 입구와 스타단 배틀",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/fire-crew-base/",
+        "language": "en"
+      }
+    ],
+    "map-titan-lurking-steel": [
+      {
+        "title": "꿈트렁이 드나드는 구덩이와 터널",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/lurking-steel-titan/",
+        "language": "en"
+      }
+    ],
+    "map-gym-cascarrafa": [
+      {
+        "title": "마리네이드마을 시장과 경매 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/cascarrafa-gym/",
+        "language": "en"
+      }
+    ],
+    "map-star-poison": [
+      {
+        "title": "표식의 나무숲과 독 군단 입구",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/poison-crew-base/",
+        "language": "en"
+      }
+    ],
+    "map-gym-medali": [
+      {
+        "title": "보물식당과 비밀 메뉴 주문 화면",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/medali-gym/",
+        "language": "en"
+      }
+    ],
+    "map-gym-montenevera": [
+      {
+        "title": "눈 덮인 길과 프리지체육관 무대",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/montenevera-gym/",
+        "language": "en"
+      }
+    ],
+    "map-titan-quaking-earth": [
+      {
+        "title": "로스트 사막과 토진의 주인",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/quaking-earth-titan/",
+        "language": "en"
+      }
+    ],
+    "map-gym-alfornada": [
+      {
+        "title": "베이크마을로 가는 길과 체육관 테스트",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/alfornada-gym/",
+        "language": "en"
+      }
+    ],
+    "map-gym-glaseado": [
+      {
+        "title": "나페산 오르는 길과 눈길 슬라이딩",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/glaseado-gym/",
+        "language": "en"
+      }
+    ],
+    "map-star-fairy": [
+      {
+        "title": "북부 에리어 3와 페어리 군단 입구",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/fairy-crew-base/",
+        "language": "en"
+      }
+    ],
+    "map-star-fighting": [
+      {
+        "title": "산길과 격투 군단 아지트 입구",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/fighting-crew-base/",
+        "language": "en"
+      }
+    ],
+    "map-titan-false-dragon": [
+      {
+        "title": "오야 호수의 섬과 첫 만남 위치",
+        "url": "https://www.pokeballinsider.com/pokemon-scarlet-violet-walkthrough/false-dragon-titan/",
+        "language": "en"
+      }
+    ],
+    "stake-purple-1": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-purple-2": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-purple-3": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-purple-4": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-purple-5": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-purple-6": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-purple-7": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-purple-8": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-yellow-1": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-yellow-2": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-yellow-3": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-yellow-4": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-yellow-5": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-yellow-6": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-yellow-7": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-yellow-8": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-green-1": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-green-2": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-green-3": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-green-4": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-green-5": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-green-6": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-green-7": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-green-8": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-blue-1": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-blue-2": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-blue-3": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-blue-4": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-blue-5": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-blue-6": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-blue-7": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ],
+    "stake-blue-8": [
+      {
+        "title": "색깔별 말뚝과 사당의 실제 위치 화면",
+        "url": "https://www.nintendolife.com/guides/pokemon-scarlet-and-violet-all-ominous-black-stake-locations",
+        "language": "en",
+        "spoilers": true
+      }
+    ]
+  }
+}
